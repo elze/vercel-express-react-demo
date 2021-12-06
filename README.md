@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+This is a React.js app with Express.js frontend created for Women Who Code Austin, TX frontend meetup to demonstrate running a full stack app on Vercel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To start the Express.js backend, `cd` to the `api` directory of this app and run `node index.js` . 
+
+Then `cd` to the top directory of this app, and run `npm start`. This will start the React.js frontend.
 
 ## Available Scripts
 
