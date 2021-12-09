@@ -2,6 +2,8 @@
 
 This is a React.js app with Express.js backend created for Women Who Code Austin, TX frontend meetup to demonstrate running a full stack app on Vercel.
 
+It is deployed here on Vercel: <a href="https://vercel-express-react-demo.vercel.app/">https://vercel-express-react-demo.vercel.app/</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To start the Express.js backend, `cd` to the `api` directory of this app and run `node index.js` . 
