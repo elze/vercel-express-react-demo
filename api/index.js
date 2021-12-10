@@ -31,6 +31,25 @@ app.get('/api/skills', (req, res) => {
 	}			
 })
 	
+	
+app.get('/api/primarySkill/:skillName', (req, res) => {
+	const { skillName } = req.params		
+	try {
+		const primarySkill = skillsData.allSkills.find(x => x.primary_term.toLowerCase() === skillName.toLowerCase());
+		if (!primarySkill) {
+			throw `Primary skill ${skillName} was not found`;
+		}
+		let associated_terms_sorted = primarySkill.associated_terms.sort((a, b) => parseFloat(b.ratio) - parseFloat(a.ratio));					
+		primarySkill.associated_terms = associated_terms_sorted;			
+		res.send(primarySkill);
+	}
+	catch(err) {
+		var errMessage = `${err}`;
+		processErrorResponse(res, 500, errMessage);
+	}
+})
+	
+	
 function processErrorResponse(res, statusCode, message) {
 	console.log(`${statusCode} ${message}`);
 	res.status(statusCode).send({
