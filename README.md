@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React.js app with Express.js backend
 
 This is a React.js app with Express.js backend created for Women Who Code Austin, TX frontend meetup to demonstrate running a full stack app on Vercel.
 
