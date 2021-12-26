@@ -20,6 +20,7 @@ app.get('/api/skills', (req, res) => {
 			}
 				
 			primarySkill.associated_terms = associated_terms_sorted;
+			primarySkill.showSecondary = false;
 			return primarySkill;
 		});
 		//console.log("About to send all the skills");

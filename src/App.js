@@ -1,36 +1,66 @@
 import React, {useEffect} from 'react';
 import './App.css';
 import Alert from 'react-bootstrap/Alert'
-import Button from 'react-bootstrap/Button'
+//import Button from 'react-bootstrap/Button'
 import Spinner from 'react-bootstrap/Spinner'
 
+import Button from '@mui/material/Button';
+
+import { SecondarySkill } from './SecondarySkill'
+
+
+function reducer(state, action) {
+	//console.log(`reducer: action.type = ${action.type}`);
+  switch (action.type) {
+      case 'stateFromBackend':
+		let stFromBackend = Object.assign({}, action.allSkills);
+		//console.log(`reducer case STATE_FROM_BACKEND: stFromBackend = ${JSON.stringify(stFromBackend)}`);
+			
+		return stFromBackend;	  
+	  case 'toggleButton': 
+		let newPrimarySkill = Object.assign({}, state.primary_skills[action.index], {showSecondary: !state.primary_skills[action.index].showSecondary});		
+		let newPS = Object.assign([...state.primary_skills], {[action.index]: newPrimarySkill});
+         
+		let newState = Object.assign({}, {primary_skills: newPS, error: null} );	  
+		return newState;
+    default:
+      throw new Error();
+  }
+}
 
 export function App() {
 	
-	const [allSkills, setAllSkills] = React.useState([]);	
+	const [errorState, setErrorState] = React.useState([]);	
+	const initialState = {};
+	const [allSkillsState, dispatch] = React.useReducer(reducer, initialState);
 	useEffect(() => {    
 		async function getAllSkills() {
-			let allSkillsInfo ;			
+			let allSkillsInfo;	
+			let errorInfo;
 			try {
 				const uri = `/api/skills`;
 				const response = await fetch(uri);
 				if (response.status !== 200) {
 					const error = await response.json();
 					const errorMessage = error.error?.message;
-					allSkillsInfo = {allSkills: {}, error: `Server error: ${errorMessage}`};
-					console.log(`getAllSkills: an error occurred: allSkillsInfo = ${JSON.stringify(allSkillsInfo)}`);
+					errorInfo = `Server error: ${errorMessage}`
+					setErrorState(errorInfo);
+					allSkillsInfo = {};
+					console.log(`getAllSkills: an error occurred: allSkillsInfo = ${JSON.stringify(allSkillsInfo)} errorInfo = ${errorInfo}`);
 				}			
 				else {
-					const body = await response.json();			
-					console.log(`getAllSkills: got response.json() ; response.status = ${response.status}`);
-					allSkillsInfo = {allSkills: body, error: null};
+					allSkillsInfo = await response.json();			
+					console.log(`getAllSkills: got response.json() ; response.status = ${response.status} errorInfo = ${errorInfo}`);
+					setErrorState(null);
 				}
 			}
 			catch(err) {
 				console.log(`getAllSkills: a network error occurred: err = ${err}`);
-				allSkillsInfo = {allSkills: {}, error: `Server error: ${err}`};
+				errorInfo = `Server error: ${err}`
+				allSkillsInfo = {};
+				setErrorState(errorInfo);
 			}
-			setAllSkills(allSkillsInfo);
+			dispatch({type: 'stateFromBackend', allSkills: allSkillsInfo});
 		}
 		getAllSkills();
 
@@ -41,23 +71,42 @@ export function App() {
         <header>
           <h1 className="Skills-title">Welcome to SkillClusters!</h1>
         </header>
-		 <div className="text-center" style={{ display: (allSkills?.allSkills?.primary_skills && allSkills?.allSkills?.primary_skills.length > 0) || allSkills?.error ? "none" : "block" }}>
+		 <div className="text-center" style={{ display: (allSkillsState?.primary_skills && allSkillsState?.primary_skills.length > 0) || errorState ? "none" : "block" }}>
 			<Spinner animation="border" role="status">
 			  <span className="sr-only">Loading...</span>
 			</Spinner>	
 		 </div>		
-		<div className="text-center" style={{ display: allSkills?.error ? "block" : "none" }}>
+		<div className="text-center">
+		  { 
+			(errorState && errorState.length > 0) ? 
 			<Alert variant="danger">
-				An error occurred: { allSkills?.error }
+				An error occurred: { errorState }
 			</Alert>
+			: ''	
+		  }			
 		</div>		 
         {
-          allSkills?.allSkills?.primary_skills?.map((primarySkill, ind) => { 
+          allSkillsState?.primary_skills?.map((primarySkill, ind) => { 
             return (
 			 <div key={primarySkill.primary_term}>
-				<Button variant="outline-primary" key={primarySkill.primary_term} className={'button-with-margin'} href="none">
+				<Button variant="outlined" key={primarySkill.primary_term} className={ `button-with-margin${ primarySkill.showSecondary ? ' button-open' : ''}` } href="#" 
+				onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 				{primarySkill.primary_term}
 				</Button>
+				<div>
+				  { 
+					primarySkill.showSecondary ? 
+					<span> {
+						primarySkill.associated_terms.map((secondarySkill) => {							
+						  return <SecondarySkill key={secondarySkill.secondary_term} primarySkill={primarySkill} secondarySkill={secondarySkill} />
+						  
+						}
+						)
+					}
+					</span>
+					: ''
+				  }
+				</div>				
 			 </div>
 			)
 		  }

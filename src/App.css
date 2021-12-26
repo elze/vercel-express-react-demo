@@ -17,6 +17,15 @@
   color: #61dafb;
 }
 
-.button-with-margin {
-  margin: 1em;
+a.button-with-margin {
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1 em;
+  color: DarkCyan;
+  text-transform: none;
+}
+
+a.button-open {
+  background-color: DarkCyan;
+  color: white;
 }
