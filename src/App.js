@@ -6,7 +6,7 @@ import Spinner from 'react-bootstrap/Spinner'
 
 import Button from '@mui/material/Button';
 
-import { SecondarySkill } from './SecondarySkill'
+import { PrimaryTerm } from './PrimaryTerm'
 
 
 function reducer(state, action) {
@@ -88,26 +88,7 @@ export function App() {
         {
           allSkillsState?.primary_skills?.map((primarySkill, ind) => { 
             return (
-			 <div key={primarySkill.primary_term}>
-				<Button variant="outlined" key={primarySkill.primary_term} className={ `button-with-margin${ primarySkill.showSecondary ? ' button-open' : ''}` } href="#" 
-				onClick={() => dispatch({type: 'toggleButton', index: ind})}>
-				{primarySkill.primary_term}
-				</Button>
-				<div>
-				  { 
-					primarySkill.showSecondary ? 
-					<span> {
-						primarySkill.associated_terms.map((secondarySkill) => {							
-						  return <SecondarySkill key={secondarySkill.secondary_term} primarySkill={primarySkill} secondarySkill={secondarySkill} />
-						  
-						}
-						)
-					}
-					</span>
-					: ''
-				  }
-				</div>				
-			 </div>
+			<PrimaryTerm primarySkill={primarySkill} ind={ind} dispatch={dispatch} />		
 			)
 		  }
 		  )
