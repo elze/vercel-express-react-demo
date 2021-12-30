@@ -1,10 +1,7 @@
 import React, {useEffect} from 'react';
 import './App.css';
 import Alert from 'react-bootstrap/Alert'
-//import Button from 'react-bootstrap/Button'
 import Spinner from 'react-bootstrap/Spinner'
-
-import Button from '@mui/material/Button';
 
 import { PrimaryTerm } from './PrimaryTerm'
 
@@ -88,7 +85,7 @@ export function App() {
         {
           allSkillsState?.primary_skills?.map((primarySkill, ind) => { 
             return (
-			<PrimaryTerm primarySkill={primarySkill} ind={ind} dispatch={dispatch} />		
+			<PrimaryTerm key={primarySkill.primary_term} primarySkill={primarySkill} ind={ind} dispatch={dispatch} />		
 			)
 		  }
 		  )
