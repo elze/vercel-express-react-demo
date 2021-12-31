@@ -20,7 +20,7 @@ export function SecondarySkill({ primarySkill, secondarySkill }) {
 	return (
 	<Button variant="outlined" 
 	href= { `/jobsnippets/${secondarySkill.id}/${primarySkill.primary_term}/${secondarySkill.secondary_term}` }
-	className={classes.buttonWithMargin + ' ' + utils.getButtonColor(secondarySkill.ratio)} >
+	className={classes.buttonWithMargin + ' ' + utils.getButtonClass(secondarySkill.ratio)} >
 	  { secondarySkill.secondary_term }&nbsp;
 	  <span className={"small"}>{secondarySkill.ratio}</span>
 	</Button>

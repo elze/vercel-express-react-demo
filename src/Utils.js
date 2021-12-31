@@ -1,5 +1,5 @@
 const utils = {
-	getButtonColor(ratio){
+	getButtonClass(ratio){
 	  const ratioNum = parseFloat(ratio);
 	  if (ratioNum <= 0.2) {
 		  return "color_02"

@@ -68,7 +68,7 @@ export function App() {
         <header>
           <h1 className="Skills-title">Welcome to SkillClusters!</h1>
         </header>
-		 <div className="text-center" style={{ display: (allSkillsState?.primary_skills && allSkillsState?.primary_skills.length > 0) || errorState ? "none" : "block" }}>
+		 <div style={{ display: (allSkillsState?.primary_skills && allSkillsState?.primary_skills.length > 0) || errorState ? "none" : "block" }}>
 			<Spinner animation="border" role="status">
 			  <span className="sr-only">Loading...</span>
 			</Spinner>	
