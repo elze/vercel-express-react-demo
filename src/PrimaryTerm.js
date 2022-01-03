@@ -3,6 +3,7 @@ import { SecondarySkill } from './SecondarySkill'
 
 import { makeStyles } from '@mui/styles';
 import clsx from 'clsx';
+import utils from './Utils';
 
 const useStyles = makeStyles({
 	buttonWithMargin: {
@@ -15,7 +16,15 @@ const useStyles = makeStyles({
 	buttonExpanded: {
 		backgroundColor: 'DarkCyan',
 		color: 'white'
-	}	
+	},
+	secondaryArea: {
+		padding: '20px',
+		marginLeft: '30px',
+		marginRight: '30px',
+		marginTop: '20px',
+		marginBottom: '20px',
+		backgroundColor: 'AliceBlue'
+	}
 });
 
 
@@ -29,7 +38,7 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
-	<div className="text-aligned-left">
+	<div className={clsx({[classes.secondaryArea]: primarySkill.showSecondary})}>
 	  { 
 		primarySkill.showSecondary ? 
 		<span> {

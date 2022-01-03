@@ -16,34 +16,3 @@
 .App-link {
   color: #61dafb;
 }
-
-a.color_02 {
-}
-
-a.color_04 {
-	background-color: #ebfafa;
-	padding-bottom:5px;
-	padding-top:5px;	
-}
-
-a.color_06 {
-	background-color: #c2f0f0;
-	padding-bottom:10px;
-	padding-top:10px;		
-}
-
-a.color_08 {
-	background-color: #99e6e6;
-	padding-bottom:15px;
-	padding-top:15px;		
-}
-
-a.color_10 {
-	background-color: #70dbdb;
-	padding-bottom:20px;
-	padding-top:20px;		
-}
-
-div.text-aligned-left {
-	text-align: left;
-}

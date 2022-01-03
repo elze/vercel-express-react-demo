@@ -14,7 +14,7 @@ const utils = {
 		  return "color_08"
 	  }
 	  return "color_10";
-  }  
+  }
 };
 
 export default utils;		
