@@ -3,7 +3,6 @@ import { SecondarySkill } from './SecondarySkill'
 
 import { makeStyles } from '@mui/styles';
 import clsx from 'clsx';
-import utils from './Utils';
 
 const useStyles = makeStyles({
 	buttonWithMargin: {
