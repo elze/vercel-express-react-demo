@@ -65,8 +65,12 @@ export function App() {
 	
   return (
     <div className="App">
-        <header>
-          <h1 className="Skills-title">Welcome to SkillClusters!</h1>
+        <header className="my-app">
+          <h1 className="Skills-title">Application with Express.js and React.js, running on Vercel</h1>
+		  It was created for Women Who Code Austin, TX frontend meetup to demonstrate running a full stack app on Vercel. Here is the Github repository: <a href="https://github.com/elze/vercel-express-react-demo">https://github.com/elze/vercel-express-react-demo</a>.<br/> 
+		  Here is the <a href="http://geekitude.com">author's website</a>.<br/>
+		  Here is my presentation explaining <a href="http://geekitude.com/Presentations/20211205-Vercel-Express-React/20211208-Vercel.html">how to run full-stack applications on Vercel</a>.<br/>
+		  (The data in this application does not make much sense -- I borrowed it from another of my projects, which is still very much a work in progress.)<br/>  		  
         </header>
 		 <div style={{ display: (allSkillsState?.primary_skills && allSkillsState?.primary_skills.length > 0) || errorState ? "none" : "block" }}>
 			<Spinner animation="border" role="status">
