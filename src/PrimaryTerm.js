@@ -21,7 +21,7 @@ const useStyles = makeStyles({
 		color: 'white'
 	},
 	hasManyAssociations: {
-		borderColor: 'DarkOrchid',
+		backgroundColor: '#f0f5f5',
 		borderWidth: '2px'
 	},	
 	secondaryArea: {
@@ -43,7 +43,7 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
 	className={clsx(classes.buttonWithMargin, 
 	{
 		[classes.buttonExpanded]: primarySkill.showSecondary,
-		[classes.hasManyAssociations]: primarySkill.associated_terms.length > 9
+		[classes.hasManyAssociations]: !primarySkill.showSecondary && primarySkill.associated_terms.length > 9
 	})} 
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
