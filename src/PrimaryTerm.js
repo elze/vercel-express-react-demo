@@ -11,11 +11,19 @@ const useStyles = makeStyles({
 	  marginRight: '1em',
 	  color: 'DarkCyan',
 	  textTransform: 'none',
+	  '&:hover': {
+		  backgroundColor: '#fff',
+		  color: '#3c52b2',
+	  },	  
 	},
 	buttonExpanded: {
 		backgroundColor: 'DarkCyan',
 		color: 'white'
 	},
+	hasManyAssociations: {
+		borderColor: 'DarkOrchid',
+		borderWidth: '2px'
+	},	
 	secondaryArea: {
 		padding: '20px',
 		marginLeft: '30px',
@@ -26,14 +34,17 @@ const useStyles = makeStyles({
 	}
 });
 
-
 export function PrimaryTerm ({ primarySkill, ind, dispatch }) {	
 	const classes = useStyles();
 	const id = primarySkill.primary_term.split(' ').join('-');
   return (
  <div id={id} key={primarySkill.primary_term}>
 	<Button variant="outlined" key={primarySkill.primary_term} 
-	className={clsx(classes.buttonWithMargin, {[classes.buttonExpanded]: primarySkill.showSecondary})} 
+	className={clsx(classes.buttonWithMargin, 
+	{
+		[classes.buttonExpanded]: primarySkill.showSecondary,
+		[classes.hasManyAssociations]: primarySkill.associated_terms.length > 9
+	})} 
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
