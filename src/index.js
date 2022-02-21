@@ -3,14 +3,50 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { StyledEngineProvider } from '@mui/material/styles';
+import { StyledEngineProvider, ThemeProvider, createTheme } from '@mui/material/styles';
+//import amber from '@material-ui/core/colors/amber';
+import deepOrange from '@material-ui/core/colors/deepOrange';
+import teal from '@material-ui/core/colors/teal';
+//import orange from '@material-ui/core/colors/orange';
+//import purple from '@material-ui/core/colors/purple';
+
+const tealYellowTheme = createTheme({
+  palette: {
+    primary: {
+	  main: teal[500] 
+    },
+    secondary: {
+	  main: deepOrange[100]
+    },
+	/*
+	warning: {
+		main: purple[100]
+	},
+	*/
+    text: {
+	  inverse: teal[50]
+    },	
+  },
+  spacing: 8,  
+  typography: {
+	button: {
+		textTransform: "none",
+		':hover': {
+		  color: `${deepOrange[500]} !important`,
+		  backgroundColor: `${deepOrange[50]} !important`,
+		},
+	}
+  }  
+});
 
 
 ReactDOM.render(
   <StyledEngineProvider injectFirst>
+  <ThemeProvider theme={tealYellowTheme}>
   <React.StrictMode>
     <App />
   </React.StrictMode>
+  </ThemeProvider>
   </StyledEngineProvider>,
   document.getElementById('root')
 );
