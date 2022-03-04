@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { StyledEngineProvider, ThemeProvider, createTheme } from '@mui/material/styles';
 //import amber from '@material-ui/core/colors/amber';
 import deepOrange from '@material-ui/core/colors/deepOrange';
+import red from '@material-ui/core/colors/red';
 import teal from '@material-ui/core/colors/teal';
 //import orange from '@material-ui/core/colors/orange';
 //import purple from '@material-ui/core/colors/purple';
@@ -18,6 +19,9 @@ const tealYellowTheme = createTheme({
     secondary: {
 	  main: deepOrange[100]
     },
+	danger: {
+		main: red[100]
+	},
 	/*
 	warning: {
 		main: purple[100]

@@ -4,7 +4,8 @@ app.use(bodyParser.json());
 
 const https = require('https');
 const http = require('http');
-var skillsData = require('./skillsData.js')
+//var skillsData = require('./skillsData.js')
+var termsData = require('./termsSelectData.js')
 
 app.set('port', (process.env.PORT || 8081));
 
@@ -50,6 +51,24 @@ app.get('/api/primarySkill/:skillName', (req, res) => {
 	}
 })
 	
+app.get('/api/terms', (req, res) => {
+	try {			
+		let transformedSkills = [];
+		Object.keys(termsData.allTerms).forEach(primarySkill => {		
+		//console.log(`/api/terms: primarySkill = ${primarySkill} termsData.allTerms[primarySkill] = ${JSON.stringify(termsData.allTerms[primarySkill])}`);
+			primarySkill.totalCount = termsData.allTerms[primarySkill].categories.length;
+			let categories_sorted = termsData.allTerms[primarySkill].categories.sort((a, b) => parseInt(b.filesAndPhrases.length) - parseInt(a.filesAndPhrases.length));				
+			termsData.allTerms[primarySkill].categories = categories_sorted;
+			termsData.allTerms[primarySkill].showSecondary = false;
+			transformedSkills.push({primary_term: primarySkill, categories: termsData.allTerms[primarySkill].categories});
+		});
+		res.send({primary_skills: transformedSkills});				
+	}
+	catch(err) {
+		var errMessage = `${err}`;
+		processErrorResponse(res, 500, errMessage);
+	}			
+})	
 	
 function processErrorResponse(res, statusCode, message) {
 	console.log(`${statusCode} ${message}`);

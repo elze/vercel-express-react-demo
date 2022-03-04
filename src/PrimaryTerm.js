@@ -1,5 +1,6 @@
 import Button from '@mui/material/Button';
-import { SecondarySkill } from './SecondarySkill'
+//import { SecondarySkill } from './SecondarySkill'
+import { SkillCategory } from './SkillCategory'
 
 import { makeStyles } from '@mui/styles';
 import clsx from 'clsx';
@@ -19,7 +20,8 @@ const useStyles = makeStyles((theme)=>({
 		marginRight: '30px',
 		marginTop: '20px',
 		marginBottom: '20px',
-		backgroundColor: 'AliceBlue'
+		/* backgroundColor: 'AliceBlue' */
+		backgroundColor: '#f9fcff'
 	}
 }));
 
@@ -32,7 +34,7 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
 	className={clsx(
 	{
 		[classes.buttonExpanded]: primarySkill.showSecondary,
-		[classes.hasManyAssociations]: !primarySkill.showSecondary && primarySkill.associated_terms.length > 9
+		[classes.hasManyAssociations]: !primarySkill.showSecondary && primarySkill.categories.length > 9
 	}
 	)}
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
@@ -42,8 +44,8 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
 	  { 
 		primarySkill.showSecondary ? 
 		<span> {
-			primarySkill.associated_terms.map((secondarySkill) => {							
-			  return <SecondarySkill key={secondarySkill.secondary_term} primarySkill={primarySkill} secondarySkill={secondarySkill} />			  
+			primarySkill.categories.map((category) => {							
+			  return <SkillCategory key={category.categoryName} primarySkill={primarySkill} category={category} />			  
 			}
 			)
 		}

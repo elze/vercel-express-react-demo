@@ -1,6 +1,7 @@
 import React, {useEffect} from 'react';
 import './App.css';
-import Alert from 'react-bootstrap/Alert'
+//import Alert from 'react-bootstrap/Alert'
+import Alert from '@mui/material/Alert'
 import Spinner from 'react-bootstrap/Spinner'
 
 import { PrimaryTerm } from './PrimaryTerm'
@@ -35,7 +36,7 @@ export function App() {
 			let allSkillsInfo;	
 			let errorInfo;
 			try {
-				const uri = `/api/skills`;
+				const uri = `/api/terms`;
 				const response = await fetch(uri);
 				if (response.status !== 200) {
 					const error = await response.json();
@@ -80,7 +81,7 @@ export function App() {
 		<div className="text-center">
 		  { 
 			(errorState && errorState.length > 0) ? 
-			<Alert variant="danger">
+			<Alert color="error">
 				An error occurred: { errorState }
 			</Alert>
 			: ''	
