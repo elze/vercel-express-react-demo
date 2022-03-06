@@ -16,7 +16,7 @@ function reducer(state, action) {
 			
 		return stFromBackend;	  
 	  case 'toggleButton': 
-		let newPrimarySkill = Object.assign({}, state.primary_skills[action.index], {showSecondary: !state.primary_skills[action.index].showSecondary});		
+		let newPrimarySkill = Object.assign({}, state.primary_skills[action.index], {showCategories: !state.primary_skills[action.index].showCategories});		
 		let newPS = Object.assign([...state.primary_skills], {[action.index]: newPrimarySkill});
          
 		let newState = Object.assign({}, {primary_skills: newPS, error: null} );	  

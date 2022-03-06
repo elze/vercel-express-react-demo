@@ -33,16 +33,16 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
 	<Button variant="outlined" sx={{ m: 1 }} key={primarySkill.primary_term} 
 	className={clsx(
 	{
-		[classes.buttonExpanded]: primarySkill.showSecondary,
-		[classes.hasManyAssociations]: !primarySkill.showSecondary && primarySkill.categories.length > 9
+		[classes.buttonExpanded]: primarySkill.showCategories,
+		[classes.hasManyAssociations]: !primarySkill.showCategories && primarySkill.categories.length > 9
 	}
 	)}
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
-	<div className={clsx({[classes.secondaryArea]: primarySkill.showSecondary})}>
+	<div className={clsx({[classes.secondaryArea]: primarySkill.showCategories})}>
 	  { 
-		primarySkill.showSecondary ? 
+		primarySkill.showCategories ? 
 		<span> {
 			primarySkill.categories.map((category) => {							
 			  return <SkillCategory key={category.categoryName} primarySkill={primarySkill} category={category} />			  
