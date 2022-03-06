@@ -6,7 +6,7 @@ import { makeStyles } from '@mui/styles';
 import clsx from 'clsx';
 
 const useStyles = makeStyles({
-	buttonWithMargin: {
+	buttonDefault: {
 	  marginBottom: '1em',
 	  marginLeft: '1em',
 	  marginRight: '1em',
@@ -21,16 +21,18 @@ const useStyles = makeStyles({
 		backgroundColor: 'DarkCyan',
 		color: 'white'
 	},
-	hasManyAssociations: {
+	hasManyCategories: {
 		backgroundColor: '#f0f5f5',
 		borderWidth: '2px'
 	},	
 	secondaryArea: {
-		padding: '20px',
+		paddingLeft: '20px',
+		paddingRight: '20px',
+		/* paddingTop: '3px', */
 		marginLeft: '30px',
 		marginRight: '30px',
-		marginTop: '20px',
-		marginBottom: '20px',
+		/* marginTop: '5px',
+		marginBottom: '5px', */
 		/* backgroundColor: 'AliceBlue' */
 		backgroundColor: '#f9fcff'
 	}
@@ -42,15 +44,15 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
   return (
  <div id={id} key={primarySkill.primary_term}>
 	<Button variant="outlined" key={primarySkill.primary_term} 
-	className={clsx(classes.buttonWithMargin, 
+	className={clsx(classes.buttonDefault, 
 	{
 		[classes.buttonExpanded]: primarySkill.showCategories,
-		[classes.hasManyAssociations]: !primarySkill.showCategories && primarySkill.categories.length > 9
+		[classes.hasManyCategories]: !primarySkill.showCategories && primarySkill.categories.length > 9
 	})} 
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
-	<div className={clsx({[classes.secondaryArea]: primarySkill.showSecondary})}>
+	<div className={clsx({[classes.secondaryArea]: primarySkill.showCategories})}>
 	  { 
 		primarySkill.showCategories ? 
 		<span> {
