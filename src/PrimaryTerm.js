@@ -1,5 +1,4 @@
 import Button from '@mui/material/Button';
-//import { SecondarySkill } from './SecondarySkill'
 import { SkillCategory } from './SkillCategory'
 
 import { makeStyles } from '@mui/styles';
@@ -28,12 +27,8 @@ const useStyles = makeStyles({
 	secondaryArea: {
 		paddingLeft: '20px',
 		paddingRight: '20px',
-		/* paddingTop: '3px', */
 		marginLeft: '30px',
 		marginRight: '30px',
-		/* marginTop: '5px',
-		marginBottom: '5px', */
-		/* backgroundColor: 'AliceBlue' */
 		backgroundColor: '#f9fcff'
 	}
 });
