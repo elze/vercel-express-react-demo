@@ -1,11 +1,11 @@
 import Button from '@mui/material/Button';
-import { SecondarySkill } from './SecondarySkill'
+import { SkillCategory } from './SkillCategory'
 
 import { makeStyles } from '@mui/styles';
 import clsx from 'clsx';
 
 const useStyles = makeStyles({
-	buttonWithMargin: {
+	buttonDefault: {
 	  marginBottom: '1em',
 	  marginLeft: '1em',
 	  marginRight: '1em',
@@ -20,17 +20,16 @@ const useStyles = makeStyles({
 		backgroundColor: 'DarkCyan',
 		color: 'white'
 	},
-	hasManyAssociations: {
+	hasManyCategories: {
 		backgroundColor: '#f0f5f5',
 		borderWidth: '2px'
 	},	
 	secondaryArea: {
-		padding: '20px',
+		paddingLeft: '20px',
+		paddingRight: '20px',
 		marginLeft: '30px',
 		marginRight: '30px',
-		marginTop: '20px',
-		marginBottom: '20px',
-		backgroundColor: 'AliceBlue'
+		backgroundColor: '#f9fcff'
 	}
 });
 
@@ -40,20 +39,20 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
   return (
  <div id={id} key={primarySkill.primary_term}>
 	<Button variant="outlined" key={primarySkill.primary_term} 
-	className={clsx(classes.buttonWithMargin, 
+	className={clsx(classes.buttonDefault, 
 	{
-		[classes.buttonExpanded]: primarySkill.showSecondary,
-		[classes.hasManyAssociations]: !primarySkill.showSecondary && primarySkill.associated_terms.length > 9
+		[classes.buttonExpanded]: primarySkill.showCategories,
+		[classes.hasManyCategories]: !primarySkill.showCategories && primarySkill.categories.length > 9
 	})} 
 	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
-	<div className={clsx({[classes.secondaryArea]: primarySkill.showSecondary})}>
+	<div className={clsx({[classes.secondaryArea]: primarySkill.showCategories})}>
 	  { 
-		primarySkill.showSecondary ? 
+		primarySkill.showCategories ? 
 		<span> {
-			primarySkill.associated_terms.map((secondarySkill) => {							
-			  return <SecondarySkill key={secondarySkill.secondary_term} primarySkill={primarySkill} secondarySkill={secondarySkill} />			  
+			primarySkill.categories.map((category) => {							
+			  return <SkillCategory key={category.categoryName} primarySkill={primarySkill} category={category} />
 			}
 			)
 		}
