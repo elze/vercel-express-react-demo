@@ -515,6 +515,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "JS frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "AngularJS and other JS frameworks"
+			}						
+		]
+	},				
+	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
 			{
@@ -1772,6 +1781,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "front-end-framework for responsive design", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-end-framework for responsive design (Bootstrap"
+			}
+		]
+	},			
+	{
 		"categoryName": "Javascript frameworks", 
 		"filesAndPhrases": [
 			{
@@ -2156,6 +2174,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "testing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}
+		]
+	},	
+	{
 		"categoryName": "unit testing frameworks", 
 		"filesAndPhrases": [
 			{
@@ -2315,6 +2342,15 @@ exports.allTerms = {
 			}		
 		]
 	},		
+	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML, CSS"
+			}
+		]
+	},			
 	{
 		"categoryName": "libraries/toolkits", 
 		"filesAndPhrases": [		
@@ -4344,10 +4380,19 @@ exports.allTerms = {
 			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220208\d5144a84-2c06-447b-9779-10e668bb2fbd.txt",
-			"phrase": "front-end technologies such as HTML, CSS"
+			"phrase": "front-end technologies such as HTML"
 			}					
 		]
 	},	
+	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML"
+			}
+		]
+	},			
 	{
 		"categoryName": "tools and technologies", 
 		"filesAndPhrases": [
@@ -4678,7 +4723,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201802\20180213\715e90c9-663c-4d5d-b5a7-df84ad15168a.txt",
 			"phrase": "Testing frameworks (ex: Karma, Jasmine"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},
 	{
@@ -4942,6 +4991,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML, CSS, JavaScript"
+			}
+		]
+	},					
 	{
 		"categoryName": "general-purpose programming languages", 
 		"filesAndPhrases": [
@@ -5315,7 +5373,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210905\3f9d3d13-f637-4faa-9318-a8fa8cbdebf6.txt",
 			"phrase": "Testing frameworks (e.g. Jest"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},	
 	]
@@ -5595,7 +5657,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210808\8f4bd7f1-923d-4ac7-bf88-34ca3178ed8c.txt",
 			"phrase": "messaging systems like Kafka"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "messaging systems like Kafka"
+			}			
 		]
 	},
 	{
@@ -6232,7 +6298,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201802\20180213\715e90c9-663c-4d5d-b5a7-df84ad15168a.txt",
 			"phrase": "Testing frameworks (ex: Karma, Jasmine, Mocha"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},
 	{
@@ -6330,6 +6400,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210910\1959cf88-7328-48aa-9817-0665e3c24cef.txt",
 			"phrase": "non-relational database technologies - MongoDB"
 			}
+		]
+	},
+	{
+		"categoryName": "Non-relational databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Non-relational databases (MongoDB"
+			}						
 		]
 	},	
 	{
@@ -6680,7 +6759,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220212\89e0d8ec-846e-4d6e-acb4-bb80c7a8bb34.txt",
 			"phrase": "databases (DB2, MySQL"
-			}	
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "database (e.g., MySQL"
+			}						
 		]			
 	},					
 	{
@@ -7376,7 +7459,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211223\7445e0c3-0da1-485a-8773-709d4d06bdba.txt",
 			"phrase": "databases such as MySQL, Oracle"
-			}			
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "database (e.g., MySQL, Oracle"
+			}									
 		]
 	},	
 	{
@@ -8053,7 +8140,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171010\311c0214-2828-4d0e-8e4f-f164015b1ccb.txt",
 			"phrase": "Messaging systems - SNS/SQS, RabbitMQ"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "messaging systems like Kafka, RabbitMQ"
+			}			
 		]
 	},
 	{
@@ -10002,7 +10093,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220223\6f1f4f4d-af2e-49f5-836f-630976664745.txt",
 			"phrase": "relational database background (MS-SQL"
-			}										
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Relational databases other than SQL Server"
+			}			
 		]
 	},	
 	{
