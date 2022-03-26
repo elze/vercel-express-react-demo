@@ -522,7 +522,16 @@ exports.allTerms = {
 			"phrase": "AngularJS and other JS frameworks"
 			}						
 		]
-	},				
+	},
+	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular"
+			}						
+		]
+	},		
 	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
@@ -578,6 +587,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "modern frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2016\201603\20160320\7cd39471-713e-4ec3-b30a-2ad2e0d6264c.txt",
+			"phrase": "experience in modern frameworks (Node, Angular"
+			}
+		]
+	},		
+	{
 		"categoryName": "modern frontend frameworks and libraries", 
 		"filesAndPhrases": [
 			{
@@ -622,14 +640,14 @@ exports.allTerms = {
 		]
 	},	
 	{
-		"categoryName": "modern frameworks", 
+		"categoryName": "modern JS web frameworks for building responsive UI", 
 		"filesAndPhrases": [
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2016\201603\20160320\7cd39471-713e-4ec3-b30a-2ad2e0d6264c.txt",
-			"phrase": "experience in modern frameworks (Node, Angular"
-			}
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular"
+			}						
 		]
-	},	
+	},					
 	{
 		"categoryName": "modern libraries/frameworks", 
 		"filesAndPhrases": [
@@ -2679,7 +2697,16 @@ exports.allTerms = {
 			"phrase": "web framework such as CodeIgniter, Django"
 			}
 		]
-	},					
+	},
+	{
+		"categoryName": "web platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "web platforms like Liferay and Django"
+			}						
+		]
+	}	
 	]
 },
 "Docker": {
@@ -3789,6 +3816,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "collaboration tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\4c99f21b-d03b-4328-8e26-f439c7c29da1.txt",
+			"phrase": "git and other collaboration tools"
+			}
+		]
+	},			
 	{
 		"categoryName": "Continuous integration/continuous deployment", 
 		"filesAndPhrases": [
@@ -6458,6 +6494,24 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "relational and non-relational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210910\1959cf88-7328-48aa-9817-0665e3c24cef.txt",
+			"phrase": "relational and non-relational database technologies - MongoDB"
+			}
+		]
+	},		
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL, PostGres, CouchDB, MongoDB"
+			}						
+		]
+	},	
+	{
 		"categoryName": "relational DBs", 
 		"filesAndPhrases": [
 			{
@@ -6825,6 +6879,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210910\1959cf88-7328-48aa-9817-0665e3c24cef.txt",
 			"phrase": "relational and non-relational database technologies - MongoDB, MySQL"
 			}
+		]
+	},	
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL"
+			}						
 		]
 	},		
 	{
@@ -8338,7 +8401,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211216\e0443b1f-f62e-4dde-8ec4-50591f55cc4f.txt",
 			"phrase": "front-end frameworks: ReactJS"
-			}						
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220324\1457c255-feaf-49c7-92a8-3eff66ef47e2.txt",
+			"phrase": "front-end framework (we use React"
+			}					
 		]
 	},	
 	{
@@ -8494,6 +8561,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React"
+			}						
+		]
+	},					
+	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
 			{
@@ -8587,6 +8663,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211212\53f35342-dc5c-4300-a5cd-9340030bcb1a.txt",
 			"phrase": "modern JavaScript framework (Angular, React"
+			}						
+		]
+	},	
+	{
+		"categoryName": "modern JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React"
 			}						
 		]
 	},	
@@ -8920,6 +9005,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux"
+			}						
+		]
+	},			
+	{
 		"categoryName": "libraries", 
 		"filesAndPhrases": [
 			{
@@ -8946,6 +9040,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "modern JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux"
+			}						
+		]
+	},		
 	{
 		"categoryName": "modern tools", 
 		"filesAndPhrases": [
@@ -9301,6 +9404,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "technology for distributing builds to cloud edge servers", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "technology for distributing builds to cloud edge servers (CloudFront, S3"
+			}						
+		]
+	},	
 	{
 		"categoryName": "tools", 
 		"filesAndPhrases": [
@@ -10630,6 +10742,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue"
+			}						
+		]
+	},					
+	{
 		"categoryName": "Modern client-side frameworks", 
 		"filesAndPhrases": [
 			{
@@ -10673,6 +10794,15 @@ exports.allTerms = {
 			}									
 		]
 	},
+	{
+		"categoryName": "modern JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue"
+			}						
+		]
+	},		
 	{
 		"categoryName": "modern UI frameworks", 
 		"filesAndPhrases": [
