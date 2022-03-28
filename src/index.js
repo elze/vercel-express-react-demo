@@ -14,13 +14,20 @@ import teal from '@material-ui/core/colors/teal';
 const tealYellowTheme = createTheme({
   palette: {
     primary: {
-	  main: teal[500] 
+	  /* main: teal[500] */
+	  /* main: '#e3f6f6' */
+	  main: teal[50],
+	  contrastText: teal[600],
     },
     secondary: {
 	  main: deepOrange[100]
     },
 	danger: {
 		main: red[100]
+	},
+	highlighted: {
+		main: teal[500],
+		contrastText: '#fff',
 	},
 	/*
 	warning: {

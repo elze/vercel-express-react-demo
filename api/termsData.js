@@ -177,6 +177,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Ab Initio": {
+	"categories": [		
+	{
+		"categoryName": "ETL", 
+		"filesAndPhrases": [		
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\363fe38a-60c5-4b6e-b7db-badf57a28935.txt",
+			"phrase": "Ab Initio ETL"
+			}
+		]
+	}
+	]
+},
 "AC3": {
 	"categories": [		
 	{
@@ -389,6 +402,15 @@ exports.allTerms = {
 },
 "Amazon DocumentDB": {
 	"categories": [	
+	{
+		"categoryName": "Non-relational databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Non-relational databases (MongoDB, DocumentDB"
+			}						
+		]
+	},		
 	{
 		"categoryName": "NoSQL databases", 
 		"filesAndPhrases": [
@@ -777,6 +799,24 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "JS frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "AngularJS and other JS frameworks"
+			}						
+		]
+	},
+	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular"
+			}						
+		]
+	},		
+	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
 			{
@@ -829,7 +869,17 @@ exports.allTerms = {
 			"phrase": "modern coding languages including Angular"
 			}
 		]
-	},		
+	},
+	{
+		"categoryName": "modern frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2016\201603\20160320\7cd39471-713e-4ec3-b30a-2ad2e0d6264c.txt",
+			"phrase": "experience in modern frameworks (Node, Angular"
+			}
+		]
+	},	
+
 	{
 		"categoryName": "modern frontend frameworks and libraries", 
 		"filesAndPhrases": [
@@ -873,16 +923,16 @@ exports.allTerms = {
 			"phrase": "Angular.js, Ember.js, Backbone.js, gwt, or other modern Javascript MV* Framework"
 			}
 		]
-	},	
+	},
 	{
-		"categoryName": "modern frameworks", 
+		"categoryName": "modern JS web frameworks for building responsive UI", 
 		"filesAndPhrases": [
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2016\201603\20160320\7cd39471-713e-4ec3-b30a-2ad2e0d6264c.txt",
-			"phrase": "experience in modern frameworks (Node, Angular"
-			}
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular"
+			}						
 		]
-	},	
+	},					
 	{
 		"categoryName": "modern libraries/frameworks", 
 		"filesAndPhrases": [
@@ -2823,6 +2873,19 @@ exports.allTerms = {
 	},					
 	]
 },
+"Bitbucket": {
+	"categories": [				
+	{
+		"categoryName": "version control systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "version control system (GitHub, Bitbucket"
+			}
+		]
+	}
+	]
+},
 "Bitcoin": {
 	"categories": [				
 	{
@@ -2943,6 +3006,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "front-end-framework for responsive design", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-end-framework for responsive design (Bootstrap"
+			}
+		]
+	},			
 	{
 		"categoryName": "Javascript frameworks", 
 		"filesAndPhrases": [
@@ -3518,7 +3590,16 @@ exports.allTerms = {
 			"phrase": "JavaScript unit testing tools such as Karma, Mocha, Chai"
 			}						
 		]
-	},	
+	},
+	{
+		"categoryName": "testing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}
+		]
+	},			
 	{
 		"categoryName": "unit testing frameworks", 
 		"filesAndPhrases": [
@@ -3835,6 +3916,15 @@ exports.allTerms = {
 			"phrase": "cloud server-less technologies (i.e. Lambda, S3, CloudFront"
 			}
 		]
+	},
+	{
+		"categoryName": "technology for distributing builds to cloud edge servers", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "technology for distributing builds to cloud edge servers (CloudFront"
+			}						
+		]
 	}	
 	]
 },
@@ -3963,11 +4053,33 @@ exports.allTerms = {
 "Couchbase": {
 	"categories": [
 	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL, PostGres, CouchDB, CouchBase"
+			}						
+		]
+	},		
+	{
 		"categoryName": "SORs", 
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210929\d4f4a3c2-0d43-4bbe-a672-11aa9cea351f.txt",
 			"phrase": "SORs from Oracle to Couchbase"
+			}						
+		]
+	}
+	]
+},
+"CouchDB": {
+	"categories": [
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL, PostGres, CouchDB"
 			}						
 		]
 	}
@@ -4046,6 +4158,15 @@ exports.allTerms = {
 			}		
 		]
 	},		
+	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML, CSS"
+			}
+		]
+	},			
 	{
 		"categoryName": "libraries/toolkits", 
 		"filesAndPhrases": [		
@@ -4406,7 +4527,16 @@ exports.allTerms = {
 			"phrase": "Prefer ETL (Datastage or SSIS) design and implementation experience"
 			}
 		]
-	}
+	},
+	{
+		"categoryName": "ETL tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\6ae794b8-b31a-4a98-a256-2d2d4b0dd60b.txt",
+			"phrase": "ETL tools such as  Informatica, years developing programs using ETL tools such as  Informatica Power Center, IBM InfoSphere DataStage 8.x"
+			}			
+		]
+	}	
 	]
 },
 "dataWarehousing": {
@@ -4668,7 +4798,15 @@ exports.allTerms = {
 			}
 		]
 	},				
-	
+	{
+		"categoryName": "web platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "web platforms like Liferay and Django"
+			}						
+		]
+	}	
 	]
 },
 "Django Rest Framework": {
@@ -6412,6 +6550,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "collaboration tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\4c99f21b-d03b-4328-8e26-f439c7c29da1.txt",
+			"phrase": "git and other collaboration tools"
+			}
+		]
+	},			
+	{
 		"categoryName": "Continuous integration/continuous deployment", 
 		"filesAndPhrases": [
 			{
@@ -6601,7 +6748,16 @@ exports.allTerms = {
 			"phrase": "source control (Azure DevOps, GitHub"
 			}
 		]
-	}
+	},
+	{
+		"categoryName": "version control systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "version control system (GitHub"
+			}
+		]
+	}		
 	]
 },
 "Github Actions": {
@@ -6631,6 +6787,32 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220210\c5d530c0-f702-4e5f-95cd-12595237bf94.txt",
 			"phrase": "Continuous Integration: Github Actions"
 			}			
+		]
+	}	
+	]
+},
+"Gitlab Runners": {
+	"categories": [				
+	{
+		"categoryName": "CI/CD Pipeline", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220123\9eb282ab-868b-4620-ae9e-e0acf7ed1095.txt",
+			"phrase": "CI/CD Pipeline experience (i.e., GitHub Actions, Azure Pipelines, Gitlab Runners"
+			}
+		]
+	}
+	]
+},
+"Gitlab": {
+	"categories": [				
+	{
+		"categoryName": "version control systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "version control system (GitHub, Bitbucket, Gitlab"
+			}
 		]
 	}	
 	]
@@ -7520,6 +7702,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML"
+			}
+		]
+	},			
+	{
 		"categoryName": "tools and technologies", 
 		"filesAndPhrases": [
 			{
@@ -7870,7 +8061,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211110\498684a7-a98a-4d60-8afd-d236c1b0a42f.txt",
 			"phrase": "ETL tool (Informatica"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\6ae794b8-b31a-4a98-a256-2d2d4b0dd60b.txt",
+			"phrase": "ETL tools such as  Informatica"
+			}			
 		]
 	}
 	]
@@ -8045,7 +8240,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201802\20180213\715e90c9-663c-4d5d-b5a7-df84ad15168a.txt",
 			"phrase": "Testing frameworks (ex: Karma, Jasmine"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},
 	{
@@ -8331,6 +8530,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "front-side", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "front-side (e.g., HTML, CSS, JavaScript"
+			}
+		]
+	},					
 	{
 		"categoryName": "general-purpose programming languages", 
 		"filesAndPhrases": [
@@ -8765,7 +8973,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210905\3f9d3d13-f637-4faa-9318-a8fa8cbdebf6.txt",
 			"phrase": "Testing frameworks (e.g. Jest"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},	
 	]
@@ -9195,6 +9407,10 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210808\8f4bd7f1-923d-4ac7-bf88-34ca3178ed8c.txt",
 			"phrase": "messaging systems like Kafka"
 			}
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "messaging systems like Kafka"
+			}			
 		]
 	},
 	{
@@ -9686,6 +9902,19 @@ exports.allTerms = {
 	}			
 	]
 },
+"Liferay": {
+	"categories": [
+	{
+		"categoryName": "web platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "web platforms like Liferay"
+			}						
+		]
+	}
+	]
+},
 "Linux": {
 	"categories": [
 	{
@@ -9903,7 +10132,6 @@ exports.allTerms = {
 	}		
 	]
 },
-
 "Marionette": {
 	"categories": [
 	{
@@ -10232,6 +10460,24 @@ exports.allTerms = {
 "Mobx": {
 	"categories": [
 	{
+		"categoryName": "JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux, VueX, Mobx"
+			}						
+		]
+	},		
+	{
+		"categoryName": "modern JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux, VueX, Mobx"
+			}						
+		]
+	},		
+	{
 		"categoryName": "programming frameworks", 
 		"filesAndPhrases": [
 			{
@@ -10305,6 +10551,10 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201802\20180213\715e90c9-663c-4d5d-b5a7-df84ad15168a.txt",
 			"phrase": "Testing frameworks (ex: Karma, Jasmine, Mocha"
 			}
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
+			"phrase": "testing framework (Jest, Mocha/Chai"
+			}			
 		]
 	},
 	{
@@ -10418,6 +10668,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "Non-relational databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Non-relational databases (MongoDB"
+			}						
+		]
+	},	
+	{
 		"categoryName": "NoSQL", 
 		"filesAndPhrases": [
 			{
@@ -10463,6 +10722,24 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "relational and non-relational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210910\1959cf88-7328-48aa-9817-0665e3c24cef.txt",
+			"phrase": "relational and non-relational database technologies - MongoDB"
+			}
+		]
+	},		
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL, PostGres, CouchDB, MongoDB"
+			}						
+		]
+	},	
 	{
 		"categoryName": "relational DBs", 
 		"filesAndPhrases": [
@@ -10948,7 +11225,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220212\89e0d8ec-846e-4d6e-acb4-bb80c7a8bb34.txt",
 			"phrase": "databases (DB2, MySQL"
-			}	
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "database (e.g., MySQL"
+			}						
 		]			
 	},					
 	{
@@ -11011,7 +11292,16 @@ exports.allTerms = {
 			"phrase": "relational and non-relational database technologies - MongoDB, MySQL"
 			}
 		]
-	},		
+	},	
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL"
+			}						
+		]
+	},			
 	{
 		"categoryName": "Relational Databases", 
 		"filesAndPhrases": [
@@ -11874,7 +12164,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211223\7445e0c3-0da1-485a-8773-709d4d06bdba.txt",
 			"phrase": "databases such as MySQL, Oracle"
-			}			
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
+			"phrase": "database (e.g., MySQL, Oracle"
+			}									
 		]
 	},	
 	{
@@ -12197,6 +12491,19 @@ exports.allTerms = {
 	}
 	]
 },
+"PL/SQL": {
+	"categories": [
+	{
+		"categoryName": "ETL tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\6ae794b8-b31a-4a98-a256-2d2d4b0dd60b.txt",
+			"phrase": "ETL tools such as  Informatica, years developing programs using ETL tools such as  Informatica Power Center, IBM InfoSphere DataStage 8.x, Oracle PL/SQL"
+			}			
+		]
+	}
+	]
+},
 "PostGIS": {
 	"categories": [
 	{
@@ -12369,6 +12676,15 @@ exports.allTerms = {
 			}
 		]
 	},			
+	{
+		"categoryName": "Relational and nonrelational database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\7040e64a-5c1d-477f-bb03-29739e7a869e.txt",
+			"phrase": "Relational and nonrelational database technologies including MySQL, PostGres"
+			}						
+		]
+	},		
 	{
 		"categoryName": "relational databases", 
 		"filesAndPhrases": [
@@ -12807,6 +13123,15 @@ exports.allTerms = {
 "Pytorch": {
 	"categories": [
 	{
+		"categoryName": "deep learning libraries", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "deep learning libraries like Tensorflow or PyTorch"
+			}						
+		]
+	},		
+	{
 		"categoryName": "Machine learning frameworks", 
 		"filesAndPhrases": [
 			{
@@ -12918,7 +13243,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171010\311c0214-2828-4d0e-8e4f-f164015b1ccb.txt",
 			"phrase": "Messaging systems - SNS/SQS, RabbitMQ"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "messaging systems like Kafka, RabbitMQ"
+			}			
 		]
 	},
 	{
@@ -13164,7 +13493,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211216\e0443b1f-f62e-4dde-8ec4-50591f55cc4f.txt",
 			"phrase": "front-end frameworks: ReactJS"
-			}						
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220324\1457c255-feaf-49c7-92a8-3eff66ef47e2.txt",
+			"phrase": "front-end framework (we use React"
+			}					
 		]
 	},	
 	{
@@ -13320,6 +13653,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React"
+			}						
+		]
+	},					
+	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
 			{
@@ -13416,6 +13758,15 @@ exports.allTerms = {
 			}						
 		]
 	},	
+	{
+		"categoryName": "modern JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React"
+			}						
+		]
+	},			
 	{
 		"categoryName": "modern libraries/frameworks", 
 		"filesAndPhrases": [
@@ -13898,7 +14249,16 @@ exports.allTerms = {
 			"phrase": "JavaScript libraries such as Redux"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux"
+			}						
+		]
+	},			
 	{
 		"categoryName": "libraries", 
 		"filesAndPhrases": [
@@ -13926,6 +14286,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "modern JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux"
+			}						
+		]
+	},		
 	{
 		"categoryName": "modern tools", 
 		"filesAndPhrases": [
@@ -13981,6 +14350,19 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211208\d3c74acf-b55a-4fa1-b04f-87203493b2fa.txt",
 			"phrase": "automation tests like cypress, jest or pyunit"
+			}
+		]
+	}
+	]
+},
+"ReSwift": {
+	"categories": [
+	{
+		"categoryName": "Redux style data flow", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220311\de70463e-f602-4510-baa8-047698f07e1e.txt",
+			"phrase": "ReSwift or another Redux style data flow"
 			}
 		]
 	}
@@ -14486,6 +14868,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "technology for distributing builds to cloud edge servers", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "technology for distributing builds to cloud edge servers (CloudFront, S3"
+			}						
+		]
+	},	
 	{
 		"categoryName": "tools", 
 		"filesAndPhrases": [
@@ -15187,8 +15578,30 @@ exports.allTerms = {
 	},
 	]
 },
+"single-spa": {
+	"categories": [
+	{
+		"categoryName": "Micro-Frontends pattern and related technology", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "Micro-Frontends pattern and related technology (Webpack Module Federation, single-spa"
+			}						
+		]
+	}
+	]
+},
 "Sitecore": {
 	"categories": [
+	{
+		"categoryName": "CMS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "CMS (Sitecore"
+			}						
+		]
+	},		
 	{
 		"categoryName": "CMS's", 
 		"filesAndPhrases": [
@@ -15899,7 +16312,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220223\6f1f4f4d-af2e-49f5-836f-630976664745.txt",
 			"phrase": "relational database background (MS-SQL"
-			}										
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Relational databases other than SQL Server"
+			}					
 		]
 	},	
 	{
@@ -16174,6 +16591,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Storybook": {
+	"categories": [
+	{
+		"categoryName": "component-driven development facilitating tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "component-driven development and facilitating tools like Storybook"
+			}						
+		]
+	}
+	]
+},	
 "Stripe": {
 	"categories": [
 	{
@@ -16374,6 +16804,15 @@ exports.allTerms = {
 },	
 "Symfony": {
 	"categories": [
+	{
+		"categoryName": "LAMP stack frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220314\1d78702c-01eb-4060-b04e-3e45682ecb0f.txt",
+			"phrase": "Symfony or similar LAMP stack framework"
+			}
+		]
+	},		
 	{
 		"categoryName": "PHP server application frameworks", 
 		"filesAndPhrases": [
@@ -16585,6 +17024,15 @@ exports.allTerms = {
 			}						
 		]
 	},
+	{
+		"categoryName": "deep learning libraries", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
+			"phrase": "deep learning libraries like Tensorflow"
+			}						
+		]
+	},		
 	{
 		"categoryName": "Machine learning frameworks", 
 		"filesAndPhrases": [
@@ -17124,6 +17572,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Umbraco": {
+	"categories": [
+	{
+		"categoryName": "CMS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "CMS (Sitecore Umbraco"
+			}						
+		]
+	}
+	]
+},
 "UML": {
 	"categories": [
 	{
@@ -17394,6 +17855,15 @@ exports.allTerms = {
 "VSTS": {
 	"categories": [
 	{
+		"categoryName": "Bug/Work Item tracking software", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
+			"phrase": "Bug/Work Item tracking software (Jira/VSTS"
+			}						
+		]
+	},	
+	{
 		"categoryName": "code versioning tools", 
 		"filesAndPhrases": [
 			{
@@ -17520,6 +17990,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue"
+			}						
+		]
+	},			
+	{
 		"categoryName": "Modern client-side frameworks", 
 		"filesAndPhrases": [
 			{
@@ -17563,6 +18042,15 @@ exports.allTerms = {
 			}									
 		]
 	},
+	{
+		"categoryName": "modern JS web frameworks for building responsive UI", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue"
+			}						
+		]
+	},			
 	{
 		"categoryName": "modern UI frameworks", 
 		"filesAndPhrases": [
@@ -17619,6 +18107,28 @@ exports.allTerms = {
 	}		
 	]
 },
+"VueX": {
+	"categories": [
+	{
+		"categoryName": "JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux, VueX, Mobx"
+			}						
+		]
+	},		
+	{
+		"categoryName": "modern JS web frameworks for managing application state", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "modern JS web framework for building responsive UI (e.g., React, Vue, Angular, etc.) and managing application state (Redux, VueX, Mobx"
+			}						
+		]
+	}
+	]
+},
 "WatiN": {
 	"categories": [
 	{
@@ -17654,6 +18164,19 @@ exports.allTerms = {
 	}	
 	]
 },	
+"WCAG": {
+	"categories": [
+	{
+		"categoryName": "accessibility standards", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "accessibility standards (e.g., WCAG 2 Level AA"
+			}						
+		]
+	}
+	]
+},
 "WCF": {
 	"categories": [
 	{
@@ -17835,6 +18358,19 @@ exports.allTerms = {
 			}
 		]
 	}			
+	]
+},
+"Webpack Module Federation": {
+	"categories": [
+	{
+		"categoryName": "Micro-Frontends pattern and related technology", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220323\cb5144ee-12f3-4418-a587-a75ac64dc82d.txt",
+			"phrase": "Micro-Frontends pattern and related technology (Webpack Module Federation"
+			}						
+		]
+	}
 	]
 },
 "WebRTC": {
