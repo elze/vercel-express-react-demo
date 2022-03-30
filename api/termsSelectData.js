@@ -1171,6 +1171,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "commercial cloud environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
+			"phrase": "commercial cloud environments, preferably AWS"
+			}						
+		]
+	},		
+	{
 		"categoryName": "hosted runtimes", 
 		"filesAndPhrases": [
 			{
@@ -2241,6 +2250,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Infrastructure as Code technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
+			"phrase": "Infrastructure as Code technologies, like Terraform and Ansible"
+			}						
+		]
+	},			
+	{
 		"categoryName": "orchestration and configuration management tools", 
 		"filesAndPhrases": [
 			{
@@ -2442,7 +2460,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202110\20211003\0cf3fd74-ecb8-49c5-af8a-c4cff70c39e8.txt",
 			"phrase": "web technologies such as HTML5, JavaScript, and CSS"
-			}								
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220328\f8e801f6-cee2-4f03-890b-e4e6733e2a64.txt",
+			"phrase": "CSS, and related web technologies"
+			}				
 		]
 	}	
 	]
@@ -4493,6 +4515,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201809\20180901\4646bd27-982e-46ee-ae39-a9a0e08d6825.txt",
 			"phrase": "Web Technologies (XML, HTML, Web Services"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220328\f8e801f6-cee2-4f03-890b-e4e6733e2a64.txt",
+			"phrase": "HTML, CSS, and related web technologies"
 			}			
 		]
 	}
@@ -4910,7 +4936,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220307\b667315b-e648-4896-9e3a-cb4f50ec5068.txt",
 			"phrase": "Java, C#, or a similar OOP language"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220326\e142477b-3cf8-4fb1-89ea-d07575e81fbe.txt",
+			"phrase": "OOP language like Java"
+			}			
 		]
 	},				
 	{
@@ -4958,6 +4988,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211108\115e9a05-4428-43b6-9bce-e5d33f7785c1.txt",
 			"phrase": "software languages like Java"
+			}						
+		]
+	},		
+	{
+		"categoryName": "strongly-typed/OOP languages",
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220326\e142477b-3cf8-4fb1-89ea-d07575e81fbe.txt",
+			"phrase": "strongly-typed/OOP language like Java"
 			}						
 		]
 	},		
@@ -8561,6 +8600,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JavaScript libraries and tooling", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220328\f8e801f6-cee2-4f03-890b-e4e6733e2a64.txt",
+			"phrase": "JavaScript libraries and tooling (e.g., React"
+			}			
+		]
+	},
+	{
 		"categoryName": "JS web frameworks for building responsive UI", 
 		"filesAndPhrases": [
 			{
@@ -10505,6 +10553,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Infrastructure as Code technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
+			"phrase": "Infrastructure as Code technologies, like Terraform and Ansible"
+			}						
+		]
+	},			
+	{
 		"categoryName": "Infrastructure-as-code tools", 
 		"filesAndPhrases": [
 			{
@@ -10922,6 +10979,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201801\20180113\67447a88-047e-4658-9c20-caa7c32b828f.txt",
 			"phrase": "front-end tooling workflows: Node.js (NPM), SASS/SCSS, WebPack"
 			}
+		]
+	},	
+	{
+		"categoryName": "JavaScript libraries and tooling", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220328\f8e801f6-cee2-4f03-890b-e4e6733e2a64.txt",
+			"phrase": "JavaScript libraries and tooling (e.g., React, Webpack"
+			}			
 		]
 	},	
 	{
