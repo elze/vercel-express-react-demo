@@ -29,6 +29,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET"
+			}						
+		]
+	},	
+	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
 			{
@@ -140,6 +149,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "MVC frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "Dotnet Core or Similar MVC frameworks"
+			}
+		]
+	},		
 	{
 		"categoryName": "recent and emergent technologies", 
 		"filesAndPhrases": [
@@ -280,6 +298,19 @@ exports.allTerms = {
 			}
 		]
 	}			
+	]
+},
+"Adobe Creative Suite": {
+	"categories": [
+	{
+		"categoryName": "Business Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Business Tools: Microsoft Office, Adobe Creative Suite"
+			}
+		]
+	}
 	]
 },
 "Aerospike": {
@@ -548,6 +579,15 @@ exports.allTerms = {
 "androidDevelopment": {
 	"categories": [
 	{
+		"categoryName": "Environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux/Unix, Mac OS X, Android"
+			}
+		]
+	},	
+	{		
 		"categoryName": "mobile development", 
 		"filesAndPhrases": [
 			{
@@ -737,6 +777,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131006\3dd81c23-3271-4d9a-aa10-0a61ef0d958a.txt",
 			"phrase": "JavaScript framework such as AngularJS"
+			},			
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "JavaScript frameworks (e.g. Backbone, Knockout, Angular"
 			},			
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2015\201504\20150421\77f5b2b3-c66b-45e6-b62d-c39f7cd8079c.txt",
@@ -1589,6 +1633,15 @@ exports.allTerms = {
 "ASP.NET MVC": {
 	"categories": [
 	{
+		"categoryName": ".NET Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC"
+			}						
+		]
+	},			
+	{
 		"categoryName": "Front-end", 
 		"filesAndPhrases": [
 			{
@@ -1859,7 +1912,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220208\d5144a84-2c06-447b-9779-10e668bb2fbd.txt",
 			"phrase": "cloud technologies such as Azure, AWS"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220401\2cbba060-ee97-4bf4-9211-61ea04280da8.txt",
+			"phrase": "AWS or other similar cloud technologies"
+			}					
 		]
 	},
 	{
@@ -1899,6 +1956,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220403\60a9765e-8deb-43e2-9818-05f5c686e0af.txt",
+			"phrase": "languages such as Go, AWS"
+			}
+		]
+	},				
+	{
 		"categoryName": "platforms", 
 		"filesAndPhrases": [
 			{
@@ -1937,7 +2003,16 @@ exports.allTerms = {
 			"phrase": "virtual computing pipeline stages, e.g. building (GitHub, Docker), testing and deploying (Jenkins, CI/CD), hosted runtimes (AWS"
 			}						
 		]
-	}	
+	},
+	{
+		"categoryName": "web stacks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220401\2cbba060-ee97-4bf4-9211-61ea04280da8.txt",
+			"phrase": "AWS or similar web stack"
+			}						
+		]
+	}			
 	]
 },
 "AWS Cognito": {
@@ -2601,13 +2676,17 @@ exports.allTerms = {
 			"phrase": "JavaScript framework such as AngularJS, EmberJS, Backbone"
 			},		
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201708\20170826\0b19936f-3e42-4d55-be51-6caf086fd508.txt",
-			"phrase": "Modern Javascript frameworks like AngularJS, React, Redux, VueJS, Backbone"
-			},
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "JavaScript frameworks (e.g. Backbone"
+			},			
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2015\201504\20150421\77f5b2b3-c66b-45e6-b62d-c39f7cd8079c.txt",
 			"phrase": "Javascript Frameworks (D3.js, Backbone.js"
 			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201708\20170826\0b19936f-3e42-4d55-be51-6caf086fd508.txt",
+			"phrase": "Javascript frameworks like AngularJS, React, Redux, VueJS, Backbone"
+			},			
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201801\20180107\dd67b462-a0a6-43a7-95a1-da3be897ef80.txt",
 			"phrase": "JavaScript framework or related such as Angular, React, Backbone"
@@ -2998,6 +3077,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API, etc.), jQuery, JavaScript frameworks (e.g. Backbone, Knockout, Angular, etc.), Twitter Bootstrap"
+			}
+		]
+	},	
+	{
 		"categoryName": "front-end frameworks", 
 		"filesAndPhrases": [
 			{
@@ -3224,7 +3312,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202101\20210105\e598740e-a307-4012-bf93-6b510780e683.txt",
 			"phrase": "languages e.g. React, Flutter & C#"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript, JSON, C#"
+			}			
 		]
 	},	
 	{
@@ -4279,6 +4371,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript, JSON, C#, HTML5, CSS3"
+			}					
+		]
+	},		
+	{
 		"categoryName": "latest practices", 
 		"filesAndPhrases": [
 			{
@@ -5105,6 +5206,19 @@ exports.allTerms = {
 	}
 	]
 },
+"DreamWeaver": {
+	"categories": [
+	{
+		"categoryName": "Adobe Creative Suite", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Adobe Creative Suite (Photoshop, DreamWeaver"
+			}
+		]
+	}
+	]
+},
 "DroneCI": {
 	"categories": [
 	{
@@ -5360,6 +5474,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "Development Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Development Tools: Visual Studio, Eclipse IDE"
+			}
+		]
+	},		
 	{
 		"categoryName": "IDEs", 
 		"filesAndPhrases": [
@@ -6961,6 +7084,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "tracking / analytics", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "tracking / analytics implementation (Google Analytics"
+			}
+		]
+	},	
+	{
 		"categoryName": "web analytics tools", 
 		"filesAndPhrases": [
 			{
@@ -7323,7 +7455,16 @@ exports.allTerms = {
 			"phrase": "JavaScript task-runners, Gulp.js"
 			}
 		]
-	},				
+	},	
+	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM, Rollup, Webpack, Gulp"
+			}
+		]
+	}	
 	]
 },
 "gwt": {
@@ -7809,6 +7950,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript, JSON, C#, HTML5"
+			}						
+		]
+	},	
+	{
 		"categoryName": "latest practices", 
 		"filesAndPhrases": [
 			{
@@ -8111,6 +8261,15 @@ exports.allTerms = {
 },
 "iOS": {
 	"categories": [
+	{
+		"categoryName": "Environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux/Unix, Mac OS X, Android, iOS"
+			}
+		]
+	},	
 	{
 		"categoryName": "mobile development", 
 		"filesAndPhrases": [
@@ -8558,7 +8717,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211105\1b285321-1d75-4b38-a105-86d29a249051.txt",
 			"phrase": "languages including .NET, JavaScript"
-			}			
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript"
+			}						
 		]
 	},		
 	{
@@ -9082,6 +9245,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API, etc.), jQuery"
+			}
+		]
+	},		
+	{
 		"categoryName": "front-end technologies", 
 		"filesAndPhrases": [
 			{
@@ -9154,6 +9326,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"jQuery Mobile": {
+	"categories": [
+	{
+		"categoryName": "Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API, etc.), jQuery, JavaScript frameworks (e.g. Backbone, Knockout, Angular, etc.), Twitter Bootstrap, jQuery Mobile"
+			}
+		]
+	}
+	]
+},
 "JSF": {
 	"categories": [		
 	{
@@ -9196,6 +9381,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript, JSON"
+			}						
+		]
+	},	
 	{
 		"categoryName": "protocols", 
 		"filesAndPhrases": [
@@ -9568,6 +9762,10 @@ exports.allTerms = {
 		"categoryName": "JavaScript frameworks", 
 		"filesAndPhrases": [
 			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "JavaScript frameworks (e.g. Backbone, Knockout"
+			},		
+			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2016\201601\20160111\b61f5613-a383-4ef5-b040-266b19689862.txt",
 			"phrase": "Javascript frameworks such as Knockout"
 			}
@@ -9899,6 +10097,15 @@ exports.allTerms = {
 			"phrase": "precompilers (LESS"
 			}
 		]
+	},
+	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM, Rollup, Webpack, Gulp, Sass, LESS"
+			}
+		]
 	}			
 	]
 },
@@ -9929,6 +10136,10 @@ exports.allTerms = {
 	{
 		"categoryName": "Environments", 
 		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux"
+			},				
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131218\09d22dc3-90cc-4979-817e-9e76beb11363.txt",
 			"phrase": "Environments: Windows (various flavors), Unix/Linux"
@@ -10074,6 +10285,15 @@ exports.allTerms = {
 },
 "MacOS": {
 	"categories": [
+	{
+		"categoryName": "Environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux/Unix, Mac OS X"
+			}	
+		]
+	},		
 	{
 		"categoryName": "operating systems", 
 		"filesAndPhrases": [
@@ -11665,6 +11885,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node"
+			}
+		]
+	},		
+	{
 		"categoryName": "programming languages", 
 		"filesAndPhrases": [
 			{
@@ -11871,6 +12100,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220110\cf79a9ae-2b50-4298-90a4-d60c17b72c03.txt",
 			"phrase": "modern front-end build tools (e.g. Git, Webpack, Yarn, Grunt, NPM"
+			}
+		]
+	},		
+	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM"
 			}
 		]
 	},		
@@ -12409,6 +12647,32 @@ exports.allTerms = {
 			}
 		]
 	}		
+	]
+},
+"PhoneGap": {
+	"categories": [
+	{
+		"categoryName": "Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt	",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API, etc.), jQuery, JavaScript frameworks (e.g. Backbone, Knockout, Angular, etc.), Twitter Bootstrap, jQuery Mobile, PhoneGap"
+			}
+		]
+	}			
+	]
+},
+"Photoshop": {
+	"categories": [
+	{
+		"categoryName": "Adobe Creative Suite", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Adobe Creative Suite (Photoshop"
+			}
+		]
+	}
 	]
 },
 "PHP": {
@@ -14547,6 +14811,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Rollup": {
+	"categories": [
+	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM, Rollup"
+			}
+		]
+	}			
+	]
+},
 "routing": {
 	"categories": [
 	{
@@ -15077,7 +15354,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2019\201903\20190305\7a5ed4f5-7c2e-4295-964f-ba68237de085.txt",
 			"phrase": "preprocessors such as SASS"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM, Rollup, Webpack, Gulp, Sass"
+			}						
 		]
 	},
 	{
@@ -15507,6 +15788,19 @@ exports.allTerms = {
 			}						
 		]
 	},	
+	]
+},
+"SharePoint": {
+	"categories": [
+	{
+		"categoryName": "Development Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Development Tools: Visual Studio, Eclipse IDE, SharePoint"
+			}
+		]
+	}
 	]
 },
 "Shell scripting": {
@@ -16132,6 +16426,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Languages: JavaScript, JSON, C#, HTML5, CSS3, SQL"
+			}						
+		]
+	},	
+	{
 		"categoryName": "modern coding languages", 
 		"filesAndPhrases": [
 			{
@@ -16328,6 +16631,19 @@ exports.allTerms = {
 			}
 		]
 	}	
+	]
+},
+"SQL Server Management Studio": {
+	"categories": [
+	{
+		"categoryName": "Development Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Development Tools: Visual Studio, Eclipse IDE, SharePoint, SQL Server Management Studio"
+			}
+		]
+	}
 	]
 },
 "SQS": {
@@ -16824,6 +17140,19 @@ exports.allTerms = {
 	},
 	]
 },
+"Tag Manager": {
+	"categories": [	
+	{
+		"categoryName": "tracking / analytics", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "tracking / analytics implementation (Google Analytics, Tag Managers"
+			}
+		]
+	}
+	]
+},
 "Tangosol": {
 	"categories": [
 	{
@@ -16850,28 +17179,6 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171005\c7ea0882-d375-43ab-acd7-e473f51d7ddd.txt",
 			"phrase": "scripting languages (Python, Tcl"
 			}					
-		]
-	}
-	]
-},
-"Tealium": {
-	"categories": [
-	{
-		"categoryName": "Tag Management platforms", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210801\4fd3e39b-7103-46d7-9d2d-9200024973c8.txt",
-			"phrase": "Tag Management platforms like GTM, Tealium"
-			}						
-		]
-	},	
-	{
-		"categoryName": "web analytics, instrumentation, and eventing", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210915\8d2cf544-4603-4d1b-8c88-c1ec16195b58.txt",
-			"phrase": "web analytics, instrumentation, and eventing such as Google Analytics or Tealium"
-			}						
 		]
 	}
 	]
@@ -17011,6 +17318,28 @@ exports.allTerms = {
 			}
 		]
 	}		
+	]
+},
+"Tealium": {
+	"categories": [
+	{
+		"categoryName": "Tag Management platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210801\4fd3e39b-7103-46d7-9d2d-9200024973c8.txt",
+			"phrase": "Tag Management platforms like GTM, Tealium"
+			}						
+		]
+	},	
+	{
+		"categoryName": "web analytics, instrumentation, and eventing", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210915\8d2cf544-4603-4d1b-8c88-c1ec16195b58.txt",
+			"phrase": "web analytics, instrumentation, and eventing such as Google Analytics or Tealium"
+			}						
+		]
+	}
 	]
 },
 "Tensorflow": {
@@ -17285,6 +17614,19 @@ exports.allTerms = {
 			}
 		]
 	}	
+	]
+},
+"TOAD": {
+	"categories": [
+	{
+		"categoryName": "Development Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Development Tools: Visual Studio, Eclipse IDE, SharePoint, SQL Server Management Studio, TOAD"
+			}
+		]
+	}
 	]
 },
 "Tomcat": {
@@ -17648,6 +17990,10 @@ exports.allTerms = {
 		"categoryName": "Environments", 
 		"filesAndPhrases": [
 			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux/Unix"
+			},		
+			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131218\09d22dc3-90cc-4979-817e-9e76beb11363.txt",
 			"phrase": "Environments: Windows (various flavors), Unix"
 			},
@@ -17788,6 +18134,15 @@ exports.allTerms = {
 },
 "Visual Studio": {
 	"categories": [
+	{
+		"categoryName": "Development Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Development Tools: Visual Studio"
+			}
+		]
+	},	
 	{
 		"categoryName": "IDEs", 
 		"filesAndPhrases": [
@@ -18180,6 +18535,15 @@ exports.allTerms = {
 "WCF": {
 	"categories": [
 	{
+		"categoryName": ".NET Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF"
+			}						
+		]
+	},				
+	{
 		"categoryName": "telecommunications and message processing protocols", 
 		"filesAndPhrases": [
 			{
@@ -18201,7 +18565,15 @@ exports.allTerms = {
 },
 "WebAPI": {
 	"categories": [	
-
+	{
+		"categoryName": ".NET Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API"
+			}						
+		]
+	},
 	{
 		"categoryName": "server side frameworks", 
 		"filesAndPhrases": [
@@ -18346,6 +18718,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211205\15303dd0-a876-4133-a891-e5e16490ee42.txt",
 			"phrase": "modern UI tools: We currently use TypeScript, Vue.js, Bulma/Buefy, Sass, Webpack"
+			}
+		]
+	},
+	{
+		"categoryName": "preprocessors", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220402\cebab438-1d19-4cf5-97a8-54f54fde800c.txt",
+			"phrase": "preprocessors (e.g. Node, NPM, Rollup, Webpack"
 			}
 		]
 	},	
@@ -18587,6 +18968,10 @@ exports.allTerms = {
 	{
 		"categoryName": "Environments", 
 		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows"
+			},				
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131218\09d22dc3-90cc-4979-817e-9e76beb11363.txt",
 			"phrase": "Environments: Windows"
