@@ -4,18 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { StyledEngineProvider, ThemeProvider, createTheme } from '@mui/material/styles';
-//import amber from '@material-ui/core/colors/amber';
 import deepOrange from '@material-ui/core/colors/deepOrange';
 import red from '@material-ui/core/colors/red';
+import indigo from '@material-ui/core/colors/indigo';
 import teal from '@material-ui/core/colors/teal';
-//import orange from '@material-ui/core/colors/orange';
-//import purple from '@material-ui/core/colors/purple';
 
-const tealYellowTheme = createTheme({
+const tealOrangeTheme = createTheme({
   palette: {
     primary: {
-	  /* main: teal[500] */
-	  /* main: '#e3f6f6' */
 	  main: teal[50],
 	  contrastText: teal[600],
     },
@@ -25,15 +21,17 @@ const tealYellowTheme = createTheme({
 	danger: {
 		main: red[100]
 	},
+	hasManyAssociations: {
+		main: teal[100],
+		contrastText: teal[600]
+	},
 	highlighted: {
 		main: teal[500],
 		contrastText: '#fff',
 	},
-	/*
-	warning: {
-		main: purple[100]
+	secondaryArea: {
+		main: indigo[50]
 	},
-	*/
     text: {
 	  inverse: teal[50]
     },	
@@ -52,13 +50,11 @@ const tealYellowTheme = createTheme({
 
 
 ReactDOM.render(
-  <StyledEngineProvider injectFirst>
-  <ThemeProvider theme={tealYellowTheme}>
+  <ThemeProvider theme={tealOrangeTheme}>
   <React.StrictMode>
     <App />
   </React.StrictMode>
-  </ThemeProvider>
-  </StyledEngineProvider>,
+  </ThemeProvider>,
   document.getElementById('root')
 );
 
