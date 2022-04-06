@@ -12,9 +12,11 @@ import clsx from 'clsx';
 
 export function PrimaryTerm ({ primarySkill, ind, dispatch }) {	
 	const id = primarySkill.primary_term.split(' ').join('-');
-	let sxObj = primarySkill.showCategories ? {m: 1, bgcolor: 'highlighted.main', color: 'highlighted.contrastText'} : {m: 1};
-	sxObj = !primarySkill.showCategories && primarySkill.categories.length > 9 ? 
-		{m: 1, bgcolor: 'hasManyAssociations.main', border: 1, color: 'hasManyAssociations.contrastText'} : sxObj;
+	let sxObj = {m: 1,
+			...(primarySkill.showCategories) && {bgcolor: 'highlighted.main', color: 'highlighted.contrastText'},
+			...(!primarySkill.showCategories && primarySkill.categories.length > 9) 
+				&& {bgcolor: 'hasManyAssociations.main', border: 1, color: 'hasManyAssociations.contrastText'}
+	};
 	const secondaryAreaObj = {
 		backgroundColor: 'secondaryArea.main',
 		width: 3/4,
@@ -23,8 +25,7 @@ export function PrimaryTerm ({ primarySkill, ind, dispatch }) {
   return (
  <div id={id} key={primarySkill.primary_term}>
 	<Button variant="contained" sx={sxObj} key={primarySkill.primary_term} 	
-
-	onClick={() => dispatch({type: 'toggleButton', index: ind})}>
+			onClick={() => dispatch({type: 'toggleButton', index: ind})}>
 	{primarySkill.primary_term}
 	</Button>
 	<Box sx={secondaryAreaObj}>

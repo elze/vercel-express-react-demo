@@ -1943,7 +1943,11 @@ exports.allTerms = {
 			{
 			"filename": "Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210828\00ce388a-286f-492c-94d8-237886758acc.txt",
 			"phrase": "Infrastructure: AWS"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Infrastructure (AWS"
+			}				
 		]
 	},			
 	{
@@ -5099,7 +5103,11 @@ exports.allTerms = {
 			{
 			"filename": "Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210828\00ce388a-286f-492c-94d8-237886758acc.txt",
 			"phrase": "Infrastructure: AWS, PostgreSQL, Convox, and Docker"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Infrastructure (AWS"
+			}				
 		]
 	},			
 	{
@@ -6349,6 +6357,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Platform /APIs", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Platform /APIs (Python/Flask"
+			}
+		]
+	},		
+	{
 		"categoryName": "web frameworks", 
 		"filesAndPhrases": [
 			{
@@ -7329,6 +7346,19 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210918\0f9ce17f-4774-45c7-aa27-988d4c6f6077.txt",
 			"phrase": "scripting language, such as python, groovy"
 			}						
+		]
+	}
+	]
+},
+"gRPC": {
+	"categories": [
+	{
+		"categoryName": "Platform /APIs", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Platform /APIs (Python/Flask, gRPC"
+			}
 		]
 	}
 	]
@@ -9993,6 +10023,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "Infrastructure", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Infrastructure (AWS"
+			}				
+		]
+	},		
 	{
 		"categoryName": "orchestration tools", 
 		"filesAndPhrases": [
@@ -12910,6 +12949,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Platform /APIs", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Platform /APIs (Python/Flask, gRPC, Postgres"
+			}
+		]
+	},	
+	{
 		"categoryName": "RDBMS", 
 		"filesAndPhrases": [
 			{
@@ -13261,6 +13309,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "Platform /APIs", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Platform /APIs (Python"
+			}
+		]
+	},	
 	{
 		"categoryName": "programming languages", 
 		"filesAndPhrases": [
@@ -17415,6 +17472,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "Infrastructure", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
+			"phrase": "Infrastructure (AWS, Terraform"
+			}				
+		]
+	},		
 	{
 		"categoryName": "Infrastructure-as-code tools", 
 		"filesAndPhrases": [
