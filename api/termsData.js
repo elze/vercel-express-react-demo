@@ -2744,6 +2744,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"BACnet": {
+	"categories": [
+	{
+		"categoryName": "communication protocols", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220406\b937e100-6bf7-47c8-bb7e-53034ae48002.txt",
+			"phrase": "communication protocols such as BACnet"
+			}
+		]
+	}
+	]
+},
 "Bamboo": {
 	"categories": [
 	{
@@ -5106,7 +5119,7 @@ exports.allTerms = {
 			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
-			"phrase": "Infrastructure (AWS"
+			"phrase": "Infrastructure (AWS, Terraform, Docker"
 			}				
 		]
 	},			
@@ -8077,7 +8090,11 @@ exports.allTerms = {
 			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201709\20170918\19ca6bb1-99da-4376-ab20-448dde34b40c.txt",
-			"phrase": "Experience with Web services and related protocols (HTTP"
+			"phrase": "protocols (HTTP"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220405\459c1992-d44d-4602-aa11-b0a9a712c629.txt",
+			"phrase": "HTTP protocol"
 			}			
 		]
 	},		
@@ -10834,6 +10851,28 @@ exports.allTerms = {
 			}						
 		]
 	}
+	]
+},
+"MODBUS": {
+	"categories": [
+	{
+		"categoryName": "communication protocols", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220406\b937e100-6bf7-47c8-bb7e-53034ae48002.txt",
+			"phrase": "Mod bus (or similar communication protocols"
+			}
+		]
+	},
+	{
+		"categoryName": "protocols", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220406\b937e100-6bf7-47c8-bb7e-53034ae48002.txt",
+			"phrase": "MODBUS technology (or similar protocol"
+			}
+		]
+	}		
 	]
 },
 "MOLAP": {
@@ -17479,6 +17518,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220404\fafe4d3f-406a-4a8c-aca5-fe28cf511ef1.txt",
 			"phrase": "Infrastructure (AWS, Terraform"
 			}				
+		]
+	},	
+	{
+		"categoryName": "Infrastructure as Code technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
+			"phrase": "Infrastructure as Code technologies, like Terraform"
+			}						
 		]
 	},		
 	{
