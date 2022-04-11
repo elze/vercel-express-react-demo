@@ -1987,7 +1987,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220217\d108be77-9241-4ed4-8086-f4ca5907efc7.txt",
 			"phrase": "AWS or a similar public cloud"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Public clouds such as Azure, AWS"
+			}			
 		]
 	},
 	{
@@ -2323,7 +2327,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211214\0c508e4c-cffb-45d6-ae97-23b88fcc0541.txt",
 			"phrase": "public cloud (Azure"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Public clouds such as Azure"
+			}			
 		]
 	}		
 	]
@@ -6637,7 +6645,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211214\0c508e4c-cffb-45d6-ae97-23b88fcc0541.txt",
 			"phrase": "public cloud (Azure, AWS, or GCP"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Public clouds such as Azure, or GCP"
+			}			
 		]
 	}		
 	]
