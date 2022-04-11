@@ -16596,7 +16596,16 @@ exports.allTerms = {
 			"phrase": "database systems, such as SQL Server"
 			}
 		]
-	},			
+	},	
+	{
+		"categoryName": "database technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220410/d00d981b-fa79-4c84-b4ae-66f6ec4ab2dd.txt",
+			"phrase": "database technologies (C#, MSSQL"
+			}
+		]
+	},		
 	{
 		"categoryName": "databases", 
 		"filesAndPhrases": [
