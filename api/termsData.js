@@ -10319,6 +10319,15 @@ exports.allTerms = {
 "Load balancers": {
 	"categories": [
 	{
+		"categoryName": "infrastructure", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "infrastructure – computing, load balancing"
+			}
+		]
+	},		
+	{
 		"categoryName": "Networking concepts", 
 		"filesAndPhrases": [
 			{
@@ -11802,6 +11811,18 @@ exports.allTerms = {
 			}								
 		]
 	}	
+	]
+},
+"network security": {
+	{
+		"categoryName": "infrastructure", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "infrastructure – computing, load balancing, and network security"
+			}
+		]
+	}
 	]
 },
 "networkProgramming": {
