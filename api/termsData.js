@@ -4132,7 +4132,20 @@ exports.allTerms = {
 		]
 	}
 	]
-},	
+},
+"compute load balancing": {
+	"categories": [
+	{
+		"categoryName": "Cloud computing", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Cloud computing, including basic, compute load balancing"
+			}
+		]
+	}
+	]
+},
 "concurrency": {
 	"categories": [
 	{
@@ -4482,19 +4495,6 @@ exports.allTerms = {
 	}
 	]
 },
-"DataDog": {
-	"categories": [
-	{
-		"categoryName": "Monitoring tools", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220217\d108be77-9241-4ed4-8086-f4ca5907efc7.txt",
-			"phrase": "Monitoring tools such as Prometheus, Grafana, DataDog"
-			}						
-		]
-	}
-	]
-},
 "D3": {
 	"categories": [
 	{
@@ -4609,6 +4609,19 @@ exports.allTerms = {
 	}
 	]
 },
+"DataDog": {
+	"categories": [
+	{
+		"categoryName": "Monitoring tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220217\d108be77-9241-4ed4-8086-f4ca5907efc7.txt",
+			"phrase": "Monitoring tools such as Prometheus, Grafana, DataDog"
+			}						
+		]
+	}
+	]
+},
 "dataLake": {
 	"categories": [
 	{
@@ -4657,6 +4670,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"datastore": {
+	"categories": [
+	{
+		"categoryName": "Cloud computing", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Cloud computing, including basic, compute load balancing, elastic scaling, monitoring, data stores"
+			}
+		]
+	}
+	]
+},	
 "dataWarehousing": {
 	"categories": [
 	{
@@ -5676,6 +5702,19 @@ exports.allTerms = {
 			}
 		]
 	}	
+	]
+},
+"elastic scaling": {
+	"categories": [
+	{
+		"categoryName": "Cloud computing", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Cloud computing, including basic, compute load balancing, elastic scaling"
+			}
+		]
+	}
 	]
 },
 "Elasticache": {
@@ -11089,6 +11128,19 @@ exports.allTerms = {
 	}		
 	]
 },
+"monitoring": {
+	"categories": [
+	{
+		"categoryName": "Cloud computing", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Cloud computing, including basic, compute load balancing, elastic scaling, monitoring"
+			}
+		]
+	}
+	]
+},	
 "Mono": {
 	"categories": [
 	{
