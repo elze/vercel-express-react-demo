@@ -10727,6 +10727,18 @@ exports.allTerms = {
 	}
 	]
 },
+"Micronaut": {
+	{
+		"categoryName": "Java microframeworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Java microframeworks – Vert.x, Quarkus, and Micronaut"
+			}
+		]
+	}
+	]
+},	
 "microservices": {
 	"categories": [
 	{
@@ -13604,6 +13616,18 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211208\d3c74acf-b55a-4fa1-b04f-87203493b2fa.txt",
 			"phrase": "automation tests like cypress, jest or pyunit"
+			}
+		]
+	}
+	]
+},
+"Quarkus": {
+{
+		"categoryName": "Java microframeworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Java microframeworks – Vert.x, Quarkus"
 			}
 		]
 	}
@@ -18322,6 +18346,18 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131029\4c571ce1-1ee4-46c9-8c1c-c88e8e69109b.txt",
 			"phrase": "standard programming assistance tools: bug tracking, version control"
+			}
+		]
+	}
+	]
+},
+"Vert.x": {
+{
+		"categoryName": "Java microframeworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Java microframeworks – Vert.x"
 			}
 		]
 	}
