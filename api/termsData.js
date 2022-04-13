@@ -507,7 +507,16 @@ exports.allTerms = {
 			"phrase": "Amazon Web Services (AWS) cloud products such as Lambda, EC2, RDS, SQS or Kinesis"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "Event streaming", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Event streaming using Apache Kafka, Kinesis"
+			}
+		]
+	},		
 	{
 		"categoryName": "high volume stream processing technologies", 
 		"filesAndPhrases": [
@@ -9661,6 +9670,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Event streaming", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Event streaming using Apache Kafka"
+			}
+		]
+	},		
+	{
 		"categoryName": "event-based systems", 
 		"filesAndPhrases": [	
 			{
@@ -13338,6 +13356,15 @@ exports.allTerms = {
 },
 "Pub/Sub": {
 	"categories": [
+	{
+		"categoryName": "Event streaming", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Event streaming using Apache Kafka, Kinesis, Pub/Sub"
+			}
+		]
+	},		
 	{
 		"categoryName": "Streaming Data", 
 		"filesAndPhrases": [
