@@ -5817,6 +5817,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Event streaming", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202204/20220407/8a997a6f-a89d-427a-905b-351f9d85f601.txt",
+			"phrase": "Event streaming using Apache Kafka"
+			}
+		]
+	},		
+	{
 		"categoryName": "event-based systems", 
 		"filesAndPhrases": [	
 			{
