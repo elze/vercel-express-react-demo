@@ -6512,6 +6512,19 @@ exports.allTerms = {
 	},	
 	]
 },
+"Figma": {
+	"categories": [
+	{
+		"categoryName": "creative design tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "creative design tools (Ex: Figma"
+			}			
+		]
+	}
+	]
+},	
 "Firebase": {
 	"categories": [
 	{
@@ -16391,6 +16404,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211206\a1e99fe5-b0dc-4a23-a4c2-a57d7e03234c.txt",
 			"phrase": "eCommerce Platforms including Shopify, Shipstation"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "Shopify eCommerce platform"
 			}			
 		]
 	},
