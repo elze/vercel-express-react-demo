@@ -1668,7 +1668,16 @@ exports.allTerms = {
 			"phrase": "common front-end development tools such as Babel"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "development build tools (Ex: Git, Yarn, NPM, WebPack, Babel"
+			}			
+		]
+	},		
 	{
 		"categoryName": "front-end development tools", 
 		"filesAndPhrases": [
@@ -1686,7 +1695,16 @@ exports.allTerms = {
 			"phrase": "JS tools (like webpack and babel"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "modern development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "modern development build tools (Ex: Git, Yarn, NPM, WebPack, Babel"
+			}			
+		]
+	},		
 	{
 		"categoryName": "tools", 
 		"filesAndPhrases": [
@@ -3999,7 +4017,16 @@ exports.allTerms = {
 			"phrase": "developer tools, such as Eclipse/IntelliJ, Visual Studio Code, Git"
 			}
 		]
-	},				
+	},
+	{
+		"categoryName": "development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "development build tools (Ex: Git"
+			}			
+		]
+	},		
 	{
 		"categoryName": "distributed version control system", 
 		"filesAndPhrases": [
@@ -4008,7 +4035,16 @@ exports.allTerms = {
 			"phrase": "Git or another distributed version control system"
 			}			
 		]
-	},	
+	},
+	{
+		"categoryName": "modern development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "modern development build tools (Ex: Git"
+			}			
+		]
+	},		
 	{
 		"categoryName": "modern front-end build tools", 
 		"filesAndPhrases": [
@@ -4017,7 +4053,7 @@ exports.allTerms = {
 			"phrase": "modern front-end build tools (e.g. Git"
 			}
 		]
-	},		
+	},
 	{
 		"categoryName": "Revision control software", 
 		"filesAndPhrases": [
@@ -7648,6 +7684,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "development build tools (Ex: Git, Yarn, NPM"
+			}			
+		]
+	},		
+	{
 		"categoryName": "front-end development tools", 
 		"filesAndPhrases": [
 			{
@@ -7674,6 +7719,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "modern development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "modern development build tools (Ex: Git, Yarn, NPM"
+			}			
+		]
+	},			
 	{
 		"categoryName": "modern front-end build tools", 
 		"filesAndPhrases": [
@@ -8705,7 +8759,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202110\20211014\145cc8c0-4e25-4b10-8bd9-3144c2e8dd3b.txt",
 			"phrase": "React or a similar framework"
-			}						
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "framework like React"
+			}			
 		]
 	},	
 	{
@@ -11288,7 +11346,16 @@ exports.allTerms = {
 			"phrase": "Common tools like webpack"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "development build tools (Ex: Git, Yarn, NPM, WebPack"
+			}			
+		]
+	},				
 	{
 		"categoryName": "Development tools", 
 		"filesAndPhrases": [
@@ -11334,6 +11401,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "modern development build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "modern development build tools (Ex: Git, Yarn, NPM, WebPack"
+			}			
+		]
+	},		
 	{
 		"categoryName": "modern front-end build tools", 
 		"filesAndPhrases": [
