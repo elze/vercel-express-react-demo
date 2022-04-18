@@ -251,6 +251,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "computer science core", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2019/201904/20190421/cc26e330-4959-415d-bd7a-91ae18f356b0.txt",
+			"phrase": "Computer science core: Data Structures, Algorithms"
+			}
+		]
+	},	
+	{
 		"categoryName": "core CS concepts", 
 		"filesAndPhrases": [
 			{
@@ -2630,6 +2639,15 @@ exports.allTerms = {
 "data structures": {
 	"categories": [
 	{
+		"categoryName": "computer science core", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2019/201904/20190421/cc26e330-4959-415d-bd7a-91ae18f356b0.txt",
+			"phrase": "Computer science core: Data Structures"
+			}
+		]
+	},		
+	{
 		"categoryName": "core CS concepts", 
 		"filesAndPhrases": [
 			{
@@ -2740,6 +2758,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "Languages/Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220416\d1d0ff16-abdf-4a39-a6e1-7bd4aab65dbc.txt",
+			"phrase": "Languages/Frameworks: JavaScript, Python/Django"
+			}
+		]
+	},		
 	{
 		"categoryName": "Python frameworks", 
 		"filesAndPhrases": [
@@ -2970,6 +2997,15 @@ exports.allTerms = {
 			}				
 		]
 	},			
+	{
+		"categoryName": "Languages/Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220416\d1d0ff16-abdf-4a39-a6e1-7bd4aab65dbc.txt",
+			"phrase": "Languages/Frameworks: JavaScript, Python/Django, Docker"
+			}
+		]
+	},	
 	{
 		"categoryName": "Provisioning technologies", 
 		"filesAndPhrases": [
@@ -5171,6 +5207,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "Languages/Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220416\d1d0ff16-abdf-4a39-a6e1-7bd4aab65dbc.txt",
+			"phrase": "Languages/Frameworks: JavaScript"
+			}
+		]
+	},		
+	{
 		"categoryName": "front-side", 
 		"filesAndPhrases": [
 			{
@@ -6459,7 +6504,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211212\53f35342-dc5c-4300-a5cd-9340030bcb1a.txt",
 			"phrase": "design patterns such as Micro-services"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220416\d1d0ff16-abdf-4a39-a6e1-7bd4aab65dbc.txt",
+			"phrase": "design patterns including domain-driven design, microservices"
+			}			
 		]
 	},
 	{
@@ -6743,6 +6792,15 @@ exports.allTerms = {
 },
 "multithreading": {
 	"categories": [
+	{
+		"categoryName": "computer science core", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2019/201904/20190421/cc26e330-4959-415d-bd7a-91ae18f356b0.txt",
+			"phrase": "Computer science core: Data Structures, Algorithms, Design Patterns and Concurrency/Multi-threading"
+			}
+		]
+	},			
 	{
 		"categoryName": "Linux system programming", 
 		"filesAndPhrases": [
@@ -8255,6 +8313,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "Languages/Frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220416\d1d0ff16-abdf-4a39-a6e1-7bd4aab65dbc.txt",
+			"phrase": "Languages/Frameworks: JavaScript, Python"
+			}
+		]
+	},		
 	{
 		"categoryName": "OO scripting languages", 
 		"filesAndPhrases": [
