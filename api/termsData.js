@@ -4333,6 +4333,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "core languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "core languages (HTML, JavaScript, SCSS/CSS"
+			}			
+		]
+	},					
+	{
 		"categoryName": "core web technologies", 
 		"filesAndPhrases": [
 			{
@@ -8065,6 +8074,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "core languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "core languages (HTML, JavaScript, SCSS/CSS"
+			}			
+		]
+	},		
+	{
 		"categoryName": "Development languages", 
 		"filesAndPhrases": [
 			{
@@ -8902,6 +8920,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "core languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "core languages (HTML, JavaScript"
+			}			
+		]
+	},		
 	{
 		"categoryName": "Development languages", 
 		"filesAndPhrases": [
@@ -15899,6 +15926,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201809\20180908\cf1db418-ccda-4849-9564-1576d6a8544f.txt",
 			"phrase": "SCSS, CSS, HTML5, Websockets, and other browser technologies"
 			}
+		]
+	},		
+	{
+		"categoryName": "core languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220415\2e697d0c-0fb1-4338-bc74-7e2d51fdc04a.txt",
+			"phrase": "core languages (HTML, JavaScript, SCSS"
+			}			
 		]
 	},		
 	{
