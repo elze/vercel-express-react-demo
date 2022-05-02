@@ -5,6 +5,7 @@ import Alert from '@mui/material/Alert'
 import Spinner from 'react-bootstrap/Spinner'
 
 import { PrimaryTerm } from './PrimaryTerm'
+//import { PrimaryTerm } from './PrimaryTermPriCol.js'
 
 
 function reducer(state, action) {
