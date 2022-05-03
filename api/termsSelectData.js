@@ -1359,7 +1359,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220216\8d5d0a6a-2bd9-4919-8218-4250722ee396.txt",
 			"phrase": "cloud services (AWS"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}				
 		]
 	},	
 	{
@@ -1401,6 +1405,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "IAAS and PAAS cloud services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}			
+		]
+	},			
 	{
 		"categoryName": "Infrastructure", 
 		"filesAndPhrases": [
@@ -3149,6 +3162,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "build/deployment tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "build/deployment tools (e.g. sbt, Docker"
+			}			
+		]
+	},		
+	{
 		"categoryName": "build tools", 
 		"filesAndPhrases": [
 			{
@@ -3647,6 +3669,15 @@ exports.allTerms = {
 "Elixir": {
 	"categories": [
 	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},	
+	{
 		"categoryName": "functional programming languages", 
 		"filesAndPhrases": [
 			{
@@ -4124,9 +4155,22 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220216\8d5d0a6a-2bd9-4919-8218-4250722ee396.txt",
 			"phrase": "cloud services (AWS, Google Cloud"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "GCP, AWS, or equivalent IAAS and PAAS cloud services"
+			}			
 		]
-	},			
+	},
+	{
+		"categoryName": "IAAS and PAAS cloud services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}			
+		]
+	},	
 	{
 		"categoryName": "public cloud", 
 		"filesAndPhrases": [
@@ -4739,6 +4783,15 @@ exports.allTerms = {
 			}			
 		]
 	},
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	},	
 	{
 		"categoryName": "SQL or NoSQL solutions", 
 		"filesAndPhrases": [		
@@ -6204,6 +6257,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	},	
 	{
 		"categoryName": "data technologies", 
 		"filesAndPhrases": [
@@ -7865,6 +7927,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "NodeJS, Python, Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},				
+	{
 		"categoryName": "Javascript frameworks", 
 		"filesAndPhrases": [
 			{
@@ -8815,6 +8886,15 @@ exports.allTerms = {
 			}			
 		]
 	},			
+	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "Python, Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},	
 	{
 		"categoryName": "functional or imperative programming languages", 
 		"filesAndPhrases": [

@@ -1405,6 +1405,32 @@ exports.allTerms = {
 	}		
 	]
 },
+"apacheDruid": {
+	"categories": [
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid"
+			}
+		]
+	}
+	]
+},
+"apacheFlink": {
+	"categories": [
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink"
+			}
+		]
+	}
+	]
+},
 "apacheJMeter": {
 	"categories": [
 	{
@@ -1501,6 +1527,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202110\20211008\3d1ec6fa-8e51-451b-8cc8-e2658a3da131.txt",
 			"phrase": "big data tools and technologies such Spark"
 			}			
+		]
+	},	
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark"
+			}
 		]
 	},	
 	{
@@ -2118,7 +2153,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220216\8d5d0a6a-2bd9-4919-8218-4250722ee396.txt",
 			"phrase": "cloud services (AWS"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}				
 		]
 	},	
 	{
@@ -2160,6 +2199,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "IAAS and PAAS cloud services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}			
+		]
+	},			
 	{
 		"categoryName": "Infrastructure", 
 		"filesAndPhrases": [
@@ -5078,6 +5126,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Dataflow": {
+	"categories": [
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	}
+	]
+},
 "dataLake": {
 	"categories": [
 	{
@@ -5502,6 +5563,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211208\d3c74acf-b55a-4fa1-b04f-87203493b2fa.txt",
 			"phrase": "build tools such as Docker"
 			}
+		]
+	},		
+	{
+		"categoryName": "build/deployment tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "build/deployment tools (e.g. sbt, Docker"
+			}			
 		]
 	},		
 	{
@@ -6335,6 +6405,15 @@ exports.allTerms = {
 "Elixir": {
 	"categories": [
 	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},			
+	{
 		"categoryName": "functional programming languages", 
 		"filesAndPhrases": [
 			{
@@ -7144,9 +7223,22 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220216\8d5d0a6a-2bd9-4919-8218-4250722ee396.txt",
 			"phrase": "cloud services (AWS, Google Cloud"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "GCP, AWS, or equivalent IAAS and PAAS cloud services"
+			}							
 		]
 	},			
+	{
+		"categoryName": "IAAS and PAAS cloud services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			}			
+		]
+	},	
 	{
 		"categoryName": "public cloud", 
 		"filesAndPhrases": [
@@ -8198,6 +8290,15 @@ exports.allTerms = {
 			}			
 		]
 	},
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	},	
 	{
 		"categoryName": "SQL or NoSQL solutions", 
 		"filesAndPhrases": [		
@@ -10345,6 +10446,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	},	
+	{
 		"categoryName": "data technologies", 
 		"filesAndPhrases": [
 			{
@@ -10461,6 +10571,19 @@ exports.allTerms = {
 			}
 		]
 	}		
+	]
+},
+"Kafka Streams": {
+	"categories": [
+	{
+		"categoryName": "data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
+			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
+			}
+		]
+	}
 	]
 },
 "Karma": {
@@ -12876,6 +12999,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "NodeJS, Python, Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},				
+	{
 		"categoryName": "Javascript frameworks", 
 		"filesAndPhrases": [
 			{
@@ -14344,7 +14476,16 @@ exports.allTerms = {
 			"phrase": "dynamic (scripting) languages, such Ruby, Perl, Python"
 			}			
 		]
-	},			
+	},
+	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "Python, Elixir, Sveltekit, or similar full stack development environments and toolsets"
+			}
+		]
+	},					
 	{
 		"categoryName": "functional or imperative programming languages", 
 		"filesAndPhrases": [
@@ -16672,6 +16813,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"SBT": {
+	"categories": [	
+	{
+		"categoryName": "build/deployment tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
+			"phrase": "build/deployment tools (e.g. sbt"
+			}			
+		]
+	}
+	]
+},
 "schema design": {
 	"categories": [
 	{
@@ -18451,6 +18605,19 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220419\83abe158-29e8-4a98-979b-d0e5417b9c4c.txt",
 			"phrase": "Javascript DOM rendering framework (e.g. React, Svelte"
+			}
+		]
+	}
+	]
+},
+"Sveltekit": {
+	"categories": [
+	{
+		"categoryName": "full stack development environments and toolsets", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220502\24b273b4-5098-47b8-931b-589a49e31e54.txt",
+			"phrase": "Sveltekit, or similar full stack development environments and toolsets"
 			}
 		]
 	}
