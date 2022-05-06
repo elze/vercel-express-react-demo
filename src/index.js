@@ -16,7 +16,8 @@ const tealOrangeTheme = createTheme({
 	  contrastText: teal[600],
     },
     secondary: {
-	  main: deepOrange[100]
+	  main: deepOrange[300],
+	  contrastText: deepOrange[50]
     },
 	danger: {
 		main: red[100]
