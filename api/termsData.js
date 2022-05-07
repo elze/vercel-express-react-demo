@@ -3466,7 +3466,7 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
 			"phrase": "Frameworks: .NET (ASP.NET MVC, WCF, Web API, etc.), jQuery, JavaScript frameworks (e.g. Backbone, Knockout, Angular, etc.), Twitter Bootstrap"
-			}
+			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220427\8f119b18-0eed-4c7e-9e2c-6e065d338952.txt",
 			"phrase": "frameworks like AngularJs, EmberJS, Bootstrap or any custom styling framework"
@@ -10584,7 +10584,7 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210808\8f4bd7f1-923d-4ac7-bf88-34ca3178ed8c.txt",
 			"phrase": "messaging systems like Kafka"
-			}
+			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220318\adfe0c83-da9f-4676-a916-97aeff335d5e.txt",
 			"phrase": "messaging systems like Kafka"
@@ -11693,6 +11693,7 @@ exports.allTerms = {
 	]
 },
 "Micronaut": {
+	"categories": [	
 	{
 		"categoryName": "Java microframeworks", 
 		"filesAndPhrases": [
@@ -11867,7 +11868,7 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201802\20180213\715e90c9-663c-4d5d-b5a7-df84ad15168a.txt",
 			"phrase": "Testing frameworks (ex: Karma, Jasmine, Mocha"
-			}
+			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220315\99b20918-3e73-4751-9a1b-2a0d0e8524a0.txt",
 			"phrase": "testing framework (Jest, Mocha/Chai"
@@ -12853,6 +12854,7 @@ exports.allTerms = {
 	]
 },
 "network security": {
+	"categories": [	
 	{
 		"categoryName": "infrastructure", 
 		"filesAndPhrases": [
@@ -14791,7 +14793,8 @@ exports.allTerms = {
 	]
 },
 "Quarkus": {
-{
+	"categories": [	
+	{
 		"categoryName": "Java microframeworks", 
 		"filesAndPhrases": [
 			{
@@ -19830,7 +19833,8 @@ exports.allTerms = {
 	]
 },
 "Vert.x": {
-{
+	"categories": [	
+	{
 		"categoryName": "Java microframeworks", 
 		"filesAndPhrases": [
 			{
