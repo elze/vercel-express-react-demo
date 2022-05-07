@@ -1363,7 +1363,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
 			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
-			}				
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "cloud services at scale on Azure, AWS"
+			}			
 		]
 	},	
 	{
@@ -1768,7 +1772,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220216\8d5d0a6a-2bd9-4919-8218-4250722ee396.txt",
 			"phrase": "cloud services (AWS, Google Cloud, Microsoft Azure"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "cloud services at scale on Azure"
+			}			
 		]
 	},		
 	{
@@ -2257,7 +2265,16 @@ exports.allTerms = {
 			"phrase": "cloud-based, async and persistence technologies such as Kafka, Redis, DynamoDB, and MySQL RDS"
 			}
 		]
-	},				
+	},
+	{
+		"categoryName": "compiled languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "compiled language e.g., C++, C#"
+			}
+		]
+	},		
 	{
 		"categoryName": "Development languages", 
 		"filesAndPhrases": [
@@ -2320,6 +2337,15 @@ exports.allTerms = {
 			}	
 		]
 	},
+	{
+		"categoryName": "object-oriented languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "object-oriented languages (such as C#"
+			}			
+		]
+	},		
 	{
 		"categoryName": "OOP languages", 
 		"filesAndPhrases": [
@@ -2404,7 +2430,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220127\3a7e274a-e064-4e3a-a828-3ebabbca9528.txt",
 			"phrase": "Compiled languages - e.g. Typescript, Java, C++"
-			}						
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "compiled language e.g., C++"
+			}			
 		]
 	},			
 	{
@@ -2443,6 +2473,15 @@ exports.allTerms = {
 			}			
 		]
 	},
+	{
+		"categoryName": "object-oriented languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "object-oriented languages (such as C#/C++"
+			}			
+		]
+	},	
 	{
 		"categoryName": "programming languages", 
 		"filesAndPhrases": [
@@ -4159,6 +4198,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
 			"phrase": "GCP, AWS, or equivalent IAAS and PAAS cloud services"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "cloud services at scale on Azure, AWS, or GCP"
 			}			
 		]
 	},
@@ -4167,7 +4210,7 @@ exports.allTerms = {
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220430\5e3c08f3-dd39-4b0a-89df-7580805ceb02.txt",
-			"phrase": "AWS, or equivalent IAAS and PAAS cloud services"
+			"phrase": "GCP, AWS, or equivalent IAAS and PAAS cloud services"
 			}			
 		]
 	},	
@@ -4473,11 +4516,11 @@ exports.allTerms = {
 		]
 	},		
 	{
-		"categoryName": "platforms", 
+		"categoryName": "compiled languages", 
 		"filesAndPhrases": [
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211102\ce75e504-2f18-4718-867f-41da964e8088.txt",
-			"phrase": "go, MySQL and other related platforms"
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "compiled language e.g., C++, C#, or Go"
 			}
 		]
 	},		
@@ -4507,7 +4550,16 @@ exports.allTerms = {
 			"phrase": "object oriented languages like Java and Go"
 			}
 		]
-	},			
+	},
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211102\ce75e504-2f18-4718-867f-41da964e8088.txt",
+			"phrase": "go, MySQL and other related platforms"
+			}
+		]
+	},		
 	{
 		"categoryName": "programming languages", 
 		"filesAndPhrases": [
@@ -5419,6 +5471,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "object-oriented languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220505\4bfda59c-f63e-49b1-98de-a25f47af507f.txt",
+			"phrase": "object-oriented languages (such as C#/C++/Java"
+			}			
+		]
+	},			
+	{
 		"categoryName": "OO languages", 
 		"filesAndPhrases": [
 			{
@@ -5603,7 +5664,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220421\4c50062f-118e-4001-8370-e042ff9555a8.txt",
 			"phrase": "Languages: PHP, .NET, C#, JavaScript"
-			}				
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "languages such as Javascript"
+			}			
 		]
 	},		
 	{
@@ -11031,6 +11096,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220421\4c50062f-118e-4001-8370-e042ff9555a8.txt",
 			"phrase": "Languages: PHP, .NET, C#, JavaScript, HTML/CSS, XML/XML Schema, SQL"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "languages such as Javascript/Typescript and SQL"
 			}			
 		]
 	},	
@@ -11613,7 +11682,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202105\20210520\568e2765-61ca-4639-891b-b0668f4630b4.txt",
 			"phrase": "Languages: Javascript, Typescript"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
+			"phrase": "languages such as Javascript/Typescript"
+			}			
 		]
 	},		
 	{
