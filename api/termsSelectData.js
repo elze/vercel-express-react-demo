@@ -1534,6 +1534,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "AWS features", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220507\04f74d00-5a61-4cbf-abac-89b49f75a6d2.txt",
+			"phrase": "AWS features and experience using them - RDS, S3, Cognito, Lambdas"
+			}
+		]
+	},		
+	{
 		"categoryName": "AWS services", 
 		"filesAndPhrases": [
 			{
@@ -9296,6 +9305,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "AWS features", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220507\04f74d00-5a61-4cbf-abac-89b49f75a6d2.txt",
+			"phrase": "AWS features and experience using them - RDS"
+			}
+		]
+	},	
+	{
 		"categoryName": "AWS services", 
 		"filesAndPhrases": [
 			{
@@ -10386,6 +10404,15 @@ exports.allTerms = {
 			}	
 		]
 	},	
+	{
+		"categoryName": "AWS features", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220507\04f74d00-5a61-4cbf-abac-89b49f75a6d2.txt",
+			"phrase": "AWS features and experience using them - RDS, S3"
+			}
+		]
+	},		
 	{
 		"categoryName": "AWS infrastructure", 
 		"filesAndPhrases": [
