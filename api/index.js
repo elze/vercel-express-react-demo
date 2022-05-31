@@ -6,6 +6,7 @@ const https = require('https');
 const http = require('http');
 var skillsData = require('./skillsData.js')
 var termsData = require('./termsSelectData.js')
+//var termsData = require('./termsData.js')
 
 app.set('port', (process.env.PORT || 8081));
 
