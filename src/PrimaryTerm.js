@@ -2,13 +2,6 @@ import Button from '@mui/material/Button';
 import { SkillCategory } from './SkillCategory'
 
 import { Box } from '@mui/system';
-import deepOrange from '@material-ui/core/colors/deepOrange';
-import red from '@material-ui/core/colors/red';
-import teal from '@material-ui/core/colors/teal';
-
-import { makeStyles } from '@mui/styles';
-import clsx from 'clsx';
-
 
 export function PrimaryTerm ({ primarySkill, ind, dispatch }) {	
 	const id = primarySkill.primary_term.split(' ').join('-');
