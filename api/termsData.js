@@ -540,6 +540,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "cloud technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "cloud technologies, like DynamoDB"
+			}
+		]
+	},	
+	{
 		"categoryName": "cloud-based, async and persistence technologies", 
 		"filesAndPhrases": [
 			{
@@ -1576,12 +1585,30 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "common tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
+			"phrase": "common tools (Pandas, NumPy, Spark"
+			}
+		]
+	},	
+	{
 		"categoryName": "data processing framework", 
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
 			"phrase": "data processing framework including Hadoop, Spark"
 			}
+		]
+	},
+	{
+		"categoryName": "paradigms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "Spark, Storm or related paradigms"
+			}						
 		]
 	},	
 	{
@@ -1644,6 +1671,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220122\613d3011-604a-4d19-9fda-69f9e8ed40c3.txt",
 			"phrase": "high volume stream processing technologies - Kafka, Redis Streams, Amazon Kinesis, Storm"
 			}
+		]
+	},		
+	{
+		"categoryName": "paradigms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "Storm or related paradigms"
+			}						
 		]
 	},		
 	{
@@ -1946,6 +1982,19 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220123\9eb282ab-868b-4620-ae9e-e0acf7ed1095.txt",
 			"phrase": ".Front-end Development (AngularJS, React, .NET MVC"
+			}
+		]
+	}
+	]
+},
+"Aster": {
+	"categories": [
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "platforms like Hadoop, Greenplum, Aster"
 			}
 		]
 	}
@@ -2571,6 +2620,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "cloud technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "cloud technologies, like DynamoDB, Lambda"
+			}
+		]
+	},		
 	{
 		"categoryName": "Continuous Integration", 
 		"filesAndPhrases": [
@@ -3991,6 +4049,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "lower level languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "lower level language (Java or C#"
+			}
+		]
+	},	
+	{
 		"categoryName": "major application development languages", 
 		"filesAndPhrases": [
 			{
@@ -4619,6 +4686,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "continuous integration, testing tools, workflows", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "continuous integration, testing tools, workflows (Github Actions, CircleCI"
+			}
+		]
+	},					
+	{
 		"categoryName": "DevTooling", 
 		"filesAndPhrases": [
 			{
@@ -4936,6 +5012,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"Cognos": {
+	"categories": [
+	{
+		"categoryName": "Business Intelligence Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy, Business Objects, Cognos"
+			}
+		]
+	}
+	]
+},	
 "Coherent": {
 	"categories": [
 	{
@@ -5677,7 +5766,16 @@ exports.allTerms = {
 			"phrase": "databases (DB2"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "large-scale database platforms like Hadoop, Teradata, DB2"
+			}
+		]
+	},		
 	{
 		"categoryName": "RDBMS", 
 		"filesAndPhrases": [
@@ -5920,6 +6018,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "server-side Web frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "server-side Web frameworks (Django"
+			}
+		]
+	},				
 	{
 		"categoryName": "software platforms", 
 		"filesAndPhrases": [
@@ -6799,6 +6906,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "cloud technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "cloud technologies, like DynamoDB, Lambda and Elasticsearch"
+			}
+		]
+	},				
+	{
 		"categoryName": "database management systems", 
 		"filesAndPhrases": [
 			{
@@ -6822,7 +6938,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202105\20210520\568e2765-61ca-4639-891b-b0668f4630b4.txt",
 			"phrase": "Datastores: PostgreSQL, ElasticSearch"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220701/2f7995b3-8c42-4381-b951-fddf3708d5b9.txt",
+			"phrase": "ElasticSearch or similar data stores"
+			}			
 		]
 	},	
 	{
@@ -7186,7 +7306,16 @@ exports.allTerms = {
 			"phrase": "JavaScript and its nuances, including ES6+ syntax"
 			}
 		]
-	}		
+	},
+	{
+		"categoryName": "web technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "web technologies: Redux, Webpack, ES6"
+			}
+		]
+	}	
 	]
 },
 "esriExperience": {
@@ -7302,6 +7431,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "server-side Web frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "server-side Web frameworks (Django (Python), Express"
+			}
+		]
+	},			
 	{
 		"categoryName": "web application frameworks", 
 		"filesAndPhrases": [	
@@ -8072,15 +8210,6 @@ exports.allTerms = {
 		]
 	},	
 	{
-		"categoryName": "Source Code Management (SCM) systems", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2015\201503\20150310\594af20c-a96e-4389-8e55-08182f520aaf.txt",
-			"phrase": "- Source Code Management (SCM) systems like Git"
-			}
-		]
-	},
-	{
 		"categoryName": "source code control tools", 
 		"filesAndPhrases": [
 			{
@@ -8089,6 +8218,24 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "Source Code Management (SCM) systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2015\201503\20150310\594af20c-a96e-4389-8e55-08182f520aaf.txt",
+			"phrase": "- Source Code Management (SCM) systems like Git"
+			}
+		]
+	},	
+	{
+		"categoryName": "source code management tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "source code management tools (git)"
+			}
+		]
+	},	
 	{
 		"categoryName": "source code repositories", 
 		"filesAndPhrases": [
@@ -8330,6 +8477,15 @@ exports.allTerms = {
 			}			
 		]
 	},
+	{
+		"categoryName": "continuous integration, testing tools, workflows", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "continuous integration, testing tools, workflows (Github Actions"
+			}
+		]
+	},	
 	{
 		"categoryName": "DevOps", 
 		"filesAndPhrases": [
@@ -8780,6 +8936,28 @@ exports.allTerms = {
 	}
 	]
 },
+"Greenplum": {
+	"categories": [
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201402\20140206\f7592858-bc83-496e-b417-e4873376327d.txt",
+			"phrase": "large-scale database platforms (e.g. Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum"
+			}
+		]
+	},	
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "platforms like Hadoop, Greenplum"
+			}
+		]
+	}
+	]
+},
 "grid systems": {
 	"categories": [
 	{
@@ -9052,6 +9230,33 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "large-scale database platforms like Hadoop"
+			}
+		]
+	},
+	{
+		"categoryName": "paradigms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "Hadoop, Spark, Storm or related paradigms"
+			}						
+		]
+	},		
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "platforms like Hadoop"
+			}
+		]
+	},	
+	{
 		"categoryName": "SQL or NoSQL solutions", 
 		"filesAndPhrases": [		
 			{
@@ -9316,7 +9521,33 @@ exports.allTerms = {
 		]
 	}
 	]
+},
+"HP Autonomy": {
+	"categories": [
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "large-scale database platforms like Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum, Oracle ExaData, SAS, HP Neoview, HP Vertica, HP Autonomy"
+			}
+		]
+	}
+	]
 },	
+"HP Neoview": {
+	"categories": [
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "large-scale database platforms like Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum, Oracle ExaData, SAS, HP Neoview"
+			}
+		]
+	}
+	]
+},
 "HTML": {
 	"categories": [
 	{
@@ -9781,6 +10012,19 @@ exports.allTerms = {
 	}
 	]
 },
+"IBM BigInsights": {
+	"categories": [
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "large-scale database platforms like Hadoop, Teradata, DB2, IBM BigInsights"
+			}
+		]
+	}
+	]
+},
 "ibmRational": {
 	"categories": [
 	{
@@ -10141,6 +10385,15 @@ exports.allTerms = {
 			]
 	},	
 	{
+		"categoryName": "lower level languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "lower level language (Java"
+			}
+		]
+	},		
+	{
 		"categoryName": "major application development languages", 
 		"filesAndPhrases": [
 			{
@@ -10467,7 +10720,16 @@ exports.allTerms = {
 			"phrase": "programming languages - Angular 2+, JavaScript"
 			}			
 		]
-	},	
+	},
+	{
+		"categoryName": "scripting", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201809\20180901\4646bd27-982e-46ee-ae39-a9a0e08d6825.txt",
+			"phrase": "scripting capabilities (Javascript"
+			}			
+		]
+	},		
 	{
 		"categoryName": "scripting languages", 
 		"filesAndPhrases": [
@@ -10489,19 +10751,14 @@ exports.allTerms = {
 			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220127\3a7e274a-e064-4e3a-a828-3ebabbca9528.txt",
-			"phrase": "Operating Systems - e.g. Linux"
-			}						
-		]
-	},
-	{
-		"categoryName": "scripting", 
-		"filesAndPhrases": [
+			"phrase": "Scripting languages - e.g. Python, Javascript"
+			},
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201809\20180901\4646bd27-982e-46ee-ae39-a9a0e08d6825.txt",
-			"phrase": "scripting capabilities (Javascript"
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "scripting languages (JavaScript"
 			}			
 		]
-	},	
+	},
 	{
 		"categoryName": "software languages", 
 		"filesAndPhrases": [
@@ -12318,6 +12575,19 @@ exports.allTerms = {
 	},		
 	]
 },
+"Mahout": {
+	"categories": [
+	{
+		"categoryName": "analytical tools, languages, or libraries for analyzing data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "analytical tools, languages, or libraries for analyzing data on platforms like Hadoop, Greenplum, Aster, Vertica (such as SAS, SPSS, R, Mahout"
+			}
+		]
+	}
+	]
+},
 "MapReduce": {
 	"categories": [
 	{
@@ -12633,6 +12903,19 @@ exports.allTerms = {
 	}
 	]
 },
+"microfrontends": {
+	"categories": [
+	{
+		"categoryName": "design patterns", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211212\53f35342-dc5c-4300-a5cd-9340030bcb1a.txt",
+			"phrase": "design patterns such as Micro-services, Micro-UI"
+			}
+		]
+	}
+	]
+},
 "Micronaut": {
 	"categories": [	
 	{
@@ -12698,20 +12981,20 @@ exports.allTerms = {
 		]
 	}
 	]
-},
-"microfrontends": {
+},	
+"MicroStrategy": {
 	"categories": [
 	{
-		"categoryName": "design patterns", 
+		"categoryName": "Business Intelligence Tools", 
 		"filesAndPhrases": [
 			{
-			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211212\53f35342-dc5c-4300-a5cd-9340030bcb1a.txt",
-			"phrase": "design patterns such as Micro-services, Micro-UI"
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy"
 			}
 		]
 	}
 	]
-},	
+},
 "ML": {
 	"categories": [
 	{
@@ -13360,7 +13643,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171001\9a66d803-fb56-4fd9-b6bc-fe3851f11649.txt",
 			"phrase": "MVC architecture"
-			}
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "MVC architecture"
+			}				
 		]
 	},	
 	{
@@ -14181,7 +14468,16 @@ exports.allTerms = {
 			"phrase": "Node or similar script frameworks"
 			}			
 		]
-	},					
+	},	
+	{
+		"categoryName": "scripting languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "scripting languages (JavaScript (Node.js"
+			}			
+		]
+	},		
 	{
 		"categoryName": "server", 
 		"filesAndPhrases": [
@@ -14469,6 +14765,15 @@ exports.allTerms = {
 "numpy": {
 	"categories": [
 	{
+		"categoryName": "common tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
+			"phrase": "common tools (Pandas, NumPy"
+			}
+		]
+	},		
+	{
 		"categoryName": "Data processing, modeling, and analytics tools", 
 		"filesAndPhrases": [
 			{
@@ -14545,6 +14850,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"OBIEE": {
+	"categories": [
+	{
+		"categoryName": "Business Intelligence Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy, Business Objects, Cognos or Oracle Business Enterprise Edition (OBIEE"
+			}
+		]
+	}
+	]
+},	
 "Object-oriented programming": {
 	"categories": [	
 	{
@@ -14872,6 +15190,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"Oracle ExaData": {
+	"categories": [
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201402\20140206\f7592858-bc83-496e-b417-e4873376327d.txt",
+			"phrase": "large-scale database platforms (e.g. Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum, Oracle ExaData"
+			}
+		]
+	}	
+	]
+},	
 "Oracle Fusion Middleware": {
 	"categories": [
 	{
@@ -14909,6 +15240,15 @@ exports.allTerms = {
 },
 "pandas": {
 	"categories": [
+	{
+		"categoryName": "common tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
+			"phrase": "common tools (Pandas"
+			}
+		]
+	},		
 	{
 		"categoryName": "Data processing, modeling, and analytics tools", 
 		"filesAndPhrases": [
@@ -15187,6 +15527,19 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131023\6ae794b8-b31a-4a98-a256-2d2d4b0dd60b.txt",
 			"phrase": "ETL tools such as  Informatica, years developing programs using ETL tools such as  Informatica Power Center, IBM InfoSphere DataStage 8.x, Oracle PL/SQL"
 			}			
+		]
+	}
+	]
+},
+"Play": {
+	"categories": [	
+	{
+		"categoryName": "server-side Web frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "server-side Web frameworks (Django (Python), Express (Node.js), Play"
+			}
 		]
 	}
 	]
@@ -15471,6 +15824,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220513\ff9ba24c-82de-4d6b-85ff-52d8bdc0a2bb.txt",
 			"phrase": "relational databases (preferably PostgreSQL"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
+			"phrase": "PostgreSQL or another relational database"
 			}			
 		]
 	},				
@@ -15913,8 +16270,12 @@ exports.allTerms = {
 			},
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220127\3a7e274a-e064-4e3a-a828-3ebabbca9528.txt",
-			"phrase": "Operating Systems - e.g. Linux"
-			}									
+			"phrase": "Scripting languages - e.g. Python"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "scripting languages (JavaScript (Node.js) / Python"
+			}			
 		]
 	},
 	{
@@ -16074,6 +16435,28 @@ exports.allTerms = {
 	}
 	]
 },
+"R language": {
+	"categories": [
+	{
+		"categoryName": "analytical tools, languages, or libraries for analyzing data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "analytical tools, languages, or libraries for analyzing data on platforms like Hadoop, Greenplum, Aster, Vertica (such as SAS, SPSS, R,"
+			}
+		]
+	},
+	{
+		"categoryName": "common tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
+			"phrase": "common tools (Pandas, NumPy, Spark, R"
+			}
+		]
+	}		
+	]
+},	
 "RabbitMQ": {
 	"categories": [
 	{
@@ -16405,6 +16788,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "front-end development frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "React or other modern front-end development frameworks"
+			}
+		]
+	},		
+	{
 		"categoryName": "Frontend Frameworks", 
 		"filesAndPhrases": [
 			{
@@ -16688,6 +17080,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "modern front-end development frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "React or other modern front-end development frameworks"
+			}
+		]
+	},			
 	{
 		"categoryName": "modern frontend frameworks", 
 		"filesAndPhrases": [
@@ -17419,6 +17820,15 @@ exports.allTerms = {
 			"phrase": "web libraries and frameworks. Preferred: Underscore, Flux/Redux"
 			}
 		]
+	},
+	{
+		"categoryName": "web technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "web technologies: Redux"
+			}
+		]
 	}		
 	]
 },
@@ -17459,6 +17869,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "architectures", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "RESTful, and/or MVC architecture"
+			}			
+		]
+	},		
 	{
 		"categoryName": "Networking", 
 		"filesAndPhrases": [
@@ -18144,6 +18563,59 @@ exports.allTerms = {
 	}
 	]
 },	
+"SAP Business Objects": {
+	"categories": [
+	{
+		"categoryName": "Business Intelligence Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy, Business Objects"
+			}
+		]
+	}
+	]
+},
+"SAS": {
+	"categories": [
+	{
+		"categoryName": "analytical tools, languages, or libraries for analyzing data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "analytical tools, languages, or libraries for analyzing data on platforms like Hadoop, Greenplum, Aster, Vertica (such as SAS"
+			}
+		]
+	},
+	{
+		"categoryName": "Business Intelligence Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy, Business Objects, Cognos or Oracle Business Enterprise Edition (OBIEE"
+			}
+		]
+	},	
+	{
+		"categoryName": "common tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
+			"phrase": "common tools (Pandas, NumPy, Spark, R, SAS"
+			}
+		]
+	},			
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201402\20140206\f7592858-bc83-496e-b417-e4873376327d.txt",
+			"phrase": "large-scale database platforms (e.g. Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum, Oracle ExaData, SAS"
+			}
+		]
+	}		
+	]
+},	
 "Sass": {
 	"categories": [
 	{
@@ -18701,6 +19173,19 @@ exports.allTerms = {
 },
 "Service-Oriented Architecture": {
 	"categories": [
+	{
+		"categoryName": "Architectures", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220301\62fb48ea-7627-42b0-b70a-1e65cfc7b00b.txt",
+			"phrase": "Architectures like micro services, SOA"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220626\b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "SOA, RESTful, and/or MVC architecture"
+			}			
+		]
+	},	
 	{
 		"categoryName": "Services", 
 		"filesAndPhrases": [
@@ -19406,6 +19891,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"SPSS": {
+	"categories": [
+	{
+		"categoryName": "analytical tools, languages, or libraries for analyzing data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "analytical tools, languages, or libraries for analyzing data on platforms like Hadoop, Greenplum, Aster, Vertica (such as SAS, SPSS"
+			}
+		]
+	}
+	]
+},	
 "SQL": {
 	"categories": [	
 	{
@@ -20310,6 +20808,19 @@ exports.allTerms = {
 	},
 	]
 },
+"Tableau": {
+	"categories": [
+	{
+		"categoryName": "Business Intelligence Tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202008\20200805\56d08e9b-5e7e-4436-aec2-02c4d516f4ed.txt",
+			"phrase": "Business Intelligence Tools, including : MicroStrategy, Business Objects, Cognos or Oracle Business Enterprise Edition (OBIEE), Tableau"
+			}
+		]
+	}
+	]
+},
 "Tag Manager": {
 	"categories": [	
 	{
@@ -20584,7 +21095,16 @@ exports.allTerms = {
 			"phrase": "databases (DB2, MySQL,Teradata"
 			}
 		]
-	}
+	},
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201402\20140206\f7592858-bc83-496e-b417-e4873376327d.txt",
+			"phrase": "large-scale database platforms (e.g. Hadoop, Teradata"
+			}
+		]
+	}			
 	]
 },
 "Terraform": {
@@ -21069,6 +21589,15 @@ exports.allTerms = {
 			"phrase": "web-based languages and frameworks including TypeScript"
 			}						
 		]
+	},
+	{
+		"categoryName": "web technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "web technologies: Redux, Webpack, ES6, TypeScript"
+			}
+		]
 	}	
 	]
 },
@@ -21453,7 +21982,25 @@ exports.allTerms = {
 			"phrase": "database platform (e.g, MySQL, Vertica"
 			}
 		]
-	}
+	},
+	{
+		"categoryName": "large-scale database platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201402\20140206\f7592858-bc83-496e-b417-e4873376327d.txt",
+			"phrase": "large-scale database platforms (e.g. Hadoop, Teradata, DB2, IBM BigInsights, GreenPlum, Oracle ExaData, SAS, HP Neoview, HP Vertica"
+			}
+		]
+	},
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2014\201401\20140107\d312698b-c17d-4bf9-b865-2765e9618682.txt",
+			"phrase": "platforms like Hadoop, Greenplum, Aster, Vertica"
+			}
+		]
+	}	
 	]
 },
 "Visual Basic": {
@@ -22178,7 +22725,16 @@ exports.allTerms = {
 			"phrase": "tools like Webpack"
 			}
 		]
-	}			
+	},
+	{
+		"categoryName": "web technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220627\19b8261e-f88b-4f1a-95b4-858d2b0405ba.txt",
+			"phrase": "web technologies: Redux, Webpack"
+			}
+		]
+	}		
 	]
 },
 "Webpack Module Federation": {
