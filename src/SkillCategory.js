@@ -1,55 +1,54 @@
 import React from 'react';
 import './App.css';
 import Button from '@mui/material/Button';
-import { makeStyles } from '@mui/styles';
+import Chip from '@mui/material/Chip';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
 import cyan from '@material-ui/core/colors/cyan';
-
-import clsx from 'clsx';
 
 import utils from './Utils';
 
-const useStyles = makeStyles({
+const secondaryButtonTheme = createTheme({
+  palette: {
 	color_02: {
+		main: cyan[50],
+		contrastText: cyan[500],
 	},
 	color_04: {
-		/* backgroundColor: '#ebfafa', */
-		backgroundColor: cyan[100],
-		paddingBottom: '10px',
-		paddingTop: '10px',
+		main: cyan[100],
+		contrastText: cyan[500],
 	},
 	color_06: {
-		/* backgroundColor: '#c2f0f0', */
-		backgroundColor: cyan[200],
-		paddingBottom: '15px',
-		paddingTop: '15px',
+		main: cyan[200],
+		contrastText: cyan[500],
 	},
 	color_08: {
-		/* backgroundColor: '#99e6e6', */
-		backgroundColor: cyan[300],
-		color: '#ffffff',
-		paddingBottom: '20px',
-		paddingTop: '20px',
+		main: cyan[300],
+		contrastText: cyan[50],
 	},
 	color_10: {
-		/* backgroundColor: '#70dbdb', */
-		backgroundColor: cyan[400],
-		color: '#ffffff',
-		paddingBottom: '25px',
-		paddingTop: '25px',	
-	},
-	smallerFont: {
-		fontSize: 'smaller'
+		main: cyan[400],
+		contrastText: cyan[50],
 	}
+  },
+  spacing: 4,
+  typography: {
+	button: {
+		textTransform: "none"
+	}
+  }    
 });
 
+
 export function SkillCategory({ primarySkill, category }) {	
-	const classes = useStyles();
 	return (
-	<Button variant="contained" sx={{ m: 1 }} 
-	className={clsx(classes[utils.getButtonClass(category.filesAndPhrases?.length)])} >
-	  { category.categoryName }&nbsp;
-	  <span className={classes.smallerFont}>{category.filesAndPhrases?.length}</span>
+	<ThemeProvider theme={secondaryButtonTheme}>
+	<Button variant="contained" color={utils.getButtonClass(category.filesAndPhrases?.length)} 
+			sx={{ m: 1, p: category.filesAndPhrases ? category.filesAndPhrases.length : 1}} 
+	>
+	  { category.categoryName }&nbsp; 
+	  <Chip label={category.filesAndPhrases?.length} size="small" />
 	</Button>
+	</ThemeProvider>
 	);
 }
 
