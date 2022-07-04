@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
+//import blue from '@material-ui/core/colors/blue';
 import deepOrange from '@material-ui/core/colors/deepOrange';
 import red from '@material-ui/core/colors/red';
 import indigo from '@material-ui/core/colors/indigo';
@@ -19,23 +20,22 @@ const tealOrangeTheme = createTheme({
 	  main: deepOrange[300],
 	  contrastText: deepOrange[50]
     },
-	danger: {
-		main: red[100]
+	/*
+	error: {
+		main: blue[700]
 	},
+	*/
 	hasManyAssociations: {
 		main: teal[100],
 		contrastText: teal[600]
 	},
 	highlighted: {
 		main: teal[500],
-		contrastText: '#fff',
+		contrastText: teal[50],
 	},
 	secondaryArea: {
 		main: indigo[50]
-	},
-    text: {
-	  inverse: teal[50]
-    },	
+	}
   },
   spacing: 8,  
   typography: {

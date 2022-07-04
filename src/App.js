@@ -40,12 +40,20 @@ export function App() {
 				const uri = `/api/terms`;
 				const response = await fetch(uri);
 				if (response.status !== 200) {
-					const error = await response.json();
-					const errorMessage = error.error?.message;
-					errorInfo = `Server error: ${errorMessage}`
-					setErrorState(errorInfo);
-					allSkillsInfo = {};
-					console.log(`getAllSkills: an error occurred: allSkillsInfo = ${JSON.stringify(allSkillsInfo)} errorInfo = ${errorInfo}`);
+					//const error = await response.json();
+					const error = response.json()
+						.then(data => {
+							const errorMessage = error.error?.message;
+							errorInfo = `Server error: ${errorMessage}`
+							setErrorState(errorInfo);
+							allSkillsInfo = {};
+							console.log(`getAllSkills: an error occurred: allSkillsInfo = ${JSON.stringify(allSkillsInfo)} errorInfo = ${errorInfo}`);
+						})
+						.catch((err) => {
+							errorInfo = `Unable to retrieve data`;
+							console.log(`getAllSkills: an error occurred. The error result is not a valid JSON object; err = ${err}`);
+							setErrorState(errorInfo);
+						});
 				}			
 				else {
 					allSkillsInfo = await response.json();			
