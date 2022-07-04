@@ -1367,6 +1367,24 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Infrastructure as Code technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
+			"phrase": "Infrastructure as Code technologies, like Terraform and Ansible"
+			}						
+		]
+	},		
+	{
+		"categoryName": "infrastructure-as-code provisioning tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "infrastructure-as-code provisioning tools like Terraform and Ansible"
+			}			
+		]
+	},		
+	{
 		"categoryName": "orchestration and configuration management tools", 
 		"filesAndPhrases": [
 			{
@@ -6229,16 +6247,7 @@ exports.allTerms = {
 			"phrase": "containerization (e.g., Docker"
 			}			
 		]
-	},
-	{
-		"categoryName": "Containerization tools", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220414\de2f2cf8-0ca2-47f7-935c-0b154d7feee1.txt",
-			"phrase": "Containerization tools (Docker"
-			}
-		]
-	},		
+	},	
 	{
 		"categoryName": "containerization and build pipeline tools", 
 		"filesAndPhrases": [
@@ -6263,9 +6272,22 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202104\20210404\9eb804c7-dfe5-4656-8c91-aa5746f892bd.txt",
 			"phrase": "Docker or other containerization technologies"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "containerization technologies such as Docker"
+			}			
 		]
 	},	
+	{
+		"categoryName": "Containerization tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220414\de2f2cf8-0ca2-47f7-935c-0b154d7feee1.txt",
+			"phrase": "Containerization tools (Docker"
+			}
+		]
+	},		
 	{
 		"categoryName": "Containers", 
 		"filesAndPhrases": [
@@ -7363,7 +7385,16 @@ exports.allTerms = {
 			"phrase": "Blockchains (such as Bitcoin, Ethereum"
 			}
 		]
-	}	
+	},
+	{
+		"categoryName": "distributed infrastructure platforms", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "distributed infrastructure platforms like Ethereum"
+			}			
+		]
+	}		
 	]
 },
 "ExpressJS": {
@@ -7392,7 +7423,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2018\201801\20180107\dd67b462-a0a6-43a7-95a1-da3be897ef80.txt",
 			"phrase": "Express Framework"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "frameworks such as React and Express"
+			}			
 		]
 	},	
 	{
@@ -12096,6 +12131,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "Containerization technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "containerization technologies such as Docker and Kubernetes"
+			}			
+		]
+	},			
+	{
 		"categoryName": "Containerization tools", 
 		"filesAndPhrases": [
 			{
@@ -16400,6 +16444,19 @@ exports.allTerms = {
 	}
 	]
 },
+"Quorum": {
+	"categories": [
+	{
+		"categoryName": "distributed infrastructure platforms", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "distributed infrastructure platforms like Ethereum and Quorum"
+			}			
+		]
+	}
+	]
+},
 "QTP": {
 	"categories": [
 	{
@@ -16771,6 +16828,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220622\b812eeea-31a6-4f63-8571-b0ad1897e9df.txt",
 			"phrase": "frameworks like OJET, AngularJS, or ReactJS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "frameworks such as React"
 			}			
 		]
 	},	
@@ -18440,6 +18501,19 @@ exports.allTerms = {
 	}	
 	]
 },
+"SaaS": {
+	"categories": [
+	{
+		"categoryName": "traditional enterprise technologies", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "traditional enterprise technologies including SaaS"
+			}			
+		]
+	}
+	]
+},
 "SageMaker": {
 	"categories": [
 	{
@@ -18563,6 +18637,19 @@ exports.allTerms = {
 	}
 	]
 },	
+"SAP": {
+	"categories": [
+	{
+		"categoryName": "ERP systems", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "ERP systems (like SAP"
+			}			
+		]
+	}
+	]
+},
 "SAP Business Objects": {
 	"categories": [
 	{
@@ -21143,6 +21230,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220327\cfe393bd-3876-4636-ab2b-f72500fd4041.txt",
 			"phrase": "Infrastructure as Code technologies, like Terraform"
 			}						
+		]
+	},
+	{
+		"categoryName": "infrastructure-as-code provisioning tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220703/c37c8844-a0b2-4f67-89be-49dd1f2ac31d.txt",
+			"phrase": "infrastructure-as-code provisioning tools like Terraform"
+			}			
 		]
 	},		
 	{
