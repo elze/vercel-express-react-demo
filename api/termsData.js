@@ -13353,6 +13353,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220527\fee99d49-9a1e-437e-83fb-309f0aa5b843.txt",
 			"phrase": "NoSQL database design (Cosmos DB, MongoDB"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202206/20220626/b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "NoSQL databases (MongoDB"
 			}			
 		]
 	},
@@ -14053,7 +14057,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220224\9790981e-c57a-4930-a958-89dc9853e52b.txt",
 			"phrase": "Relational Databases (Preferably MySQL"
-			}				
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202206/20220626/b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "relational databases (Microsoft SQL Server, PostgresDB, MySQL"
+			}						
 		]
 	},
 	{
@@ -14144,7 +14152,16 @@ exports.allTerms = {
 			"phrase": "graph databases (Neo4j"
 			}
 		]
-	}
+	},
+	{
+		"categoryName": "NoSQL databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202206/20220626/b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "NoSQL databases (MongoDB, Neo4j"
+			}			
+		]
+	}	
 	]
 },
 "Neoload": {
@@ -15872,6 +15889,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220628\233c0ad0-cc79-4783-bfb2-dcbc10dce835.txt",
 			"phrase": "PostgreSQL or another relational database"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202206/20220626/b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "relational databases (Microsoft SQL Server, PostgresDB"
 			}			
 		]
 	},				
@@ -16884,6 +16905,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220511\4158fd73-b748-4946-b0d9-1ee8f66665ba.txt",
 			"phrase": "front-end frameworks (e.g., React"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220707/1661f886-0126-488a-8717-dd10fed4a03a.txt",
+			"phrase": "front-end framework (ideally React"
 			}			
 		]
 	},	
@@ -17039,6 +17064,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "JavaScript front-end frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220707/1661f886-0126-488a-8717-dd10fed4a03a.txt",
+			"phrase": "JavaScript front-end framework (ideally React"
+			}									
+		]
+	},				
 	{
 		"categoryName": "JavaScript frontend frameworks", 
 		"filesAndPhrases": [
@@ -19440,6 +19474,19 @@ exports.allTerms = {
 	},
 	]
 },
+"Shopify Plus": {
+	"categories": [
+	{
+		"categoryName": "eCommerce", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220705/e1ad2ed0-acbe-4b4a-9c83-bc3bb0e9c2c3.txt",
+			"phrase": "eCommerce, specifically Shopify Plus"
+			}			
+		]
+	},
+	]
+},
 "single-spa": {
 	"categories": [
 	{
@@ -20269,7 +20316,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220313\c0084c90-0f18-4cbe-b2dd-16aae2cf0f8c.txt",
 			"phrase": "Relational databases other than SQL Server"
-			}					
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202206/20220626/b1e0b629-3dae-4e6b-a2e0-3dcdc493e7e1.txt",
+			"phrase": "relational databases (Microsoft SQL Server"
+			}			
 		]
 	},	
 	{
