@@ -397,7 +397,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202102\20210211\4548df2f-0409-464d-9a8b-88482765a023.txt",
 			"phrase": "databases (e.g. SQL, PostgreSQL, DynamoDB"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "databases like MySQL, Dynamo DB"
+			}			
 		]
 	},	
 	{
@@ -1063,6 +1067,24 @@ exports.allTerms = {
 "Apache": {
 	"categories": [
 	{
+		"categoryName": "environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Apache, PHP environments"
+			}			
+		]
+	},		
+	{
+		"categoryName": "Unix web servers", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "Unix web servers (e.g. Apache"
+			}			
+		]
+	},		
+	{
 		"categoryName": "Web Server technologies", 
 		"filesAndPhrases": [
 			{
@@ -1617,7 +1639,16 @@ exports.allTerms = {
 			"phrase": "languages such as Go, AWS"
 			}
 		]
-	},				
+	},		
+	{
+		"categoryName": "modern development approaches", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "modern development approaches (containerization, using Amazon Web Services"
+			}			
+		]
+	},	
 	{
 		"categoryName": "platforms", 
 		"filesAndPhrases": [
@@ -2986,6 +3017,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "modern development approaches", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "modern development approaches (containerization, using Amazon Web Services, CI/CD"
+			}			
+		]
+	},		
+	{
 		"categoryName": "operational and application delivery tools and methodologies", 
 		"filesAndPhrases": [
 			{
@@ -3191,6 +3231,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220527\fee99d49-9a1e-437e-83fb-309f0aa5b843.txt",
 			"phrase": "web technologies (HTML, CSS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Web technologies (HTML, CSS"
 			}			
 		]
 	}	
@@ -3635,6 +3679,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "container / cluster tech", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220724/3c53c0a4-7448-46aa-a4d0-fa85b6c6f08a.txt",
+			"phrase": "container / cluster tech (K8s, Docker"
+			}			
+		]
+	},		
+	{
 		"categoryName": "Container platforms", 
 		"filesAndPhrases": [
 			{
@@ -3657,7 +3710,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211215\7279fab2-0b19-43ce-8eab-c042d4a52a4e.txt",
 			"phrase": "Container technologies such as Docker"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220730/c092b97a-0a3d-4da7-a83b-05736d738a35.txt",
+			"phrase": "container technologies (Docker"
+			}			
 		]
 	},	
 	{
@@ -3734,6 +3791,15 @@ exports.allTerms = {
 			}					
 		]
 	},
+	{
+		"categoryName": "Containers and container orchestration", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220725/2803e3b2-040f-4c2a-8eb6-e8ec890fc096.txt",
+			"phrase": "Containers and container orchestration (k8s, docker"
+			}			
+		]
+	},		
 	{
 		"categoryName": "development platforms", 
 		"filesAndPhrases": [
@@ -5667,7 +5733,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220527\fee99d49-9a1e-437e-83fb-309f0aa5b843.txt",
 			"phrase": "web technologies (HTML"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Web technologies (HTML"
+			}			
 		]
 	}
 	]
@@ -5755,6 +5825,15 @@ exports.allTerms = {
 			}
 		]
 	},				
+	{
+		"categoryName": "web standards", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "web standards (HTML5"
+			}			
+		]
+	},	
 	{
 		"categoryName": "web technologies", 
 		"filesAndPhrases": [
@@ -6579,7 +6658,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220527\fee99d49-9a1e-437e-83fb-309f0aa5b843.txt",
 			"phrase": "web technologies (HTML, CSS, JavaScript"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Web technologies (HTML, CSS, DOM, JavaScript"
+			}			
 		]
 	}
 	]
@@ -7371,6 +7454,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "container / cluster tech", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220724/3c53c0a4-7448-46aa-a4d0-fa85b6c6f08a.txt",
+			"phrase": "container / cluster tech (K8s"
+			}			
+		]
+	},		
+	{
 		"categoryName": "Container orchestration", 
 		"filesAndPhrases": [
 			{
@@ -7411,7 +7503,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211215\7279fab2-0b19-43ce-8eab-c042d4a52a4e.txt",
 			"phrase": "Container technologies such as Docker and Kubernetes"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220730/c092b97a-0a3d-4da7-a83b-05736d738a35.txt",
+			"phrase": "container technologies (Docker, LXD, Kubernetes"
+			}			
 		]
 	},		
 	{
@@ -7463,6 +7559,15 @@ exports.allTerms = {
 			}						
 		]
 	},
+	{
+		"categoryName": "Containers and container orchestration", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220725/2803e3b2-040f-4c2a-8eb6-e8ec890fc096.txt",
+			"phrase": "Containers and container orchestration (k8s"
+			}			
+		]
+	},	
 	{
 		"categoryName": "Deployment", 
 		"filesAndPhrases": [
@@ -7623,6 +7728,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "desktop operations systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "desktop operations systems (i.e., MacOS, Linux"
+			}			
+		]
+	},		
+	{
 		"categoryName": "development platforms", 
 		"filesAndPhrases": [
 			{
@@ -7654,6 +7768,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211115\3acd13ad-cef2-407e-a109-ef33ab54b2a3.txt",
 			"phrase": "Linux environment"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Linux, Apache, PHP environments"
 			}			
 		]
 	},
@@ -7719,6 +7837,59 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171001\9a66d803-fb56-4fd9-b6bc-fe3851f11649.txt",
 			"phrase": "UNIX environments (Linux"
+			}
+		]
+	},		
+	]
+},
+"MacOS": {
+	"categories": [
+	{
+		"categoryName": "common platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220609\f2466ba4-fb52-4244-aea8-a79478e08c73.txt",
+			"phrase": "common platforms (Linux, Windows, and Mac OS"
+			}
+		]
+	},	
+	{
+		"categoryName": "desktop operations systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "desktop operations systems (i.e., MacOS"
+			}			
+		]
+	},		
+	{
+		"categoryName": "Environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows, Linux/Unix, Mac OS X"
+			}	
+		]
+	},		
+	{
+		"categoryName": "operating systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202009\20200905\4e3cd89d-f44a-4f09-bdc0-f41636cd51b9.txt",
+			"phrase": "operating systems (Linux, Mac OS"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220127\3a7e274a-e064-4e3a-a828-3ebabbca9528.txt",
+			"phrase": "Operating Systems - e.g. Linux"
+			}			
+		]
+	},			
+	{
+		"categoryName": "UNIX environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2017\201710\20171001\9a66d803-fb56-4fd9-b6bc-fe3851f11649.txt",
+			"phrase": "UNIX environments (Linux, Mac"
 			}
 		]
 	},		
@@ -7886,6 +8057,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "modern development approaches", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "modern development approaches (containerization, using Amazon Web Services, CI/CD, micro-services"
+			}			
+		]
+	},		
+	{
 		"categoryName": "paradigms", 
 		"filesAndPhrases": [
 			{
@@ -8028,7 +8208,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220104\b0501567-f18c-46f3-8b72-8b04e0d855b3.txt",
 			"phrase": "MongoDB or similar databases"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "databases like MySQL, Dynamo DB, Redis, MongoDB"
+			}			
 		]
 	},	
 	{
@@ -8553,6 +8737,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220718/eb16ab04-5107-409f-9680-76c31d5435c2.txt",
 			"phrase": "database knowledge (SQL, MySQL"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "databases like MySQL"
 			}			
 		]			
 	},					
@@ -8578,6 +8766,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "major RDBMS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "major RDBMS (e.g. Postgres, MySQL"
+			}			
+		]
+	},		
 	{
 		"categoryName": "platforms", 
 		"filesAndPhrases": [
@@ -8614,6 +8811,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220202\a98a593c-4530-470e-9b73-25a0f13164ef.txt",
 			"phrase": "MySQL or other RDBMS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "RDBMS (e.g. Postgres, MySQL"
 			}			
 		]
 	},		
@@ -8807,6 +9008,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "Unix web servers", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "Unix web servers (e.g. Apache"
+			}			
+		]
+	},		
 	{
 		"categoryName": "web servers", 
 		"filesAndPhrases": [
@@ -9438,9 +9648,22 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
 			"phrase": "database (e.g., MySQL, Oracle"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220729/8be37f51-51c7-4efd-9587-37fc8a680173.txt",
+			"phrase": "Oracle database"
+			}			
 		]
 	},	
+	{
+		"categoryName": "major RDBMS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "major RDBMS (e.g. Postgres, MySQL, Oracle"
+			}			
+		]
+	},		
 	{
 		"categoryName": "RDBMS", 
 		"filesAndPhrases": [
@@ -9459,7 +9682,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202201\20220125\9cf6b763-9d76-4ec6-a060-5bf4d2684643.txt",
 			"phrase": "RDBMS knowledge (SQL Server, Oracle"
-			}						
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "RDBMS (e.g. Postgres, MySQL, Oracle"
+			}			
 		]
 	},
 	{
@@ -9832,6 +10059,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "major RDBMS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "major RDBMS (e.g. Postgres"
+			}			
+		]
+	},			
+	{
 		"categoryName": "modern datastores", 
 		"filesAndPhrases": [
 			{
@@ -9859,6 +10095,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211125\50b81bf6-b125-47c5-bf8b-2529dae3062c.txt",
 			"phrase": "PostgreSQL or another RDBMS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "RDBMS (e.g. Postgres"
 			}			
 		]
 	},	
@@ -11157,6 +11397,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220605\cd759bb1-17bd-41b4-82b7-0b8319dc4b2b.txt",
 			"phrase": "Databases (e.g. Postgres, MySQL, Redis"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
+			"phrase": "databases like MySQL, Dynamo DB, Redis"
 			}			
 		]
 	},
@@ -11433,6 +11677,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "modern web-based integration protocols and methods", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "modern web-based integration protocols and methods (e.g. REST"
+			}			
+		]
+	},	
+	{
 		"categoryName": "Networking", 
 		"filesAndPhrases": [
 			{
@@ -11497,7 +11750,16 @@ exports.allTerms = {
 			"phrase": "web technologies (HTML, CSS, JavaScript"
 			}									
 		]
-	}		
+	},
+	{
+		"categoryName": "web-based integration protocols and methods", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "web-based integration protocols and methods (e.g. REST"
+			}			
+		]
+	}	
 	]
 },
 "REST API": {
@@ -13885,6 +14147,89 @@ exports.allTerms = {
 	}		
 	]
 },
+"Windows": {
+	"categories": [
+	{
+		"categoryName": "common platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220609\f2466ba4-fb52-4244-aea8-a79478e08c73.txt",
+			"phrase": "common platforms (Linux, Windows"
+			}
+		]
+	},
+	{
+		"categoryName": "desktop operations systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220723/26f10a7a-1de7-4ded-a142-f750a8e8590b.txt",
+			"phrase": "desktop operations systems (i.e., MacOS (i.e., MacOS, Linux, and/or Windows"
+			}			
+		]
+	},	
+	{
+		"categoryName": "Environments", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131024\3c1555cb-6959-4487-bf06-71efa8b45999.txt",
+			"phrase": "Environments: Windows"
+			},				
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131218\09d22dc3-90cc-4979-817e-9e76beb11363.txt",
+			"phrase": "Environments: Windows"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131009\28318239-fc18-4733-a571-815d5dc5acfa.txt",
+			"phrase": "Windows environments"
+			}					
+		]
+	},
+	{
+		"categoryName": "major operating systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220420\edd40504-6b08-461f-a4b3-d148e2ffdd64.txt",
+			"phrase": "major operating system (e.g. Unix/Linux/Windows"
+			}			
+		]
+	},			
+	{
+		"categoryName": "operating systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202009\20200905\4e3cd89d-f44a-4f09-bdc0-f41636cd51b9.txt",
+			"phrase": "operating systems (Linux, Mac OS, Windows"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211101\2758c4ff-427a-4e98-abba-2331238cadc8.txt",
+			"phrase": "Windows and Linux/UNIX operating systems"
+			},
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220420\edd40504-6b08-461f-a4b3-d148e2ffdd64.txt",
+			"phrase": "operating system (e.g. Unix/Linux/Windows"
+			}				
+		]
+	},
+	{
+		"categoryName": "platforms", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131011\737eb7fc-aeac-4847-a043-52a765eb0823.txt",
+			"phrase": "Windows platforms"
+			}
+		]
+	},
+	{
+		"categoryName": "tools and technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211123\f4b5e7ef-d449-4553-9a8d-41dbb36ab78b.txt",
+			"phrase": "tools and technologies: SQL Server, ASP.Net C#, Windows"
+			}
+		]
+	}	
+	]
+},
 "XML": {
 	"categories": [
 	{
@@ -13938,7 +14283,7 @@ exports.allTerms = {
 	},
 	{
 		"categoryName": "testing frameworks", 
-		"filesAndPhrases": [
+		"filesAndPhrases": [	
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220520\49b8a21a-918d-45e7-8a5c-7f37219bb704.txt",
 			"phrase": "testing frameworks like XUnit"
