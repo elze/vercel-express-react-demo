@@ -39,8 +39,8 @@ export function App() {
 				const uri = `/api/terms`;
 				const response = await fetch(uri);
 				if (response.status !== 200) {
-					const error = response.json()
-						.then(data => {
+					response.json()					
+						.then(error => {
 							const errorMessage = error.error?.message;
 							errorInfo = `Server error: ${errorMessage}`
 							setErrorState(errorInfo);
