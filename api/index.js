@@ -6,7 +6,7 @@ const https = require('https');
 const http = require('http');
 var skillsData = require('./skillsData.js')
 var termsData = require('./termsSelectData.js')
-//var termsData = require('./termsData.js')
+// var termsData = require('./termsData.js')
 
 app.set('port', (process.env.PORT || 8081));
 
@@ -82,7 +82,7 @@ function processErrorResponse(res, statusCode, message) {
 }	
 
 app.listen(app.get('port'), function() {
-  console.log('Express app zeit-buttons-serverless is running on port', app.get('port'));
+  console.log('Express app vercel-express-react-demo is running on port', app.get('port'));
 });
 
 module.exports = app	

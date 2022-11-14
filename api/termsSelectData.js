@@ -64,7 +64,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220421\4c50062f-118e-4001-8370-e042ff9555a8.txt",
 			"phrase": "Languages: PHP, .NET"
-			}								
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "languages, including but not limited to C#, .NET"
+			}			
 		]
 	},	
 	{
@@ -305,6 +309,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC, Spring MVC, JSP, ASP.NET, jQuery, d3.js, analytics.js, servlets, JSF, Ajax"
+			}
+		]
+	},		
+	{
 		"categoryName": "Web 2.0 technologies", 
 		"filesAndPhrases": [
 			{
@@ -410,6 +423,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "Amazon AWS Services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2020/202009/20200917/e8cf8bbd-6bfe-4c54-b757-93e017df4b3f.txt",
+			"phrase": "Amazon AWS services like AppSync, Amplify, DynamoDB"
+			}				
+		]
+	},		
+	{
 		"categoryName": "Amazon Web Services", 
 		"filesAndPhrases": [
 			{
@@ -440,6 +462,15 @@ exports.allTerms = {
 			}			
 		]
 	},
+	{
+		"categoryName": "AWS technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2021/202103/20210320/7f336955-39e1-41e7-b35a-1db95d58217d.txt",
+			"phrase": "AWS technologies such as Lambda Functions, Cognito, AppSync, Amplify, S3, DynamoDB"
+			}				
+		]
+	},		
 	{
 		"categoryName": "AWS tools",
 		"filesAndPhrases": [
@@ -768,6 +799,10 @@ exports.allTerms = {
 			"phrase": "knowledge of frameworks such as React and Flux/Redux (preferred) or Backbone/Angular"
 			},
 			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2019/201901/20190112/7196229b-43c2-4164-95d0-1efdab1a7508.txt",
+			"phrase": "frameworks like (FlightJS, requireJS, wireJS , AngularJS"
+			},			
+			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210905\3f9d3d13-f637-4faa-9318-a8fa8cbdebf6.txt",
 			"phrase": "frameworks like Angular"
 			},
@@ -805,7 +840,16 @@ exports.allTerms = {
 			"phrase": "frameworks for web UI, such as Angular"
 			}			
 		]
-	},		
+	},	
+	{
+		"categoryName": "frameworks/libraries", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2018/201808/20180831/ee3e478a-31e3-4f8f-a98c-a61fe42486e3.txt",
+			"phrase": "frameworks/libraries: AngularJS"
+			}			
+		]
+	},	
 	{
 		"categoryName": "front end technologies", 
 		"filesAndPhrases": [
@@ -838,6 +882,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211216\e0443b1f-f62e-4dde-8ec4-50591f55cc4f.txt",
 			"phrase": "front-end frameworks: ReactJS, VueJS, Angular"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "front-end frameworks (e.g., Bootstrap, React.js, Vue.js, AngularJS"
 			}			
 		]
 	},		
@@ -1418,6 +1466,15 @@ exports.allTerms = {
 "apacheSpark": {
 	"categories": [
 	{
+		"categoryName": "Big Data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221102/6273f17b-3ff5-4599-bf7b-b7a107a91e44.txt",
+			"phrase": "Big Data (preferably Hadoop, Hive, Storm, MapReduce, Spark"
+			}			
+		]
+	},	
+	{
 		"categoryName": "big data technologies", 
 		"filesAndPhrases": [
 			{
@@ -1446,6 +1503,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202010\20201029\9c13fbc8-7140-44a4-b4a3-de3c543eec44.txt",
 			"phrase": "common tools (Pandas, NumPy, Spark"
 			}
+		]
+	},
+	{
+		"categoryName": "Data Pipeline and integration tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "Data Pipeline and integration tools like Talend, Change Data Capture (CDC), Spark"
+			}			
 		]
 	},	
 	{
@@ -1494,7 +1560,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2015\201505\20150514\fae5c665-aee7-4bc8-8920-11f3c83c7b01.txt",
 			"phrase": "Big Data: Hadoop (HDFS, Yarn), Kafka, Storm"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221102/6273f17b-3ff5-4599-bf7b-b7a107a91e44.txt",
+			"phrase": "Big Data (preferably Hadoop, Hive, Storm"
+			}			
 		]
 	},
 	{
@@ -1571,6 +1641,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220520\49b8a21a-918d-45e7-8a5c-7f37219bb704.txt",
 			"phrase": "frameworks or programming languages such as ASP.NET Core, ASP.NET"
 			}			
+		]
+	},	
+	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC, Spring MVC, JSP, ASP.NET"
+			}
 		]
 	},	
 	{
@@ -1829,6 +1908,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220215\8c40025f-341c-439b-80ab-57b3638743e0.txt",
 			"phrase": "cloud platforms (e.g. AWS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "cloud Platforms: Microsoft Azure, AWS"
 			}			
 		]
 	},	
@@ -2064,6 +2147,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211204\ead97651-2bff-4060-ada0-11003e9ce9a9.txt",
 			"phrase": "Amazon AWS server-less technologies such as Lambda"
 			}
+		]
+	},
+	{
+		"categoryName": "Amazon AWS Services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2020/202009/20200917/e8cf8bbd-6bfe-4c54-b757-93e017df4b3f.txt",
+			"phrase": "Amazon AWS services like AppSync, Amplify, DynamoDB, ElasticSearch, Lambda"
+			}				
 		]
 	},	
 	{
@@ -2368,6 +2460,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220427\8f119b18-0eed-4c7e-9e2c-6e065d338952.txt",
 			"phrase": "Cloud platforms - Azure"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "cloud Platforms: Microsoft Azure"
 			}			
 		]
 	},		
@@ -2472,7 +2568,7 @@ exports.allTerms = {
 	}	
 	]
 },
-"Azure Cosmos DB": {
+"Azure Cosmos": {
 	"categories": [	
 	{
 		"categoryName": "Azure Data Platform", 
@@ -2527,6 +2623,15 @@ exports.allTerms = {
 			"phrase": "NoSQL database design (Cosmos DB"
 			}									
 		]
+	},
+	{
+		"categoryName": "relational and NoSQL databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "relational and NoSQL databases such as Cosmos"
+			}			
+		]
 	}	
 	]
 },
@@ -2578,6 +2683,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "JavaScript tools such as Webpack, Babel"
+			}
+		]
+	},	
+	{
 		"categoryName": "JS tools", 
 		"filesAndPhrases": [
 			{
@@ -2594,7 +2708,16 @@ exports.allTerms = {
 			"phrase": "modern development build tools (Ex: Git, Yarn, NPM, WebPack, Babel"
 			}			
 		]
-	},		
+	},	
+	{
+		"categoryName": "modern JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "modern JavaScript tools such as Webpack, Babel"
+			}
+		]
+	},	
 	{
 		"categoryName": "tools", 
 		"filesAndPhrases": [
@@ -2627,7 +2750,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131210\38921479-816e-4ade-a153-8598c0c4e190.txt",
 			"phrase": "experience with frameworks/libraries such as: Node, Grunt, Knockout, Backbone"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2018/201808/20180831/ee3e478a-31e3-4f8f-a98c-a61fe42486e3.txt",
+			"phrase": "frameworks/libraries: AngularJS, BackboneJS"
+			}			
 		]
 	},			
 	{
@@ -2857,7 +2984,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210801\4fd3e39b-7103-46d7-9d2d-9200024973c8.txt",
 			"phrase": "front-end frameworks like Bootstrap"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "front-end frameworks (e.g., Bootstrap"
+			}			
 		]
 	},
 	{
@@ -3070,6 +3201,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220421\4c50062f-118e-4001-8370-e042ff9555a8.txt",
 			"phrase": "Languages: PHP, .NET, C#"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "languages, including but not limited to C#"
 			}			
 		]
 	},	
@@ -3373,6 +3508,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221101/29659092-4a92-45c6-87be-8e277a241fb2.txt",
+			"phrase": "databases like Elasticsearch, Redis, Cassandra"
+			}			
+		]
+	},	
+	{
 		"categoryName": "non relational stores", 
 		"filesAndPhrases": [
 			{
@@ -3415,6 +3559,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "relational and NoSQL databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "relational and NoSQL databases such as Cosmos, Cassandra"
+			}			
+		]
+	},		
 	{
 		"categoryName": "SORs", 
 		"filesAndPhrases": [
@@ -3732,7 +3885,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220424\65c27fe4-fbc9-4881-b39b-d52a191cce58.txt",
 			"phrase": "front-end technologies such as React, VueJS, Bootstrap, HTML, JavaScript, TypeScript, CSS"
-			}				
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221027/393b0cfd-bcd6-433e-8064-4c94a6d7e4ab.txt",
+			"phrase": "comfortable with front-end technologies such as HTML, CSS"
+			}			
 		]
 	},		
 	{
@@ -3743,7 +3900,16 @@ exports.allTerms = {
 			"phrase": "front-side (e.g., HTML, CSS"
 			}
 		]
-	},			
+	},
+	{
+		"categoryName": "frontend technologies",
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221029/eb3d856f-9821-4f91-869a-447c63b948d7.txt",
+			"phrase": "frontend technologies (HTML5, CSS"
+			}			
+		]
+	},	
 	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
@@ -3975,6 +4141,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC, Spring MVC, JSP, ASP.NET, jQuery, d3.js"
+			}
+		]
+	},		
+	{
 		"categoryName": "Javascript Frameworks", 
 		"filesAndPhrases": [
 			{
@@ -4200,6 +4375,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202206\20220622\b812eeea-31a6-4f63-8571-b0ad1897e9df.txt",
 			"phrase": "frameworks like Django"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221101/29659092-4a92-45c6-87be-8e277a241fb2.txt",
+			"phrase": "Frameworks like Django"
 			}			
 		]
 	},	
@@ -4925,6 +5104,15 @@ exports.allTerms = {
 "ElasticSearch": {
 	"categories": [
 	{
+		"categoryName": "Amazon AWS Services", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2020/202009/20200917/e8cf8bbd-6bfe-4c54-b757-93e017df4b3f.txt",
+			"phrase": "Amazon AWS services like AppSync, Amplify, DynamoDB, ElasticSearch"
+			}				
+		]
+	},	
+	{
 		"categoryName": "Big Data data stores and technologies", 
 		"filesAndPhrases": [
 			{
@@ -4966,7 +5154,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202111\20211126\960048db-4b3d-4d70-bb4d-4f63c081e1f2.txt",
 			"phrase": "databases (MySQL/ElasticSearch"
-			}									
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221101/29659092-4a92-45c6-87be-8e277a241fb2.txt",
+			"phrase": "databases like Elasticsearch"
+			}			
 		]
 	},		
 	{
@@ -5657,6 +5849,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220215\8c40025f-341c-439b-80ab-57b3638743e0.txt",
 			"phrase": "cloud platforms (e.g. AWS, GCP"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221024/127dc3a4-1c6c-4686-a911-82f8919ac56b.txt",
+			"phrase": "cloud Platforms: Microsoft Azure, AWS or GCP"
 			}			
 		]
 	},	
@@ -6558,6 +6754,24 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "frontend build systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2017/201705/20170519/8588d0e3-031f-4f11-9bf8-dc5a7e481ffe.txt",
+			"phrase": "frontend build systems such as grunt"
+			}
+		]
+	},	
+	{
+		"categoryName": "frontend build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2019/201901/20190122/67847572-939b-415d-9f30-4e53d95d1d60.txt",
+			"phrase": "frontend build tools such as Webpack, Rollup, Grunt"
+			}
+		]
+	},	
+	{
 		"categoryName": "JavaScript task-runners", 
 		"filesAndPhrases": [
 			{
@@ -6566,6 +6780,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "JavaScript tools such as Webpack, Babel, ESLint, Gulp, NPM, Bower, Browserify, Grunt"
+			}
+		]
+	},	
 	{
 		"categoryName": "modern front-end build tools", 
 		"filesAndPhrases": [
@@ -6576,6 +6799,24 @@ exports.allTerms = {
 		]
 	},			
 	{
+		"categoryName": "modern JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "modern JavaScript tools such as Webpack, Babel, ESLint, Gulp, NPM, Bower, Browserify, Grunt"
+			}
+		]
+	},	
+	{
+		"categoryName": "Node.js-based build tools", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2018/201810/20181030/3627233f-7b5b-4cef-acbe-9c08d1e7ea2f.txt",
+			"phrase": "Node.js-based build tools (Grunt.js"
+			}
+		]
+	},		
+	{
 		"categoryName": "tools", 
 		"filesAndPhrases": [
 			{
@@ -6583,7 +6824,7 @@ exports.allTerms = {
 			"phrase": "Grunt / Karma / NPM / Yarn tool"
 			}
 		]
-	},	
+	}
 	]
 },
 "Gulp": {
@@ -6625,11 +6866,47 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "frontend build systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2017/201705/20170519/8588d0e3-031f-4f11-9bf8-dc5a7e481ffe.txt",
+			"phrase": "frontend build systems such as grunt, gulp"
+			}
+		]
+	},	
+	{
+		"categoryName": "frontend build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2019/201901/20190122/67847572-939b-415d-9f30-4e53d95d1d60.txt",
+			"phrase": "frontend build tools such as Webpack, Rollup, Grunt, Gulp"
+			}
+		]
+	},		
+	{
 		"categoryName": "JavaScript task-runners", 
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202108\20210815\8e0f6f55-7571-40cd-ae8d-a18050ff3c6c.txt",
 			"phrase": "JavaScript task-runners, Gulp.js"
+			}
+		]
+	},	
+	{
+		"categoryName": "JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "JavaScript tools such as Webpack, Babel, ESLint, Gulp"
+			}
+		]
+	},	
+	{
+		"categoryName": "modern JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "modern JavaScript tools such as Webpack, Babel, ESLint, Gulp"
 			}
 		]
 	},	
@@ -6646,6 +6923,19 @@ exports.allTerms = {
 },
 "Hadoop": {
 	"categories": [
+	{
+		"categoryName": "Big Data", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2017/201712/20171216/45869567-bc19-4ea5-9f8a-5d30e49cd99a.txt",
+			"phrase": "Big Data: Platfora, RStudio, Pentaho Data Integration, Hue"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221102/6273f17b-3ff5-4599-bf7b-b7a107a91e44.txt",
+			"phrase": "Big Data (preferably Hadoop"
+			}			
+		]
+	},	
 	{
 		"categoryName": "Big Data Infrastructures", 
 		"filesAndPhrases": [
@@ -6833,6 +7123,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220424\65c27fe4-fbc9-4881-b39b-d52a191cce58.txt",
 			"phrase": "front-end technologies such as React, VueJS, Bootstrap, HTML"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221027/393b0cfd-bcd6-433e-8064-4c94a6d7e4ab.txt",
+			"phrase": "comfortable with front-end technologies such as HTML"
 			}			
 		]
 	},	
@@ -6843,6 +7137,15 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202203\20220319\805a6719-9291-4b0c-96d3-f232a7bde38b.txt",
 			"phrase": "front-side (e.g., HTML"
 			}
+		]
+	},			
+	{
+		"categoryName": "languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "languages, including but not limited to C#, .NET, SQL, HTML"
+			}			
 		]
 	},			
 	{
@@ -6981,7 +7284,16 @@ exports.allTerms = {
 			"phrase": "front-end technologies like JS, HTML5"
 			}
 		]
-	},		
+	},	
+	{
+		"categoryName": "frontend technologies",
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221029/eb3d856f-9821-4f91-869a-447c63b948d7.txt",
+			"phrase": "frontend technologies (HTML5"
+			}			
+		]
+	},	
 	{
 		"categoryName": "languages", 
 		"filesAndPhrases": [
@@ -7689,7 +8001,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202204\20220424\65c27fe4-fbc9-4881-b39b-d52a191cce58.txt",
 			"phrase": "front-end technologies such as React, VueJS, Bootstrap, HTML, JavaScript"
-			}				
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221027/393b0cfd-bcd6-433e-8064-4c94a6d7e4ab.txt",
+			"phrase": "front-end technologies such as HTML, Javascript"
+			}			
 		]
 	},	
 	{
@@ -7709,7 +8025,16 @@ exports.allTerms = {
 			"phrase": "front-side (e.g., HTML, CSS, JavaScript"
 			}
 		]
-	},					
+	},	
+	{
+		"categoryName": "frontend technologies",
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221029/eb3d856f-9821-4f91-869a-447c63b948d7.txt",
+			"phrase": "frontend technologies (HTML5, CSS, JavaScript"
+			}			
+		]
+	},			
 	{
 		"categoryName": "general-purpose programming languages", 
 		"filesAndPhrases": [
@@ -7750,6 +8075,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
 			"phrase": "languages such as Javascript"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "languages, including but not limited to C#, .NET, SQL, HTML, and JavaScript"
 			}			
 		]
 	},		
@@ -8356,6 +8685,15 @@ exports.allTerms = {
 			"phrase": "front-end technologies such as HTML, CSS, ReactJS, Jquery"
 			}					
 		]
+	},
+	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC, Spring MVC, JSP, ASP.NET, jQuery"
+			}
+		]
 	},		
 	{
 		"categoryName": "JavaScript frameworks", 
@@ -8888,6 +9226,28 @@ exports.allTerms = {
 "Knockout": {
 	"categories": [
 	{
+		"categoryName": "frameworks/libraries", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201312\20131210\38921479-816e-4ade-a153-8598c0c4e190.txt",
+			"phrase": "experience with frameworks/libraries such as: Node, Grunt, Knockout"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2018/201808/20180831/ee3e478a-31e3-4f8f-a98c-a61fe42486e3.txt",
+			"phrase": "frameworks/libraries: AngularJS, BackboneJS, KnockoutJS"
+			}			
+		]
+	},		
+	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC, Spring MVC, JSP, ASP.NET, jQuery, d3.js, analytics.js, servlets, JSF, Ajax, knockout.js"
+			}
+		]
+	},		
+	{
 		"categoryName": "JavaScript frameworks", 
 		"filesAndPhrases": [
 			{
@@ -8928,7 +9288,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2021\202109\20210905\3f9d3d13-f637-4faa-9318-a8fa8cbdebf6.txt",
 			"phrase": "Mobile technologies iOS (Swift/Objective-C), Android (Kotlin"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221023/f5500c6e-dfec-4d10-8315-a2f3fc18362a.txt",
+			"phrase": "Kotlin( Android"
+			}			
 		]
 	},
 	{
@@ -10175,7 +10539,16 @@ exports.allTerms = {
 			"phrase": "advanced JavaScript topics such as closures, prototypical inheritance, performance profiling, cross-browser polyfills and MVC/MVVM"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "Design patterns", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221027/393b0cfd-bcd6-433e-8064-4c94a6d7e4ab.txt",
+			"phrase": "Design patterns, specifically MVC"
+			}			
+		]
+	},		
 	{
 		"categoryName": "Frameworks Concepts", 
 		"filesAndPhrases": [
@@ -10192,6 +10565,15 @@ exports.allTerms = {
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202208/20220820/d9811df7-562d-440e-b0e2-b399d72b3a10.txt",
 			"phrase": "front-end technologies such as Razor, Express.js, or MVC"
 			}			
+		]
+	},	
+	{
+		"categoryName": "front-end toolkits and concepts", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2015/201509/20150923/3883b83e-5322-4e66-9df8-149ac990c705.txt",
+			"phrase": "front-end toolkits and concepts, e.g., MVC"
+			}
 		]
 	},	
 	{
@@ -10539,6 +10921,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202208/20220815/f9ef1826-e1f3-41fc-ab21-f1cc674f30d3.txt",
 			"phrase": "RDBMS (Postgres, MySQL"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221113/762d2dc0-68a7-4007-a012-195861873b89.txt",
+			"phrase": "MySQL (RDBMS"
 			}			
 		]
 	},		
@@ -10820,6 +11206,15 @@ exports.allTerms = {
 },
 "Node": {
 	"categories": [
+	{
+		"categoryName": "back-end technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "back-end technologies (e.g., NodeJS"
+			}			
+		]
+	},		
 	{
 		"categoryName": "backend", 
 		"filesAndPhrases": [
@@ -11302,6 +11697,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "JavaScript tools such as Webpack, Babel, ESLint, Gulp, NPM"
+			}
+		]
+	},			
+	{
 		"categoryName": "modern development build tools", 
 		"filesAndPhrases": [
 			{
@@ -11319,6 +11723,15 @@ exports.allTerms = {
 			}
 		]
 	},		
+	{
+		"categoryName": "modern JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "modern JavaScript tools such as Webpack, Babel, ESLint, Gulp, NPM"
+			}
+		]
+	},			
 	{
 		"categoryName": "preprocessors", 
 		"filesAndPhrases": [
@@ -11385,11 +11798,29 @@ exports.allTerms = {
 			"phrase": "OOP and functional programming paradigms"
 			}
 		]
+	},
+	{
+		"categoryName": "programming principles", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221103/c9432f60-c6c5-45bd-88fc-74847950085a.txt",
+			"phrase": "programming principles, which includes OOP/OOD"
+			}
+		]
 	}	
 	]
 },
 "Objective C": {
 	"categories": [
+	{
+		"categoryName": "iOS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221023/f5500c6e-dfec-4d10-8315-a2f3fc18362a.txt",
+			"phrase": "Objective C ( iOS)"
+			}			
+		]
+	},		
 	{
 		"categoryName": "mobile technologies iOS", 
 		"filesAndPhrases": [
@@ -11924,6 +12355,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202209/20220905/ef2cd3a1-1824-4b03-862f-7018c8121be1.txt",
 			"phrase": "Database experience preferred (PostgreSQL"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221101/29659092-4a92-45c6-87be-8e277a241fb2.txt",
+			"phrase": "databases like Elasticsearch, Redis, Cassandra, and Postgres"
 			}			
 		]
 	},	
@@ -12247,6 +12682,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "back-end technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "back-end technologies (e.g., NodeJS, Python"
+			}			
+		]
+	},		
+	{
 		"categoryName": "dynamic (scripting) languages", 
 		"filesAndPhrases": [	
 			{
@@ -12465,6 +12909,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202209/20220906/3e2c6809-542d-4943-bfaa-795ec8cffbe4.txt",
 			"phrase": "scripting languages such as Perl and Python"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2017/201708/20170826/4f447a68-7475-404e-8917-f5b71e682ecc.txt",
+			"phrase": "scripting language (Python"
 			}			
 		]
 	},
@@ -12890,6 +13338,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220707/1661f886-0126-488a-8717-dd10fed4a03a.txt",
 			"phrase": "front-end framework (ideally React"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "front-end frameworks (e.g., Bootstrap, React.js"
 			}			
 		]
 	},	
@@ -13617,6 +14069,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202207/20220727/bd1edf3e-9fdf-4669-94c8-8df918e9dc51.txt",
 			"phrase": "databases like MySQL, Dynamo DB, Redis"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221101/29659092-4a92-45c6-87be-8e277a241fb2.txt",
+			"phrase": "databases like Elasticsearch, Redis"
 			}			
 		]
 	},
@@ -14052,6 +14508,15 @@ exports.allTerms = {
 "Ruby": {
 	"categories": [
 	{
+		"categoryName": "back-end technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "back-end technologies (e.g., NodeJS, Python, Ruby"
+			}			
+		]
+	},	
+	{
 		"categoryName": "dynamic (scripting) languages", 
 		"filesAndPhrases": [	
 			{
@@ -14343,6 +14808,15 @@ exports.allTerms = {
 			}
 		]
 	},	
+	{
+		"categoryName": "AWS technologies", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2021/202103/20210320/7f336955-39e1-41e7-b35a-1db95d58217d.txt",
+			"phrase": "AWS technologies such as Lambda Functions, Cognito, AppSync, Amplify, S3"
+			}				
+		]
+	},		
 	{
 		"categoryName": "AWS tools", 
 		"filesAndPhrases": [
@@ -14667,12 +15141,30 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2014/201404/20140409/d36fcf19-1323-4a28-b74b-254ee7dcfd07.txt",
+			"phrase": "Selenium / Test Complete frameworks"
+			}
+		]
+	},		
+	{
 		"categoryName": "industry standard automation tools", 
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131009\3d9a0a02-8513-4963-878b-41c31c5d67d4.txt",
 			"phrase": "industry standard automation tools like Selenium"
 			}			
+		]
+	},		
+	{
+		"categoryName": "software test tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2014/201404/20140409/d36fcf19-1323-4a28-b74b-254ee7dcfd07.txt",
+			"phrase": "software test tools - ideally Selenium"
+			}
 		]
 	},		
 	{
@@ -15025,6 +15517,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221028/220b40c3-d59d-4ecd-8250-187669c808df.txt",
+			"phrase": "Spring Boot framework"
+			}			
+		]
+	},	
+	{
 		"categoryName": "Java stack", 
 		"filesAndPhrases": [
 			{
@@ -15131,6 +15632,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220504\3fcbaee5-8d61-4856-8c21-3a38d43b2738.txt",
 			"phrase": "languages such as Javascript/Typescript and SQL"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "languages, including but not limited to C#, .NET, SQL"
 			}			
 		]
 	},	
@@ -15687,6 +16192,15 @@ exports.allTerms = {
 },
 "Swift": {
 	"categories": [
+	{
+		"categoryName": "iOS", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221023/f5500c6e-dfec-4d10-8315-a2f3fc18362a.txt",
+			"phrase": "Swift, SwiftUI, Objective C ( iOS)"
+			}			
+		]
+	},		
 	{
 		"categoryName": "mobile technologies iOS", 
 		"filesAndPhrases": [
@@ -16327,18 +16841,18 @@ exports.allTerms = {
 		]
 	},
 	{
-		"categoryName": "frontend frameworks and libraries", 
+		"categoryName": "front-end frameworks", 
 		"filesAndPhrases": [
 			{
-			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202011\20201127\cd702e48-9b3e-4232-845d-d4739bf0eeda.txt",
-			"phrase": "frontend frameworks and libraries such as React, Vue.js"
+			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211216\e0443b1f-f62e-4dde-8ec4-50591f55cc4f.txt",
+			"phrase": "front-end frameworks: ReactJS, VueJS"
 			},
 			{
-			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211213\ae18404d-40a7-40b4-8774-e6b6020bf7db.txt",
-			"phrase": "front-end frameworks and Libraries e.g. ReactJS & Vue"
-			}				
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202210/20221026/786534d0-c34e-4c46-8e69-390624fdb00a.txt",
+			"phrase": "front-end frameworks (e.g., Bootstrap, React.js, Vue.js"
+			}			
 		]
-	},
+	},			
 	{
 		"categoryName": "front-end technologies", 
 		"filesAndPhrases": [
@@ -16358,15 +16872,6 @@ exports.allTerms = {
 		]
 	},	
 	{
-		"categoryName": "front-end frameworks", 
-		"filesAndPhrases": [
-			{
-			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211216\e0443b1f-f62e-4dde-8ec4-50591f55cc4f.txt",
-			"phrase": "front-end frameworks: ReactJS, VueJS"
-			}						
-		]
-	},		
-	{
 		"categoryName": "frontend frameworks", 
 		"filesAndPhrases": [
 			{
@@ -16374,7 +16879,20 @@ exports.allTerms = {
 			"phrase": "Frontend framework experience using Angular, React, or VueJS"
 			}
 		]
-	},			
+	},
+	{
+		"categoryName": "frontend frameworks and libraries", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2020\202011\20201127\cd702e48-9b3e-4232-845d-d4739bf0eeda.txt",
+			"phrase": "frontend frameworks and libraries such as React, Vue.js"
+			},
+			{
+			"filename": "MyProjects\Python\scp3\SkillClusters\DataFilesByDate\20200105\2021\202112\20211213\ae18404d-40a7-40b4-8774-e6b6020bf7db.txt",
+			"phrase": "front-end frameworks and Libraries e.g. ReactJS & Vue"
+			}				
+		]
+	},	
 	{
 		"categoryName": "globally supported frameworks", 
 		"filesAndPhrases": [
@@ -16805,6 +17323,24 @@ exports.allTerms = {
 			"phrase": "front-end tooling workflows: Node.js (NPM), SASS/SCSS, WebPack"
 			}
 		]
+	},
+	{
+		"categoryName": "frontend build systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2017/201705/20170519/8588d0e3-031f-4f11-9bf8-dc5a7e481ffe.txt",
+			"phrase": "frontend build systems such as grunt, gulp, webpack"
+			}
+		]
+	},
+	{
+		"categoryName": "frontend build tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2019/201901/20190122/67847572-939b-415d-9f30-4e53d95d1d60.txt",
+			"phrase": "frontend build tools such as Webpack"
+			}
+		]
 	},	
 	{
 		"categoryName": "JavaScript technologies", 
@@ -16812,6 +17348,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2019\201904\20190424\1469b193-39d6-4162-803f-f9973dd51411.txt",
 			"phrase": "WebPack, and d3 JavaScript technologies"
+			}
+		]
+	},	
+	{
+		"categoryName": "JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "JavaScript tools such as Webpack"
 			}
 		]
 	},	
@@ -16841,7 +17386,16 @@ exports.allTerms = {
 			"phrase": "modern front-end build tools (e.g. Git, Webpack"
 			}
 		]
-	},		
+	},	
+	{
+		"categoryName": "modern JavaScript tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221107/5c151e8b-25bc-4464-9f7e-c0b5a1dcd438.txt",
+			"phrase": "modern JavaScript tools such as Webpack"
+			}
+		]
+	},	
 	{
 		"categoryName": "modern tools", 
 		"filesAndPhrases": [
