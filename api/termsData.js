@@ -2281,6 +2281,15 @@ exports.allTerms = {
 		]
 	},		
 	{
+		"categoryName": "CI, CD & Automation tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "CI, CD & Automation tools like Jenkins and Ansible"
+			}
+		]
+	},	
+	{
 		"categoryName": "configuration management", 
 		"filesAndPhrases": [
 			{
@@ -2511,6 +2520,28 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2018/201809/20180930/f00e95a4-72d4-42bb-8988-f48856eef6b7.txt",
 			"phrase": "SOA frameworks (i.e. Apache Axis 2"
+			}
+		]
+	}
+	]
+},
+"Apache Beam": {
+	"categories": [
+	{
+		"categoryName": "data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data processing frameworks; such as Scala, Apache Beam"
+			}
+		]
+	},	
+	{
+		"categoryName": "large-scale data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "large-scale data processing frameworks; such as Scala, Apache Beam"
 			}
 		]
 	}
@@ -4338,6 +4369,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230218/7970cf08-b1ac-4f90-bfe9-0c588e4ff209.txt",
 			"phrase": "Cloud Technologies (Azure, GCP, AWS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230220/b1b9a04e-bc77-4117-ab6e-1bac86f623ed.txt",
+			"phrase": "Cloud technologies i.e AWS"
 			}			
 		]
 	},
@@ -5158,6 +5193,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230218/7970cf08-b1ac-4f90-bfe9-0c588e4ff209.txt",
 			"phrase": "Cloud Technologies (Azure"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230220/b1b9a04e-bc77-4117-ab6e-1bac86f623ed.txt",
+			"phrase": "Cloud technologies i.e AWS, Azure"
 			}			
 		]
 	},	
@@ -10850,6 +10889,28 @@ exports.allTerms = {
 	}
 	]
 },
+"Dask": {
+	"categories": [
+	{
+		"categoryName": "data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data processing frameworks; such as Scala, Apache Beam, Hadoop or Dask"
+			}
+		]
+	},	
+	{
+		"categoryName": "large-scale data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "large-scale data processing frameworks; such as Scala, Apache Beam, Hadoop or Dask"
+			}
+		]
+	}
+	]
+},
 "data storage": {
 	"categories": [
 	{
@@ -11452,6 +11513,15 @@ exports.allTerms = {
 "Demandware": {
 	"categories": [	
 	{
+		"categoryName": "ecommerce systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "ecommerce system (e.g., ATG, Shopify, Magento, Demandware"
+			}
+		]
+	},		
+	{
 		"categoryName": "shopping cart systems", 
 		"filesAndPhrases": [
 			{
@@ -11603,6 +11673,19 @@ exports.allTerms = {
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202202\20220208\d5144a84-2c06-447b-9779-10e668bb2fbd.txt",
 			"phrase": "cloud technologies such as Azure, AWS or DigitalOcean"
 			}		
+		]
+	}
+	]
+},
+"distributed datastore": {
+	"categories": [
+	{
+		"categoryName": "databases", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "databases (such as RDBMS, distributed datastore"
+			}
 		]
 	}
 	]
@@ -15169,6 +15252,10 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230218/7970cf08-b1ac-4f90-bfe9-0c588e4ff209.txt",
 			"phrase": "Cloud Technologies (Azure, GCP"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230220/b1b9a04e-bc77-4117-ab6e-1bac86f623ed.txt",
+			"phrase": "Cloud technologies i.e AWS, Azure, Google Cloud Platform"
 			}			
 		]
 	},		
@@ -16411,7 +16498,16 @@ exports.allTerms = {
 			"phrase": "data pipelining for ML-based products, using state-of-the-art cloud services (DataFlow, BigQuery"
 			}
 		]
-	},			
+	},
+	{
+		"categoryName": "data warehouses", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data warehouses (such as Snowflake, BigQuery"
+			}
+		]
+	},		
 	{
 		"categoryName": "Data Warehousing", 
 		"filesAndPhrases": [
@@ -17506,7 +17602,11 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2022\202205\20220501\85b9344a-b4b9-4872-b895-1ef9fdb4bce5.txt",
 			"phrase": "data processing framework including Hadoop, Spark, Flink, Kafka / KafkaStreams, Druid, or Dataflow"
-			}
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data processing frameworks; such as Scala, Apache Beam, Hadoop"
+			}			
 		]
 	},	
 	{
@@ -17518,6 +17618,15 @@ exports.allTerms = {
 			}			
 		]
 	},		
+	{
+		"categoryName": "large-scale data processing framework", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "large-scale data processing frameworks; such as Scala, Apache Beam, Hadoop"
+			}			
+		]
+	},	
 	{
 		"categoryName": "large-scale database platforms", 
 		"filesAndPhrases": [
@@ -20917,7 +21026,16 @@ exports.allTerms = {
 			"phrase": "CI/CD tools and systems such as Azure DevOps, Jenkins"
 			}			
 		]
-	},		
+	},
+	{
+		"categoryName": "CI, CD & Automation tools", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "CI, CD & Automation tools like Jenkins"
+			}
+		]
+	},	
 	{
 		"categoryName": "code management and CI/CD processes and tools", 
 		"filesAndPhrases": [
@@ -22156,7 +22274,16 @@ exports.allTerms = {
 			"phrase": "data technologies like Kafka"
 			}
 		]
-	},	
+	},
+	{
+		"categoryName": "distributed messaging systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "distributed messaging systems such as Kafka"
+			}
+		]
+	},		
 	{
 		"categoryName": "distributed queues", 
 		"filesAndPhrases": [
@@ -23994,6 +24121,15 @@ exports.allTerms = {
 			{
 			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2022/202211/20221108/4db545a6-95bf-4993-9da9-652aa0988808.txt",
 			"phrase": "eCommerce solutions including package software / SaaS Platforms like BigCommerce"
+			}
+		]
+	},	
+	{
+		"categoryName": "ecommerce systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "ecommerce system (e.g., ATG, Shopify, Magento"
 			}
 		]
 	},	
@@ -27602,6 +27738,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "database systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "database systems e.g. Relational, NoSQL"
+			}
+		]
+	},		
+	{
 		"categoryName": "database technologies", 
 		"filesAndPhrases": [
 			{
@@ -27610,6 +27755,15 @@ exports.allTerms = {
 			}
 		]
 	},
+	{
+		"categoryName": "major database systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "major database systems e.g. Relational, NoSQL"
+			}
+		]
+	},			
 	{
 		"categoryName": "relational and non-relational databases", 
 		"filesAndPhrases": [
@@ -28294,6 +28448,19 @@ exports.allTerms = {
 	}
 	]
 },
+"OpenCMS": {
+	"categories": [
+	{
+		"categoryName": "content management systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "content management system (e.g., OpenCMS"
+			}
+		]
+	}
+	]
+},
 "OpenCV": {
 	"categories": [
 	{
@@ -28725,6 +28892,19 @@ exports.allTerms = {
 			}
 		]
 	}	
+	]
+},
+"Oracle ATG": {
+	"categories": [
+	{
+		"categoryName": "ecommerce systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "ecommerce system (e.g., ATG"
+			}
+		]
+	}
 	]
 },
 "Oracle ExaData": {
@@ -31720,14 +31900,36 @@ exports.allTerms = {
 		]
 	},	
 	{
-		"categoryName": "Database", 
+		"categoryName": "Databases", 
 		"filesAndPhrases": [
 			{
 			"filename": "MyProjects\Python\SCP3\SkillClusters\DataFilesByDate\20200105\2013\201310\20131009\f352814e-69b5-4618-a77f-136eaaa87f51.txt",
 			"phrase": "Database expertise(RDBMS"
+			},
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "databases (such as RDBMS"
+			}			
+		]
+	},
+	{
+		"categoryName": "database systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "database systems e.g. Relational, NoSQL"
 			}
 		]
-	}
+	},		
+	{
+		"categoryName": "major database systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "major database systems e.g. Relational, NoSQL"
+			}
+		]
+	}	
 	]
 },
 "RDS": {
@@ -34866,6 +35068,24 @@ exports.allTerms = {
 "SAP": {
 	"categories": [
 	{
+		"categoryName": "CRM", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2014/201401/20140129/207d2b61-bd6b-40e7-815d-b1badbd47a9c.txt",
+			"phrase": "CRM (Siebel, SAP"
+			}			
+		]
+	},	
+	{
+		"categoryName": "ERP", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2014/201401/20140129/207d2b61-bd6b-40e7-815d-b1badbd47a9c.txt",
+			"phrase": "ERP (SAP"
+			}			
+		]
+	},	
+	{
 		"categoryName": "ERP systems", 
 		"filesAndPhrases": [	
 			{
@@ -35148,6 +35368,15 @@ exports.allTerms = {
 		]
 	},	
 	{
+		"categoryName": "data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data processing frameworks; such as Scala"
+			}
+		]
+	},		
+	{
 		"categoryName": "functional languages", 
 		"filesAndPhrases": [
 			{
@@ -35174,6 +35403,15 @@ exports.allTerms = {
 			}					
 		]
 	},	
+	{
+		"categoryName": "large-scale data processing frameworks", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "large-scale data processing frameworks; such as Scala"
+			}
+		]
+	},		
 	{
 		"categoryName": "modern JVM languages", 
 		"filesAndPhrases": [
@@ -36246,6 +36484,15 @@ exports.allTerms = {
 		]
 	},
 	{
+		"categoryName": "ecommerce systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230221/cde307f8-e742-40bc-983a-73c7f0dd5d4b.txt",
+			"phrase": "ecommerce system (e.g., ATG, Shopify"
+			}
+		]
+	},		
+	{
 		"categoryName": "shopping cart systems", 
 		"filesAndPhrases": [
 			{
@@ -36289,6 +36536,19 @@ exports.allTerms = {
 			}			
 		]
 	},
+	]
+},
+"Siebel": {
+	"categories": [
+	{
+		"categoryName": "CRM", 
+		"filesAndPhrases": [	
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2014/201401/20140129/207d2b61-bd6b-40e7-815d-b1badbd47a9c.txt",
+			"phrase": "CRM (Siebel"
+			}			
+		]
+	}
 	]
 },
 "SignalR": {
@@ -36533,6 +36793,15 @@ exports.allTerms = {
 			}			
 		]
 	},	
+	{
+		"categoryName": "data warehouses", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "data warehouses (such as Snowflake"
+			}
+		]
+	},		
 	{
 		"categoryName": "databases", 
 		"filesAndPhrases": [
@@ -36887,6 +37156,19 @@ exports.allTerms = {
 			}
 		]
 	}		
+	]
+},
+"Solace": {
+	"categories": [
+	{
+		"categoryName": "distributed messaging systems", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "distributed messaging systems such as Kafka, Solace"
+			}
+		]
+	}
 	]
 },
 "Solaris": {
@@ -37450,6 +37732,15 @@ exports.allTerms = {
 },	
 "SQL": {
 	"categories": [	
+	{
+		"categoryName": "data query languages", 
+		"filesAndPhrases": [
+			{
+			"filename": "MyProjects/Python/SCP3/SkillClusters/DataFilesByDate/20200105/2023/202302/20230219/12b3b458-1388-4a9a-9244-36784146ec99.txt",
+			"phrase": "SQL or other data query languages"
+			}
+		]
+	},			
 	{
 		"categoryName": "database technologies", 
 		"filesAndPhrases": [
