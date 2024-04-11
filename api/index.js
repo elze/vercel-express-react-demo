@@ -1,7 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const { createUser, searchUsers } = require("./controllers/user.controller.js");
-const { HandleIndex, HandleStatic } = require("./utils/handle.response.js");
 const {
   createConversation,
   getAllConversations,
