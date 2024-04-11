@@ -12,7 +12,6 @@ const { exec } = require("node:child_process");
 
 const { Server } = require("socket.io");
 const http = require("http");
-const Socket = new require("./utils/socket.js")();
 const { minify } = require("html-minifier");
 const fs = require('fs');
 const { join } = require("path")
@@ -44,6 +43,5 @@ app.get("/messages/get", getConversationMessages);
 const server = http.createServer(app);
 const ioServer = new Server(server);
 
-Socket.getInstance(ioServer);
-server.listen(4000);
+app.listen(4000);
 module.exports = server;
