@@ -12,7 +12,7 @@ const { exec } = require("node:child_process");
 
 const { Server } = require("socket.io");
 const http = require("http");
-const Socket = require("./utils/socket.js");
+const Socket = new require("./utils/socket.js")();
 const { minify } = require("html-minifier");
 const fs = require('fs');
 const { join } = require("path")
