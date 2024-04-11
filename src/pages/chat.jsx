@@ -320,7 +320,7 @@ export default function HomePage() {
       initial="initial"
       animate="animate"
       exit="exit"
-      className="flex main bg-[url('/bgidk.png')] bg-cover"
+      className="flex main bg-cover"
     >
       <motion.div
         variants={fromLeft}
