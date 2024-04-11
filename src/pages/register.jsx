@@ -221,7 +221,7 @@ const Register = () => {
 export default function Page() {
   const [correctPassword, setcpwd] = useState(true);
   return (
-    <motion.div className="flex main justify-center items-center bg-[url('/backgrounds/bg.webp')] bg-cover">
+    <motion.div className="flex main justify-center items-center bg-cover">
       <AnimatePresence mode="wait">
         {correctPassword ? (
           <Register />
