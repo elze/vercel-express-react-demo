@@ -170,26 +170,7 @@ export default function HomePage() {
     }
     var messageRef = React.useRef(null);
     useEffect(() => {
-      messageRef.current?.addEventListener("mousedown", () => {
-        var tempIndex = parseInt(messageRef.current.getAttribute("index"));
-
-        index = tempIndex;
-        setSelected(index);
-        setUser({
-          pfp: "/backgrounds/bg.webp",
-          name: "hello",
-          toSet: <>
-                <div
-                  class={`h-7 w-7 mr-3 rounded-full`}
-                  style={{
-                    backgroundImage: `url(`+"/backgrounds.bg.webp"+`)`
-                  }}
-                ></div>
-              Hello
-              </>
-        });
-        setNavSelected(4);
-      });
+      
     }, [messageRef.current]);
     var tempIndex = index;
     index = index + 1;
