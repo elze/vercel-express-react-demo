@@ -1,8 +1,15 @@
-import React from 'react';
-import ReactDOM from "react-dom";
+import React, { useState, useEffect } from "react";
+import { Router, Link } from "wouter";
 
-export default function App() {
-	return (
-		<>hello</>
-	)
+
+import "./styles/styles.css";
+
+import PageRouter from "./components/router.jsx";
+
+export default function Home() {
+  return (
+    <Router>
+      <PageRouter />
+    </Router>
+  );
 }
