@@ -2,7 +2,6 @@ import React, { useEffect, useState, useRef } from "react";
 import { motion } from "framer-motion";
 import TextTransition, { presets } from "react-text-transition";
 import ReactDOM from "react-dom";
-import "../styles/styles.css";
 import sanitizeHtml from "sanitize-html";
 import Status from "../components/Status.jsx";
 
