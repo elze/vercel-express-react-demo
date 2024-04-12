@@ -176,7 +176,7 @@ export default function HomePage() {
     index = index + 1;
 
     return (
-      <div class="flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md " ref={messageRef}>
+      <div class="relative flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md " ref={messageRef}>
         <div
           class="w-8 h-8 rounded-full userpfp cursor-pointer" 
           data-src={profile}
@@ -456,7 +456,7 @@ export default function HomePage() {
           </div>
         </div>
 
-        <div className="overflow-x-hidden overflow-scroll h-full w-full flex mt-2 flex-col items-stretch">
+        <div className="word-break: break-all; relative overflow-scroll h-full w-full flex mt-2 flex-col items-stretch">
           {initialUsers.map((user) => {
             return (
               <User
