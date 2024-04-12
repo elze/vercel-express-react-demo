@@ -174,9 +174,9 @@ export default function HomePage() {
     }, [messageRef.current]);
     var tempIndex = index;
     index = index + 1;
-
+    var uuid = crypto.randomUUID();
     return (
-      <div class="relative flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md" ref={messageRef}>
+      <div class="relative flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md hover:[&_.dismiss]:block" id={uuid} ref={messageRef}>
         <div
           class="w-8 h-8 rounded-full userpfp cursor-pointer" 
           data-src={profile}
@@ -186,6 +186,12 @@ export default function HomePage() {
           <div class="flex items-center space-x-2 rtl:space-x-reverse group">
             <span class="text-sm font-semibold text-[#727272] group-hover:text-white">{username}</span>
           </div>
+             <button type="button" class="dismiss none ms-auto -mx-1.5 -my-1.5 bg-white text-gray-400 hover:text-gray-900 rounded-lg focus:ring-2 focus:ring-gray-300 p-1.5 hover:bg-gray-100 inline-flex items-center justify-center h-8 w-8 dark:text-gray-500 dark:hover:text-white dark:bg-gray-800 dark:hover:bg-gray-700" data-dismiss-target="#toast-default" aria-label="Close">
+        <span class="sr-only">Close</span>
+        <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
+        </svg>
+    </button>
           {status.text !== null && (
             <p class="text-sm font-normal text-[#727272] group-hover:text-white text-ellipsis break-word">
               {status.text}
