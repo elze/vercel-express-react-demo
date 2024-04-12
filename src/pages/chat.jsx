@@ -176,7 +176,7 @@ export default function HomePage() {
     index = index + 1;
 
     return (
-      <div class="relative flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md " ref={messageRef}>
+      <div class="relative flex items-start gap-2 hover:bg-zinc-700 px-5 rounded-md" ref={messageRef}>
         <div
           class="w-8 h-8 rounded-full userpfp cursor-pointer" 
           data-src={profile}
@@ -187,7 +187,7 @@ export default function HomePage() {
             <span class="text-sm font-semibold text-[#727272] group-hover:text-white">{username}</span>
           </div>
           {status.text !== null && (
-            <p class="text-sm font-normal text-[#727272] group-hover:text-white overflow-hidden text-ellipsis">
+            <p class="text-sm font-normal text-[#727272] group-hover:text-white text-ellipsis break-word">
               {status.text}
             </p>
           )}
