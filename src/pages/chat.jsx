@@ -187,7 +187,7 @@ export default function HomePage() {
             <span class="text-sm font-semibold text-[#727272] group-hover:text-white">{username}</span>
           </div>
           {status.text !== null && (
-            <p class="text-sm font-normal py-1 text-[#727272] group-hover:text-white overflow-hidden text-ellipsis">
+            <p class="text-sm font-normal text-[#727272] group-hover:text-white overflow-hidden text-ellipsis">
               {status.text}
             </p>
           )}
