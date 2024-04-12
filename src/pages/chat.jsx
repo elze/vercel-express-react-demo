@@ -456,7 +456,7 @@ export default function HomePage() {
           </div>
         </div>
 
-        <div className="word-break: break-all; relative overflow-scroll h-full w-full flex mt-2 flex-col items-stretch">
+        <div className="break-all relative overflow-scroll h-full w-full flex mt-2 flex-col items-stretch">
           {initialUsers.map((user) => {
             return (
               <User
