@@ -127,7 +127,7 @@ const Register = () => {
     if (exists) {
       setUserError('user already exists, [(signup here), bold](/signin)')
     }
-. 
+ 
 
   }
 
