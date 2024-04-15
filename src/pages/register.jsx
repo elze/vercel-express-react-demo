@@ -1,5 +1,6 @@
 import React, { use, useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import supabase from "../utils/supabase.js";
 
 const content = {
   initial: {
@@ -113,15 +114,21 @@ const Register = () => {
 
   const [userError, setUserError] = useState([false, ""]);
   const [passwordError, setPasswordError] = useState([false, ""]);
-
-  function _register(e) {
+  function _rep(inp) {
+    return inp.replace(/\[\(([a-zA-Z]+)\)\,([a-zA-Z]+)\]\(([^]+)\)/, function (title, style, link) {
+      return (<a href={link} class={`font-` + style}>{title}</a>);
+    });
+  }
+  async function _register(e) {
     
     e.preventDefault();
-     
-    setPasswordError([!(password === confirm), "passwords do not match."]);
-
-    if (userError[0] === false && passwordError[0] === false) {
+    var { data: { users }, error } = (await supabase.auth.admin.listUsers());
+    var exists = users.find(account => user.email === account).length >= 1;
+    if (exists) {
+      setUserError('user already exists, [(signup here), bold](/signin)')
     }
+. 
+
   }
 
   return (
@@ -134,7 +141,7 @@ const Register = () => {
     >
       <motion.h1
         variants={title}
-        className="mt-10 mb-5 text-6xl text-white font-roboto"
+        className="mt-10 mb-5 text-6xl text-white font-robotobold"
       >
         Register
       </motion.h1>
@@ -151,8 +158,8 @@ const Register = () => {
       >
         {userError[0]
           ? passwordError[0]
-            ? `${userError[1]} and ${passwordError[1]}`
-            : userError[1]
+            ? `${_rep(userError[1])} and ${_rep(passwordError[1])}`
+            : _rep(userError[1])
           : passwordError[0]
           ? passwordError[1]
           : "Create account"}
@@ -160,7 +167,7 @@ const Register = () => {
 
       <form onSubmit={_register} className="flex flex-col w-full items-center">
         <motion.div variants={title} className="mt-8 mx-1 w-full">
-          <p className="font-grapenuts relative left-0 text-white">USERNAME:</p>
+          <p className="font-grapenuts relative left-0 text-white">EMAIL:</p>
           <input
             onChange={(e) => setUser(e.target.value)}
             value={user}
