@@ -1,6 +1,5 @@
 import React, { use, useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import supabase from "../utils/supabase.js";
 
 const content = {
   initial: {
