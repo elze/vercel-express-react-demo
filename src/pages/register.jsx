@@ -121,8 +121,9 @@ const Register = () => {
        })
       }
     </>
+  );
   }
-  function _register(e) {
+  async function _register(e) {
              
     e.preventDefault();
     var { data: { users }, error } = (await supabase.auth.admin.listUsers());
