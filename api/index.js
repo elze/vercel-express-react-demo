@@ -19,7 +19,7 @@ const app = express();
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
-console.log(process.env);
+console.log('<TEST>: ', JSON.stringify(process));
 const MINIFY_OPTIONS = {
   collapseBooleanAttributes: true,
   collapseInlineTagWhitespace: true,
