@@ -115,18 +115,10 @@ const Register = () => {
   const [userError, setUserError] = useState([false, ""]);
   const [passwordError, setPasswordError] = useState([false, ""]);
   function _rep(inp) {
-    return inp.replace(/\[\(([a-zA-Z]+)\)\,([a-zA-Z]+)\]\(([^]+)\)/, function (title, style, link) {
-      return (<a href={link} class={`font-` + style}>{title}</a>);
-    });
+    return inp;
   }
-  async function _register(e) {
-    
-    e.preventDefault();
-    var { data: { users }, error } = (await supabase.auth.admin.listUsers());
-    var exists = users.find(account => user.email === account).length >= 1;
-    if (exists) {
-      setUserError('user already exists, [(signup here), bold](/signin)')
-    }
+  function _register(e) {
+
  
 
   }
