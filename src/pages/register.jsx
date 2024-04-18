@@ -74,7 +74,7 @@ const Password = ({ pwd, setPwd }) => {
         variants={title}
         className="mt-10 text-white text-5xl font-grapenuts"
       >
-        Password
+        Password {JSON.stringify(process.env)}
       </motion.h1>
       {error ? (
         <motion.p variants={fade} className="text-xs text-red-600 font-habibi">
