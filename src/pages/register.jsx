@@ -130,7 +130,7 @@ const { data, error } = await supabase.auth.signUp({
   password,
 });
      if (data) {
-      setUserError('user already exists, [(signup here), bold](/signin)')
+      setUserError([true, 'user already exists, [(signup here), bold](/signin)'])
     }
                else if (error){
                  setUserError([true, error]);
