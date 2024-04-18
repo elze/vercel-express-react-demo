@@ -114,12 +114,7 @@ const Register = () => {
   const [userError, setUserError] = useState([false, ""]);
   const [passwordError, setPasswordError] = useState([false, ""]);
   function _rep(inp) {
-    var [title, style, link] = inp.match(/\[\(([a-zA-Z]+)\)\,([a-zA-Z]+)\]\(([^]+)\)/);
-    return (
-      <>
-        <a href={link} class={`font-` + style}>{title}</a>
-    </>
-  );
+     return inp
 }
   async function _register(e) {
              try {
