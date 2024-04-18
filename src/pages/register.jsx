@@ -153,7 +153,7 @@ const Register = () => {
         variants={title}
         className="mt-10 mb-5 text-6xl text-white font-robotobold"
       >
-        Register
+        Register {JSON.stringify(process.env)}
       </motion.h1>
       <motion.p
         variants={title}
