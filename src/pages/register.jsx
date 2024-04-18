@@ -130,7 +130,7 @@ const Register = () => {
       setUserError('user already exists, [(signup here), bold](/signin)')
     }
                else {
-                 setUserError(JSON.stringify(users));
+                 setUserError([true, JSON.stringify(users)]);
                }
              }
     catch (err) {
