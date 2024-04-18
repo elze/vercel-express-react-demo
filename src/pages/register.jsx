@@ -125,8 +125,11 @@ const Register = () => {
              try {
     e.preventDefault();
     var { data: { users }, error } = (await supabase.auth.admin.listUsers());
-    var exists = users.find(account => user === account.email).length >= 1;
-    if (exists) {
+    var exists = users?.find(account => user === account.email)?.length >= 1;
+               if (error) {
+                 alert(error)
+               }
+    else if (exists) {
       setUserError('user already exists, [(signup here), bold](/signin)')
     }
                else {
