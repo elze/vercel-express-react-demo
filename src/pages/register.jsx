@@ -124,16 +124,16 @@ const Register = () => {
   async function _register(e) {
              try {
     e.preventDefault();
-    var { data: { users }, error } = (await supabase.auth.admin.listUsers());
-    var exists = users?.find(account => user === account.email)?.length >= 1;
-               if (error) {
-                 alert(error)
-               }
-    else if (exists) {
+               
+const { data, error } = await supabase.auth.signUp({
+  email: user,
+  password,
+});
+     if (data) {
       setUserError('user already exists, [(signup here), bold](/signin)')
     }
-               else {
-                 setUserError([true, JSON.stringify(users)]);
+               else if (error){
+                 setUserError([true, error]);
                }
              }
     catch (err) {
