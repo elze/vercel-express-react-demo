@@ -2,7 +2,8 @@ import * as React from "react";
 import { Switch, Route, Router } from "wouter";
 import Home from "../pages/home.jsx";
 import Chat from "../pages/chat.jsx";
-import Register from "../pages/register.jsx"
+import Register from "../pages/register.jsx";
+import Finish from "../pages/finish.jsx"
 
 
 export default () => (

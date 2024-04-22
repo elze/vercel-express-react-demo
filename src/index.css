@@ -1062,10 +1062,17 @@ body.chat-app {
 }
 
 label {
-  transform:scale(0) !important;
+  transform:scale(0);
+  transform-origin: 0;
+
   display: inline-block;
   transition: all .4s;
 }
-:has(#email:focus) label {
+:has(#password:focus) label[for="password"] {
+  transform-origin: 0;
+  transform: scale(1);
+}
+:has(#email:focus) label[for="email"] {
+  transform-origin: 0;
   transform: scale(1);
 }
