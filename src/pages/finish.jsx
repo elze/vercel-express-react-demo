@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import supabase from '../utils/supabase.js';
 
 export default function Finish() {
-
-    supabase.auth.getSession().then(data => {
-       window.location.href = '/@me#' + data.data.session.user.id;
-    });
-
+     useEffect(() => {
+        supabase.auth.getSession().then(({data}) => {
+         window.alert(JSON.stringify(data))
+        })
+     }, []);
     return <div />;
 
 }
