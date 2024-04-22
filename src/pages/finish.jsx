@@ -5,8 +5,7 @@ import supabase from '../utils/supabase.js';
 export default function Finish() {
 
     supabase.auth.getSession().then(data => {
-        window.alert(JSON.stringify(data.data.session.user));
-       window.location.href = '/@me?uuid=' + data.data.session.user.id;
+       window.location.href = '/@me#' + data.data.session.user.id;
     });
 
     return <div />;

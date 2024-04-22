@@ -67,7 +67,6 @@ const Register = () => {
         Create an account
 
       </h1>
-      <form class="space-y-4 md:space-y-6" action="#" onSubmit={_register}>
         <Auth
           supabaseClient={supabase}
 
@@ -103,7 +102,6 @@ const Register = () => {
           }
 
         />
-      </form>
     </>
   );
   async function _register(e) {
