@@ -11,5 +11,7 @@ export default () => (
     <Route path="/" component={Home}></Route>
     <Route path="/@me" component={Chat}></Route>
     <Route path="/register" component={Register}></Route>
+    <Route path="/finish" component={Finish}></Route>
+
   </Switch>
 );
