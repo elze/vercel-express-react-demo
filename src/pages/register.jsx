@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import supabase from "../utils/supabase.js";
 import AuthContext from "../components/auth.jsx";
 import { useNavigate } from "react-router-dom";
-import Expire from "../components/Expire.js";
+import Expire from "../components/Expire.jsx";
 import { Auth } from '@supabase/auth-ui-react'
 import { ThemeSupa } from "@supabase/auth-ui-shared";
 const content = {

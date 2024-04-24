@@ -34,6 +34,7 @@
     "react-text-transition": "^3.1.0",
     "socket.io": "^4.5.4",
     "style-loader": "^3.3.4",
+    "supabase": "^1.163.2",
     "tailwind": "^4.0.0",
     "tailwindcss": "3.4.3",
     "tailwindcss-webpack-plugin": "^0.0.12",
